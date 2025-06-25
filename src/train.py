@@ -3,13 +3,13 @@ import numpy as np
 from model import RandomForestRegressor
 from joblib import dump
 
-data = pd.read_csv('/data/data_soiree_train.csv')
+data = pd.read_csv('./data/data_soiree_sans_boit_ce_soir.csv')
 
 # Préparation des données
-X = pd.get_dummies(data.drop(columns=["biere", "soft", "pizza"]))
+X = pd.get_dummies(data.drop(columns=["biere", "verre_soft", "part_pizza"]))
 y_biere = data["biere"]
-y_soft = data["soft"]
-y_pizza = data["pizza"]
+y_soft = data["verre_soft"]
+y_pizza = data["part_pizza"]
 
 # Entraînement
 model_biere = RandomForestRegressor(n_estimators=10)
@@ -22,6 +22,6 @@ model_pizza = RandomForestRegressor(n_estimators=10)
 model_pizza.fit(X.to_numpy(), y_pizza.to_numpy())
 
 # Sauvegarde des modèles et colonnes
-dump((model_biere, X.columns.tolist()), "model/model_biere.joblib")
-dump((model_soft, X.columns.tolist()), "model/model_soft.joblib")
-dump((model_pizza, X.columns.tolist()), "model/model_pizza.joblib")
+dump((model_biere, X.columns.tolist()), "./model/model_biere.joblib")
+dump((model_soft, X.columns.tolist()), "./model/model_soft.joblib")
+dump((model_pizza, X.columns.tolist()), "./model/model_pizza.joblib")

@@ -1,1001 +1,1001 @@
-saison,lieu,heure_debut,heure_fin,genre,age,taille,poids,conso_level,boit_ce_soir,biere,soft,pizza
-été,intérieur,2025-12-09T18:00:00,2025-12-09T22:00:00,homme,52,1.54,77,occasionnel,pas du tout,0,2,2
-été,intérieur,2025-12-09T18:00:00,2025-12-09T22:00:00,homme,31,1.62,88,occasionnel,peu,0,2,2
-été,intérieur,2025-12-09T18:00:00,2025-12-09T22:00:00,femme,32,1.72,67,occasionnel,peu,0,2,2
-été,intérieur,2025-12-09T18:00:00,2025-12-09T22:00:00,femme,39,1.64,63,régulier,pas du tout,0,2,2
-été,extérieur,2025-02-12T19:00:00,2025-02-13T02:00:00,homme,47,1.77,74,occasionnel,normal,1,1,2
-été,extérieur,2025-02-12T19:00:00,2025-02-13T02:00:00,femme,54,1.6,54,occasionnel,peu,1,1,2
-été,extérieur,2025-02-12T19:00:00,2025-02-13T02:00:00,femme,23,1.93,56,régulier,normal,1,1,2
-été,extérieur,2025-02-12T19:00:00,2025-02-13T02:00:00,femme,58,1.92,60,régulier,normal,1,1,2
-été,extérieur,2025-02-12T19:00:00,2025-02-13T02:00:00,homme,60,1.63,93,aguerri,pas du tout,1,1,2
-hiver,intérieur,2025-03-15T20:00:00,2025-03-16T01:00:00,homme,38,1.92,99,occasionnel,peu,2,1,2
-hiver,intérieur,2025-03-15T20:00:00,2025-03-16T01:00:00,homme,38,1.7,54,occasionnel,normal,2,1,2
-hiver,intérieur,2025-03-15T20:00:00,2025-03-16T01:00:00,homme,59,1.75,91,régulier,peu,2,1,2
-hiver,intérieur,2025-03-15T20:00:00,2025-03-16T01:00:00,femme,26,1.62,85,aguerri,normal,2,1,2
-hiver,intérieur,2025-03-15T20:00:00,2025-03-16T01:00:00,femme,55,1.7,64,occasionnel,beaucoup,2,1,2
-hiver,intérieur,2025-03-15T20:00:00,2025-03-16T01:00:00,homme,21,1.93,59,aguerri,peu,2,1,2
-hiver,intérieur,2025-03-15T20:00:00,2025-03-16T01:00:00,femme,56,1.53,74,aguerri,beaucoup,2,1,2
-hiver,intérieur,2025-03-15T20:00:00,2025-03-16T01:00:00,femme,53,1.93,50,aguerri,pas du tout,2,1,2
-printemps,extérieur,2025-02-10T20:00:00,2025-02-11T00:00:00,homme,34,1.99,98,occasionnel,pas du tout,2,1,2
-printemps,extérieur,2025-02-10T20:00:00,2025-02-11T00:00:00,femme,58,1.75,62,occasionnel,normal,2,1,2
-printemps,extérieur,2025-02-10T20:00:00,2025-02-11T00:00:00,homme,52,1.98,83,occasionnel,normal,2,1,2
-printemps,extérieur,2025-02-10T20:00:00,2025-02-11T00:00:00,femme,19,1.56,73,régulier,peu,2,1,2
-printemps,extérieur,2025-02-10T20:00:00,2025-02-11T00:00:00,homme,33,1.94,55,occasionnel,beaucoup,2,1,2
-printemps,extérieur,2025-02-10T20:00:00,2025-02-11T00:00:00,homme,52,1.88,58,aguerri,beaucoup,2,1,2
-hiver,extérieur,2025-09-28T21:00:00,2025-09-29T03:00:00,homme,37,1.7,92,aguerri,normal,1,2,2
-hiver,extérieur,2025-09-28T21:00:00,2025-09-29T03:00:00,femme,51,1.73,65,occasionnel,pas du tout,1,2,2
-hiver,extérieur,2025-09-28T21:00:00,2025-09-29T03:00:00,femme,19,1.79,64,aguerri,peu,1,2,2
-hiver,extérieur,2025-09-28T21:00:00,2025-09-29T03:00:00,homme,22,1.85,53,occasionnel,pas du tout,1,2,2
-été,extérieur,2025-02-17T18:00:00,2025-02-17T23:00:00,femme,31,1.77,96,aguerri,beaucoup,1,2,2
-été,extérieur,2025-02-17T18:00:00,2025-02-17T23:00:00,homme,48,1.9,62,occasionnel,pas du tout,1,2,2
-été,extérieur,2025-02-17T18:00:00,2025-02-17T23:00:00,femme,40,1.71,79,aguerri,pas du tout,1,2,2
-été,extérieur,2025-02-17T18:00:00,2025-02-17T23:00:00,homme,21,1.7,71,occasionnel,peu,1,2,2
-été,extérieur,2025-02-17T18:00:00,2025-02-17T23:00:00,homme,30,1.77,58,régulier,peu,1,2,2
-été,extérieur,2025-02-17T18:00:00,2025-02-17T23:00:00,femme,47,1.62,54,régulier,pas du tout,1,2,2
-été,extérieur,2025-02-17T18:00:00,2025-02-17T23:00:00,homme,59,2.0,50,occasionnel,peu,1,2,2
-été,extérieur,2025-02-17T18:00:00,2025-02-17T23:00:00,homme,44,1.74,63,régulier,pas du tout,1,2,2
-hiver,extérieur,2025-01-13T19:00:00,2025-01-14T01:00:00,femme,53,1.83,81,occasionnel,peu,0,2,2
-hiver,extérieur,2025-01-13T19:00:00,2025-01-14T01:00:00,femme,31,1.98,87,aguerri,pas du tout,0,2,2
-hiver,extérieur,2025-01-13T19:00:00,2025-01-14T01:00:00,femme,21,1.53,80,aguerri,peu,0,2,2
-hiver,extérieur,2025-01-13T19:00:00,2025-01-14T01:00:00,homme,50,1.54,61,occasionnel,pas du tout,0,2,2
-hiver,extérieur,2025-01-13T19:00:00,2025-01-14T01:00:00,homme,43,1.56,86,occasionnel,pas du tout,0,2,2
-été,extérieur,2025-11-19T21:00:00,2025-11-20T04:00:00,femme,31,1.83,70,occasionnel,normal,1,1,2
-été,extérieur,2025-11-19T21:00:00,2025-11-20T04:00:00,femme,26,1.84,69,régulier,normal,1,1,2
-été,extérieur,2025-11-19T21:00:00,2025-11-20T04:00:00,homme,18,1.73,86,occasionnel,pas du tout,1,1,2
-été,extérieur,2025-11-19T21:00:00,2025-11-20T04:00:00,homme,50,1.63,72,occasionnel,peu,1,1,2
-été,extérieur,2025-11-19T21:00:00,2025-11-20T04:00:00,femme,36,1.58,84,aguerri,normal,1,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T23:00:00,homme,53,1.58,68,aguerri,peu,2,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T23:00:00,femme,31,1.84,66,aguerri,beaucoup,2,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T23:00:00,femme,21,1.55,77,régulier,pas du tout,2,1,2
-été,extérieur,2025-03-21T19:00:00,2025-03-21T23:00:00,femme,53,1.85,85,occasionnel,pas du tout,1,1,2
-été,extérieur,2025-03-21T19:00:00,2025-03-21T23:00:00,homme,27,1.77,73,aguerri,peu,1,1,2
-été,extérieur,2025-03-21T19:00:00,2025-03-21T23:00:00,femme,26,1.52,73,occasionnel,normal,1,1,2
-été,extérieur,2025-03-21T19:00:00,2025-03-21T23:00:00,homme,33,1.83,72,aguerri,beaucoup,1,1,2
-été,extérieur,2025-03-21T19:00:00,2025-03-21T23:00:00,homme,33,1.93,61,régulier,pas du tout,1,1,2
-été,extérieur,2025-03-21T19:00:00,2025-03-21T23:00:00,homme,39,1.89,76,aguerri,peu,1,1,2
-été,extérieur,2025-03-21T19:00:00,2025-03-21T23:00:00,femme,28,1.89,56,régulier,pas du tout,1,1,2
-été,extérieur,2025-03-21T19:00:00,2025-03-21T23:00:00,femme,32,1.6,79,régulier,normal,1,1,2
-hiver,intérieur,2025-01-22T18:00:00,2025-01-23T00:00:00,femme,22,1.98,67,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-01-22T18:00:00,2025-01-23T00:00:00,femme,19,1.56,66,occasionnel,normal,2,1,2
-hiver,intérieur,2025-01-22T18:00:00,2025-01-23T00:00:00,homme,24,1.8,72,aguerri,normal,2,1,2
-hiver,intérieur,2025-01-22T18:00:00,2025-01-23T00:00:00,femme,56,1.99,57,régulier,peu,2,1,2
-hiver,intérieur,2025-01-22T18:00:00,2025-01-23T00:00:00,femme,20,1.85,50,aguerri,peu,2,1,2
-printemps,extérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,homme,37,1.75,92,régulier,normal,2,1,2
-printemps,extérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,femme,36,1.78,62,régulier,beaucoup,2,1,2
-printemps,extérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,homme,57,1.78,75,aguerri,pas du tout,2,1,2
-printemps,extérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,femme,36,1.61,100,aguerri,normal,2,1,2
-printemps,extérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,femme,46,1.72,63,aguerri,beaucoup,2,1,2
-hiver,intérieur,2025-05-17T21:00:00,2025-05-18T02:00:00,homme,37,1.61,62,occasionnel,pas du tout,2,1,2
-hiver,intérieur,2025-05-17T21:00:00,2025-05-18T02:00:00,homme,33,1.99,89,occasionnel,beaucoup,2,1,2
-hiver,intérieur,2025-05-17T21:00:00,2025-05-18T02:00:00,femme,58,1.79,95,aguerri,beaucoup,2,1,2
-automne,extérieur,2025-04-05T17:00:00,2025-04-05T20:00:00,homme,29,1.9,94,aguerri,beaucoup,2,1,2
-automne,extérieur,2025-04-05T17:00:00,2025-04-05T20:00:00,homme,53,1.62,57,régulier,peu,2,1,2
-automne,extérieur,2025-04-05T17:00:00,2025-04-05T20:00:00,femme,60,1.77,85,aguerri,normal,2,1,2
-automne,extérieur,2025-04-05T17:00:00,2025-04-05T20:00:00,femme,57,1.91,82,régulier,beaucoup,2,1,2
-automne,extérieur,2025-04-05T17:00:00,2025-04-05T20:00:00,homme,48,1.73,98,occasionnel,normal,2,1,2
-automne,extérieur,2025-04-05T17:00:00,2025-04-05T20:00:00,femme,58,1.62,78,occasionnel,normal,2,1,2
-hiver,extérieur,2025-06-11T21:00:00,2025-06-12T00:00:00,homme,32,1.69,59,aguerri,peu,2,1,2
-hiver,extérieur,2025-06-11T21:00:00,2025-06-12T00:00:00,homme,44,1.7,84,régulier,beaucoup,2,1,2
-hiver,extérieur,2025-06-11T21:00:00,2025-06-12T00:00:00,homme,31,1.92,74,aguerri,pas du tout,2,1,2
-hiver,extérieur,2025-06-11T21:00:00,2025-06-12T00:00:00,femme,48,1.5,72,régulier,beaucoup,2,1,2
-automne,intérieur,2025-08-08T19:00:00,2025-08-09T01:00:00,homme,42,1.67,93,régulier,peu,1,1,2
-automne,intérieur,2025-08-08T19:00:00,2025-08-09T01:00:00,femme,26,1.99,84,occasionnel,beaucoup,1,1,2
-automne,intérieur,2025-08-08T19:00:00,2025-08-09T01:00:00,homme,23,1.82,58,régulier,peu,1,1,2
-automne,intérieur,2025-08-08T19:00:00,2025-08-09T01:00:00,homme,34,1.69,63,régulier,normal,1,1,2
-automne,intérieur,2025-08-08T19:00:00,2025-08-09T01:00:00,femme,42,1.64,76,régulier,pas du tout,1,1,2
-automne,intérieur,2025-08-08T19:00:00,2025-08-09T01:00:00,femme,19,1.87,53,régulier,peu,1,1,2
-été,intérieur,2025-01-08T18:00:00,2025-01-08T21:00:00,homme,33,1.56,92,occasionnel,peu,1,1,2
-été,intérieur,2025-01-08T18:00:00,2025-01-08T21:00:00,femme,34,1.88,60,aguerri,pas du tout,1,1,2
-été,intérieur,2025-01-08T18:00:00,2025-01-08T21:00:00,homme,37,1.55,51,régulier,beaucoup,1,1,2
-été,intérieur,2025-01-08T18:00:00,2025-01-08T21:00:00,femme,30,1.54,94,aguerri,peu,1,1,2
-été,intérieur,2025-01-08T18:00:00,2025-01-08T21:00:00,homme,37,1.93,88,occasionnel,pas du tout,1,1,2
-été,intérieur,2025-01-08T18:00:00,2025-01-08T21:00:00,femme,52,1.71,73,occasionnel,normal,1,1,2
-été,intérieur,2025-01-08T18:00:00,2025-01-08T21:00:00,homme,44,1.91,56,régulier,normal,1,1,2
-automne,intérieur,2025-07-06T21:00:00,2025-07-07T05:00:00,femme,47,1.72,96,aguerri,normal,2,1,2
-automne,intérieur,2025-07-06T21:00:00,2025-07-07T05:00:00,femme,33,1.92,55,régulier,beaucoup,2,1,2
-automne,intérieur,2025-07-06T21:00:00,2025-07-07T05:00:00,homme,47,1.78,92,régulier,normal,2,1,2
-automne,intérieur,2025-07-06T21:00:00,2025-07-07T05:00:00,homme,49,1.93,61,régulier,peu,2,1,2
-automne,intérieur,2025-07-06T21:00:00,2025-07-07T05:00:00,femme,34,1.67,88,aguerri,normal,2,1,2
-été,intérieur,2025-02-08T20:00:00,2025-02-09T02:00:00,homme,48,1.82,81,régulier,pas du tout,1,1,2
-été,intérieur,2025-02-08T20:00:00,2025-02-09T02:00:00,homme,36,1.61,94,occasionnel,normal,1,1,2
-été,intérieur,2025-02-08T20:00:00,2025-02-09T02:00:00,femme,48,1.78,72,régulier,normal,1,1,2
-été,intérieur,2025-02-08T20:00:00,2025-02-09T02:00:00,femme,47,1.64,66,occasionnel,pas du tout,1,1,2
-été,intérieur,2025-02-08T20:00:00,2025-02-09T02:00:00,homme,38,1.56,84,aguerri,peu,1,1,2
-été,intérieur,2025-02-08T20:00:00,2025-02-09T02:00:00,homme,31,1.87,67,aguerri,normal,1,1,2
-été,intérieur,2025-02-08T20:00:00,2025-02-09T02:00:00,homme,30,1.65,73,occasionnel,normal,1,1,2
-été,intérieur,2025-05-02T17:00:00,2025-05-03T00:00:00,homme,58,1.93,81,occasionnel,pas du tout,2,1,2
-été,intérieur,2025-05-02T17:00:00,2025-05-03T00:00:00,femme,48,1.74,71,occasionnel,pas du tout,2,1,2
-été,intérieur,2025-05-02T17:00:00,2025-05-03T00:00:00,femme,48,1.56,54,régulier,beaucoup,2,1,2
-été,intérieur,2025-05-02T17:00:00,2025-05-03T00:00:00,homme,54,1.81,53,occasionnel,peu,2,1,2
-été,intérieur,2025-05-02T17:00:00,2025-05-03T00:00:00,femme,23,2.0,57,aguerri,beaucoup,2,1,2
-hiver,extérieur,2025-08-15T19:00:00,2025-08-16T02:00:00,femme,54,1.81,89,aguerri,pas du tout,1,1,2
-hiver,extérieur,2025-08-15T19:00:00,2025-08-16T02:00:00,homme,58,1.61,92,occasionnel,peu,1,1,2
-hiver,extérieur,2025-08-15T19:00:00,2025-08-16T02:00:00,homme,29,1.78,60,occasionnel,beaucoup,1,1,2
-hiver,extérieur,2025-08-15T19:00:00,2025-08-16T02:00:00,femme,56,1.73,52,occasionnel,normal,1,1,2
-hiver,extérieur,2025-08-15T19:00:00,2025-08-16T02:00:00,femme,47,1.54,64,régulier,peu,1,1,2
-hiver,extérieur,2025-08-15T19:00:00,2025-08-16T02:00:00,femme,25,1.77,91,occasionnel,normal,1,1,2
-hiver,intérieur,2025-01-06T19:00:00,2025-01-07T02:00:00,femme,46,1.56,94,régulier,beaucoup,1,1,2
-hiver,intérieur,2025-01-06T19:00:00,2025-01-07T02:00:00,femme,50,1.77,78,occasionnel,pas du tout,1,1,2
-hiver,intérieur,2025-01-06T19:00:00,2025-01-07T02:00:00,femme,38,1.8,51,occasionnel,peu,1,1,2
-hiver,intérieur,2025-01-06T19:00:00,2025-01-07T02:00:00,homme,35,1.79,98,occasionnel,beaucoup,1,1,2
-hiver,intérieur,2025-01-06T19:00:00,2025-01-07T02:00:00,femme,35,1.59,87,régulier,beaucoup,1,1,2
-hiver,intérieur,2025-01-06T19:00:00,2025-01-07T02:00:00,homme,48,1.67,71,régulier,pas du tout,1,1,2
-hiver,intérieur,2025-01-06T19:00:00,2025-01-07T02:00:00,homme,39,1.71,81,régulier,beaucoup,1,1,2
-hiver,intérieur,2025-01-06T19:00:00,2025-01-07T02:00:00,homme,47,1.54,66,régulier,pas du tout,1,1,2
-automne,intérieur,2025-11-28T21:00:00,2025-11-29T03:00:00,homme,30,1.76,89,régulier,beaucoup,2,1,2
-automne,intérieur,2025-11-28T21:00:00,2025-11-29T03:00:00,homme,31,1.63,58,régulier,beaucoup,2,1,2
-automne,intérieur,2025-11-28T21:00:00,2025-11-29T03:00:00,femme,25,1.51,90,aguerri,peu,2,1,2
-automne,intérieur,2025-11-28T21:00:00,2025-11-29T03:00:00,homme,37,1.78,85,régulier,pas du tout,2,1,2
-automne,intérieur,2025-11-28T21:00:00,2025-11-29T03:00:00,homme,25,1.73,57,aguerri,peu,2,1,2
-automne,intérieur,2025-11-28T21:00:00,2025-11-29T03:00:00,femme,36,1.75,67,régulier,beaucoup,2,1,2
-automne,intérieur,2025-08-18T18:00:00,2025-08-19T00:00:00,homme,22,1.64,100,régulier,normal,3,1,2
-automne,intérieur,2025-08-18T18:00:00,2025-08-19T00:00:00,femme,18,1.64,69,aguerri,beaucoup,3,1,2
-automne,intérieur,2025-08-18T18:00:00,2025-08-19T00:00:00,homme,46,1.77,72,régulier,beaucoup,3,1,2
-automne,intérieur,2025-08-18T18:00:00,2025-08-19T00:00:00,femme,38,1.93,94,occasionnel,beaucoup,3,1,2
-hiver,extérieur,2025-01-11T20:00:00,2025-01-12T04:00:00,femme,60,1.9,91,occasionnel,beaucoup,1,1,2
-hiver,extérieur,2025-01-11T20:00:00,2025-01-12T04:00:00,homme,26,1.75,87,régulier,pas du tout,1,1,2
-hiver,extérieur,2025-01-11T20:00:00,2025-01-12T04:00:00,femme,24,1.76,79,occasionnel,peu,1,1,2
-hiver,extérieur,2025-01-11T20:00:00,2025-01-12T04:00:00,femme,59,1.98,54,régulier,normal,1,1,2
-hiver,extérieur,2025-01-11T20:00:00,2025-01-12T04:00:00,femme,57,1.85,91,occasionnel,normal,1,1,2
-hiver,extérieur,2025-01-11T20:00:00,2025-01-12T04:00:00,femme,38,1.81,98,régulier,pas du tout,1,1,2
-été,intérieur,2025-11-22T19:00:00,2025-11-22T23:00:00,homme,45,1.99,98,aguerri,pas du tout,1,1,2
-été,intérieur,2025-11-22T19:00:00,2025-11-22T23:00:00,femme,28,1.85,51,occasionnel,normal,1,1,2
-été,intérieur,2025-11-22T19:00:00,2025-11-22T23:00:00,homme,36,1.68,77,occasionnel,peu,1,1,2
-été,intérieur,2025-11-22T19:00:00,2025-11-22T23:00:00,femme,54,1.84,61,occasionnel,peu,1,1,2
-été,intérieur,2025-11-22T19:00:00,2025-11-22T23:00:00,homme,57,1.94,89,aguerri,peu,1,1,2
-été,intérieur,2025-11-22T19:00:00,2025-11-22T23:00:00,femme,55,1.57,79,aguerri,normal,1,1,2
-été,intérieur,2025-11-22T19:00:00,2025-11-22T23:00:00,femme,34,1.83,79,régulier,peu,1,1,2
-été,intérieur,2025-11-22T19:00:00,2025-11-22T23:00:00,homme,46,1.97,87,régulier,beaucoup,1,1,2
-printemps,extérieur,2025-05-07T20:00:00,2025-05-08T02:00:00,homme,42,1.79,86,régulier,normal,2,1,2
-printemps,extérieur,2025-05-07T20:00:00,2025-05-08T02:00:00,homme,60,1.7,50,aguerri,pas du tout,2,1,2
-printemps,extérieur,2025-05-07T20:00:00,2025-05-08T02:00:00,femme,36,1.89,64,aguerri,normal,2,1,2
-hiver,intérieur,2025-10-09T18:00:00,2025-10-10T02:00:00,homme,37,1.89,52,aguerri,normal,3,1,2
-hiver,intérieur,2025-10-09T18:00:00,2025-10-10T02:00:00,homme,23,1.95,70,aguerri,beaucoup,3,1,2
-hiver,intérieur,2025-10-09T18:00:00,2025-10-10T02:00:00,homme,30,1.57,84,régulier,normal,3,1,2
-hiver,extérieur,2025-08-26T19:00:00,2025-08-27T03:00:00,homme,47,1.98,59,occasionnel,beaucoup,2,1,2
-hiver,extérieur,2025-08-26T19:00:00,2025-08-27T03:00:00,femme,23,1.9,50,régulier,pas du tout,2,1,2
-hiver,extérieur,2025-08-26T19:00:00,2025-08-27T03:00:00,femme,41,1.84,93,régulier,beaucoup,2,1,2
-hiver,extérieur,2025-08-26T19:00:00,2025-08-27T03:00:00,femme,24,1.84,80,occasionnel,normal,2,1,2
-hiver,extérieur,2025-08-26T19:00:00,2025-08-27T03:00:00,homme,59,1.53,79,aguerri,normal,2,1,2
-automne,intérieur,2025-03-02T17:00:00,2025-03-02T22:00:00,homme,24,1.62,84,occasionnel,beaucoup,3,1,2
-automne,intérieur,2025-03-02T17:00:00,2025-03-02T22:00:00,femme,41,1.84,97,aguerri,beaucoup,3,1,2
-automne,intérieur,2025-03-02T17:00:00,2025-03-02T22:00:00,homme,44,1.83,81,aguerri,beaucoup,3,1,2
-automne,intérieur,2025-03-02T17:00:00,2025-03-02T22:00:00,femme,20,1.85,63,régulier,beaucoup,3,1,2
-automne,intérieur,2025-03-02T17:00:00,2025-03-02T22:00:00,homme,41,1.55,93,régulier,normal,3,1,2
-automne,intérieur,2025-03-02T17:00:00,2025-03-02T22:00:00,homme,43,1.64,57,régulier,pas du tout,3,1,2
-hiver,intérieur,2025-01-26T19:00:00,2025-01-26T23:00:00,homme,22,1.91,85,occasionnel,peu,1,2,2
-hiver,intérieur,2025-01-26T19:00:00,2025-01-26T23:00:00,homme,39,1.89,100,aguerri,pas du tout,1,2,2
-hiver,intérieur,2025-01-26T19:00:00,2025-01-26T23:00:00,femme,27,1.99,84,régulier,peu,1,2,2
-hiver,intérieur,2025-01-26T19:00:00,2025-01-26T23:00:00,homme,60,1.93,58,occasionnel,normal,1,2,2
-hiver,extérieur,2025-01-06T19:00:00,2025-01-06T22:00:00,femme,51,1.56,54,régulier,beaucoup,1,2,2
-hiver,extérieur,2025-01-06T19:00:00,2025-01-06T22:00:00,femme,50,1.8,78,aguerri,peu,1,2,2
-hiver,extérieur,2025-01-06T19:00:00,2025-01-06T22:00:00,homme,60,1.76,79,aguerri,pas du tout,1,2,2
-hiver,extérieur,2025-01-06T19:00:00,2025-01-06T22:00:00,homme,48,1.92,77,aguerri,pas du tout,1,2,2
-automne,extérieur,2025-02-03T19:00:00,2025-02-04T02:00:00,homme,26,1.64,90,aguerri,normal,3,1,2
-automne,extérieur,2025-02-03T19:00:00,2025-02-04T02:00:00,femme,56,1.77,79,aguerri,beaucoup,3,1,2
-automne,extérieur,2025-02-03T19:00:00,2025-02-04T02:00:00,homme,25,1.93,91,aguerri,peu,3,1,2
-automne,extérieur,2025-02-03T19:00:00,2025-02-04T02:00:00,femme,46,1.94,76,régulier,beaucoup,3,1,2
-automne,extérieur,2025-12-04T19:00:00,2025-12-05T01:00:00,femme,41,1.98,93,régulier,pas du tout,2,2,2
-automne,extérieur,2025-12-04T19:00:00,2025-12-05T01:00:00,homme,23,1.55,56,aguerri,normal,2,2,2
-automne,extérieur,2025-12-04T19:00:00,2025-12-05T01:00:00,homme,53,1.53,85,aguerri,normal,2,2,2
-automne,extérieur,2025-12-04T19:00:00,2025-12-05T01:00:00,homme,44,1.68,92,régulier,pas du tout,2,2,2
-automne,extérieur,2025-12-04T19:00:00,2025-12-05T01:00:00,femme,56,1.66,56,aguerri,peu,2,2,2
-hiver,extérieur,2025-04-28T17:00:00,2025-04-28T22:00:00,femme,25,1.88,86,occasionnel,beaucoup,2,1,2
-hiver,extérieur,2025-04-28T17:00:00,2025-04-28T22:00:00,homme,56,1.96,94,régulier,pas du tout,2,1,2
-hiver,extérieur,2025-04-28T17:00:00,2025-04-28T22:00:00,homme,35,1.85,69,régulier,normal,2,1,2
-hiver,extérieur,2025-04-28T17:00:00,2025-04-28T22:00:00,homme,29,1.93,86,aguerri,beaucoup,2,1,2
-hiver,extérieur,2025-04-28T17:00:00,2025-04-28T22:00:00,homme,27,1.87,51,occasionnel,peu,2,1,2
-hiver,extérieur,2025-04-28T17:00:00,2025-04-28T22:00:00,femme,44,1.73,60,régulier,normal,2,1,2
-hiver,extérieur,2025-04-28T17:00:00,2025-04-28T22:00:00,femme,54,1.8,53,occasionnel,peu,2,1,2
-été,intérieur,2025-05-15T20:00:00,2025-05-16T02:00:00,femme,44,1.64,98,aguerri,pas du tout,2,1,2
-été,intérieur,2025-05-15T20:00:00,2025-05-16T02:00:00,femme,45,1.56,93,aguerri,beaucoup,2,1,2
-été,intérieur,2025-05-15T20:00:00,2025-05-16T02:00:00,femme,20,1.61,88,occasionnel,pas du tout,2,1,2
-été,intérieur,2025-05-15T20:00:00,2025-05-16T02:00:00,homme,37,1.97,99,occasionnel,normal,2,1,2
-été,intérieur,2025-05-15T20:00:00,2025-05-16T02:00:00,femme,38,1.56,81,aguerri,beaucoup,2,1,2
-été,intérieur,2025-05-15T20:00:00,2025-05-16T02:00:00,homme,26,1.69,95,occasionnel,normal,2,1,2
-été,intérieur,2025-05-15T20:00:00,2025-05-16T02:00:00,homme,43,1.93,52,régulier,pas du tout,2,1,2
-automne,intérieur,2025-06-19T20:00:00,2025-06-20T03:00:00,femme,36,1.56,51,régulier,peu,1,1,2
-automne,intérieur,2025-06-19T20:00:00,2025-06-20T03:00:00,femme,41,1.54,56,occasionnel,beaucoup,1,1,2
-automne,intérieur,2025-06-19T20:00:00,2025-06-20T03:00:00,femme,51,1.54,69,aguerri,normal,1,1,2
-automne,intérieur,2025-06-19T20:00:00,2025-06-20T03:00:00,homme,39,1.89,54,aguerri,pas du tout,1,1,2
-automne,intérieur,2025-06-19T20:00:00,2025-06-20T03:00:00,homme,40,1.68,91,occasionnel,peu,1,1,2
-automne,intérieur,2025-06-19T20:00:00,2025-06-20T03:00:00,homme,27,1.63,61,aguerri,peu,1,1,2
-été,intérieur,2025-11-16T20:00:00,2025-11-17T03:00:00,femme,54,1.82,89,régulier,normal,2,1,2
-été,intérieur,2025-11-16T20:00:00,2025-11-17T03:00:00,homme,46,1.53,78,aguerri,normal,2,1,2
-été,intérieur,2025-11-16T20:00:00,2025-11-17T03:00:00,femme,55,1.53,82,occasionnel,normal,2,1,2
-été,intérieur,2025-11-16T20:00:00,2025-11-17T03:00:00,femme,46,1.52,73,régulier,pas du tout,2,1,2
-été,intérieur,2025-11-16T20:00:00,2025-11-17T03:00:00,homme,57,1.8,74,régulier,pas du tout,2,1,2
-été,intérieur,2025-11-16T20:00:00,2025-11-17T03:00:00,femme,54,1.83,70,aguerri,beaucoup,2,1,2
-été,intérieur,2025-11-16T20:00:00,2025-11-17T03:00:00,homme,21,1.73,71,aguerri,pas du tout,2,1,2
-hiver,intérieur,2025-04-23T20:00:00,2025-04-24T02:00:00,homme,41,1.69,68,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-04-23T20:00:00,2025-04-24T02:00:00,femme,56,1.53,90,aguerri,normal,2,1,2
-hiver,intérieur,2025-04-23T20:00:00,2025-04-24T02:00:00,homme,39,1.55,93,régulier,normal,2,1,2
-hiver,intérieur,2025-04-23T20:00:00,2025-04-24T02:00:00,femme,60,1.98,88,occasionnel,normal,2,1,2
-hiver,intérieur,2025-04-23T20:00:00,2025-04-24T02:00:00,homme,55,1.83,72,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-04-23T20:00:00,2025-04-24T02:00:00,homme,56,1.85,55,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-04-23T20:00:00,2025-04-24T02:00:00,femme,26,1.84,97,aguerri,pas du tout,2,1,2
-automne,extérieur,2025-01-12T19:00:00,2025-01-12T23:00:00,femme,49,1.6,58,occasionnel,pas du tout,1,2,2
-automne,extérieur,2025-01-12T19:00:00,2025-01-12T23:00:00,femme,24,1.75,84,aguerri,pas du tout,1,2,2
-automne,extérieur,2025-01-12T19:00:00,2025-01-12T23:00:00,femme,57,1.57,74,occasionnel,peu,1,2,2
-automne,extérieur,2025-01-12T19:00:00,2025-01-12T23:00:00,homme,57,1.9,60,aguerri,beaucoup,1,2,2
-été,extérieur,2025-06-22T18:00:00,2025-06-23T00:00:00,femme,46,1.62,65,régulier,beaucoup,2,1,2
-été,extérieur,2025-06-22T18:00:00,2025-06-23T00:00:00,homme,41,1.84,86,régulier,beaucoup,2,1,2
-été,extérieur,2025-06-22T18:00:00,2025-06-23T00:00:00,femme,42,1.75,76,occasionnel,peu,2,1,2
-été,extérieur,2025-06-22T18:00:00,2025-06-23T00:00:00,homme,34,1.53,80,régulier,pas du tout,2,1,2
-été,extérieur,2025-06-22T18:00:00,2025-06-23T00:00:00,homme,36,1.54,60,régulier,beaucoup,2,1,2
-été,extérieur,2025-06-22T18:00:00,2025-06-23T00:00:00,homme,45,1.55,64,régulier,normal,2,1,2
-été,extérieur,2025-06-22T18:00:00,2025-06-23T00:00:00,homme,44,1.53,82,régulier,peu,2,1,2
-automne,intérieur,2025-06-08T17:00:00,2025-06-08T22:00:00,femme,27,1.57,68,régulier,peu,2,1,2
-automne,intérieur,2025-06-08T17:00:00,2025-06-08T22:00:00,femme,46,1.81,55,occasionnel,normal,2,1,2
-automne,intérieur,2025-06-08T17:00:00,2025-06-08T22:00:00,homme,27,1.77,96,aguerri,beaucoup,2,1,2
-été,extérieur,2025-04-10T17:00:00,2025-04-10T20:00:00,femme,58,1.9,79,occasionnel,pas du tout,1,2,2
-été,extérieur,2025-04-10T17:00:00,2025-04-10T20:00:00,femme,56,1.77,90,aguerri,peu,1,2,2
-été,extérieur,2025-04-10T17:00:00,2025-04-10T20:00:00,homme,36,1.71,89,régulier,peu,1,2,2
-été,extérieur,2025-04-10T17:00:00,2025-04-10T20:00:00,femme,29,1.83,55,aguerri,normal,1,2,2
-été,intérieur,2025-07-28T20:00:00,2025-07-28T23:00:00,femme,41,1.63,51,régulier,pas du tout,1,1,2
-été,intérieur,2025-07-28T20:00:00,2025-07-28T23:00:00,femme,33,1.87,90,occasionnel,normal,1,1,2
-été,intérieur,2025-07-28T20:00:00,2025-07-28T23:00:00,homme,20,1.68,71,aguerri,peu,1,1,2
-été,intérieur,2025-07-28T20:00:00,2025-07-28T23:00:00,femme,48,1.82,58,occasionnel,beaucoup,1,1,2
-été,intérieur,2025-07-28T20:00:00,2025-07-28T23:00:00,homme,36,1.6,100,occasionnel,pas du tout,1,1,2
-été,intérieur,2025-07-28T20:00:00,2025-07-28T23:00:00,femme,37,1.76,84,régulier,normal,1,1,2
-été,intérieur,2025-07-28T20:00:00,2025-07-28T23:00:00,homme,59,1.6,72,occasionnel,normal,1,1,2
-été,intérieur,2025-07-28T20:00:00,2025-07-28T23:00:00,femme,25,1.9,77,régulier,beaucoup,1,1,2
-automne,extérieur,2025-03-16T20:00:00,2025-03-17T01:00:00,femme,23,1.86,55,régulier,peu,2,1,2
-automne,extérieur,2025-03-16T20:00:00,2025-03-17T01:00:00,femme,38,1.55,70,aguerri,normal,2,1,2
-automne,extérieur,2025-03-16T20:00:00,2025-03-17T01:00:00,femme,46,1.8,77,occasionnel,beaucoup,2,1,2
-automne,extérieur,2025-03-16T20:00:00,2025-03-17T01:00:00,femme,46,1.52,72,aguerri,beaucoup,2,1,2
-automne,extérieur,2025-03-16T20:00:00,2025-03-17T01:00:00,femme,58,1.99,53,occasionnel,beaucoup,2,1,2
-automne,extérieur,2025-03-16T20:00:00,2025-03-17T01:00:00,femme,50,1.9,93,occasionnel,pas du tout,2,1,2
-automne,extérieur,2025-03-16T20:00:00,2025-03-17T01:00:00,homme,56,1.84,78,occasionnel,peu,2,1,2
-été,intérieur,2025-11-12T19:00:00,2025-11-13T01:00:00,homme,56,1.58,78,régulier,normal,2,1,2
-été,intérieur,2025-11-12T19:00:00,2025-11-13T01:00:00,femme,22,1.79,83,régulier,beaucoup,2,1,2
-été,intérieur,2025-11-12T19:00:00,2025-11-13T01:00:00,femme,59,1.64,57,occasionnel,peu,2,1,2
-été,intérieur,2025-11-12T19:00:00,2025-11-13T01:00:00,femme,51,1.69,85,occasionnel,normal,2,1,2
-été,intérieur,2025-11-12T19:00:00,2025-11-13T01:00:00,femme,46,1.61,89,régulier,beaucoup,2,1,2
-été,intérieur,2025-11-12T19:00:00,2025-11-13T01:00:00,homme,25,1.57,54,régulier,peu,2,1,2
-été,intérieur,2025-11-12T19:00:00,2025-11-13T01:00:00,femme,23,1.91,70,aguerri,normal,2,1,2
-été,extérieur,2025-05-28T18:00:00,2025-05-29T02:00:00,homme,41,1.75,57,occasionnel,peu,1,1,2
-été,extérieur,2025-05-28T18:00:00,2025-05-29T02:00:00,homme,49,1.51,85,aguerri,normal,1,1,2
-été,extérieur,2025-05-28T18:00:00,2025-05-29T02:00:00,femme,53,1.56,55,occasionnel,normal,1,1,2
-été,extérieur,2025-05-28T18:00:00,2025-05-29T02:00:00,femme,48,1.76,99,régulier,pas du tout,1,1,2
-été,extérieur,2025-05-28T18:00:00,2025-05-29T02:00:00,homme,38,1.82,78,régulier,normal,1,1,2
-été,extérieur,2025-05-28T18:00:00,2025-05-29T02:00:00,homme,53,1.82,61,occasionnel,beaucoup,1,1,2
-été,extérieur,2025-05-28T18:00:00,2025-05-29T02:00:00,homme,25,1.76,69,occasionnel,peu,1,1,2
-été,extérieur,2025-05-28T18:00:00,2025-05-29T02:00:00,femme,32,1.67,83,régulier,pas du tout,1,1,2
-printemps,intérieur,2025-11-18T19:00:00,2025-11-18T23:00:00,femme,57,1.77,82,aguerri,peu,2,1,2
-printemps,intérieur,2025-11-18T19:00:00,2025-11-18T23:00:00,homme,28,1.83,96,aguerri,normal,2,1,2
-printemps,intérieur,2025-11-18T19:00:00,2025-11-18T23:00:00,homme,19,1.54,91,aguerri,normal,2,1,2
-printemps,intérieur,2025-11-18T19:00:00,2025-11-18T23:00:00,homme,54,1.71,90,occasionnel,beaucoup,2,1,2
-printemps,intérieur,2025-11-18T19:00:00,2025-11-18T23:00:00,femme,59,1.98,80,occasionnel,beaucoup,2,1,2
-printemps,intérieur,2025-11-18T19:00:00,2025-11-18T23:00:00,femme,47,1.54,53,occasionnel,beaucoup,2,1,2
-printemps,intérieur,2025-11-18T19:00:00,2025-11-18T23:00:00,femme,48,1.73,71,aguerri,peu,2,1,2
-printemps,intérieur,2025-11-18T19:00:00,2025-11-18T23:00:00,femme,38,1.87,72,régulier,peu,2,1,2
-printemps,intérieur,2025-06-08T20:00:00,2025-06-08T23:00:00,femme,33,1.57,53,régulier,beaucoup,3,1,2
-printemps,intérieur,2025-06-08T20:00:00,2025-06-08T23:00:00,femme,33,1.98,60,régulier,normal,3,1,2
-printemps,intérieur,2025-06-08T20:00:00,2025-06-08T23:00:00,homme,28,1.75,82,régulier,beaucoup,3,1,2
-printemps,intérieur,2025-06-08T20:00:00,2025-06-08T23:00:00,femme,49,1.51,75,aguerri,beaucoup,3,1,2
-printemps,intérieur,2025-06-08T20:00:00,2025-06-08T23:00:00,homme,31,1.79,53,occasionnel,normal,3,1,2
-automne,extérieur,2025-05-18T17:00:00,2025-05-18T20:00:00,homme,34,1.86,98,régulier,normal,2,1,2
-automne,extérieur,2025-05-18T17:00:00,2025-05-18T20:00:00,homme,43,1.53,85,occasionnel,normal,2,1,2
-automne,extérieur,2025-05-18T17:00:00,2025-05-18T20:00:00,femme,22,1.69,78,aguerri,normal,2,1,2
-automne,extérieur,2025-05-18T17:00:00,2025-05-18T20:00:00,homme,26,1.99,75,régulier,normal,2,1,2
-automne,extérieur,2025-05-18T17:00:00,2025-05-18T20:00:00,femme,27,1.6,82,régulier,pas du tout,2,1,2
-automne,extérieur,2025-05-18T17:00:00,2025-05-18T20:00:00,homme,20,1.57,71,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-06-20T19:00:00,2025-06-20T23:00:00,femme,55,1.67,82,aguerri,beaucoup,2,1,2
-hiver,intérieur,2025-06-20T19:00:00,2025-06-20T23:00:00,femme,48,1.91,73,régulier,pas du tout,2,1,2
-hiver,intérieur,2025-06-20T19:00:00,2025-06-20T23:00:00,femme,55,1.65,96,aguerri,pas du tout,2,1,2
-hiver,intérieur,2025-06-20T19:00:00,2025-06-20T23:00:00,femme,34,1.98,100,aguerri,peu,2,1,2
-hiver,intérieur,2025-06-20T19:00:00,2025-06-20T23:00:00,homme,55,1.74,83,aguerri,beaucoup,2,1,2
-hiver,intérieur,2025-06-20T19:00:00,2025-06-20T23:00:00,homme,33,1.52,94,occasionnel,peu,2,1,2
-été,extérieur,2025-06-14T18:00:00,2025-06-15T00:00:00,homme,44,1.75,89,régulier,pas du tout,3,1,2
-été,extérieur,2025-06-14T18:00:00,2025-06-15T00:00:00,homme,51,1.6,70,aguerri,beaucoup,3,1,2
-été,extérieur,2025-06-14T18:00:00,2025-06-15T00:00:00,femme,38,1.98,79,aguerri,normal,3,1,2
-été,extérieur,2025-06-14T18:00:00,2025-06-15T00:00:00,femme,59,1.9,66,aguerri,beaucoup,3,1,2
-été,extérieur,2025-06-14T18:00:00,2025-06-15T00:00:00,homme,33,1.64,69,occasionnel,normal,3,1,2
-été,extérieur,2025-06-14T18:00:00,2025-06-15T00:00:00,femme,31,1.85,81,régulier,beaucoup,3,1,2
-été,extérieur,2025-06-14T18:00:00,2025-06-15T00:00:00,femme,53,1.97,100,aguerri,normal,3,1,2
-été,extérieur,2025-06-14T18:00:00,2025-06-15T00:00:00,femme,25,1.79,84,régulier,beaucoup,3,1,2
-printemps,intérieur,2025-05-02T19:00:00,2025-05-03T03:00:00,femme,46,1.83,97,régulier,peu,2,1,2
-printemps,intérieur,2025-05-02T19:00:00,2025-05-03T03:00:00,homme,52,1.64,85,aguerri,normal,2,1,2
-printemps,intérieur,2025-05-02T19:00:00,2025-05-03T03:00:00,homme,24,1.81,87,occasionnel,peu,2,1,2
-été,intérieur,2025-11-08T17:00:00,2025-11-08T20:00:00,femme,48,1.55,99,occasionnel,pas du tout,1,1,2
-été,intérieur,2025-11-08T17:00:00,2025-11-08T20:00:00,homme,44,1.83,80,régulier,peu,1,1,2
-été,intérieur,2025-11-08T17:00:00,2025-11-08T20:00:00,femme,38,1.64,53,occasionnel,peu,1,1,2
-été,intérieur,2025-11-08T17:00:00,2025-11-08T20:00:00,homme,29,1.71,61,occasionnel,beaucoup,1,1,2
-été,intérieur,2025-11-08T17:00:00,2025-11-08T20:00:00,femme,29,1.97,68,occasionnel,pas du tout,1,1,2
-été,intérieur,2025-11-08T17:00:00,2025-11-08T20:00:00,femme,54,1.8,71,régulier,beaucoup,1,1,2
-automne,intérieur,2025-09-15T19:00:00,2025-09-15T23:00:00,femme,28,1.87,91,régulier,peu,2,1,2
-automne,intérieur,2025-09-15T19:00:00,2025-09-15T23:00:00,homme,39,1.9,86,aguerri,peu,2,1,2
-automne,intérieur,2025-09-15T19:00:00,2025-09-15T23:00:00,homme,57,1.93,75,régulier,normal,2,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T22:00:00,femme,33,1.5,74,occasionnel,beaucoup,1,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T22:00:00,femme,39,1.65,96,aguerri,pas du tout,1,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T22:00:00,femme,59,1.68,65,occasionnel,pas du tout,1,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T22:00:00,femme,37,1.58,93,aguerri,normal,1,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T22:00:00,homme,58,1.96,68,régulier,peu,1,1,2
-été,extérieur,2025-11-04T18:00:00,2025-11-04T22:00:00,homme,26,1.74,79,aguerri,normal,1,1,2
-automne,extérieur,2025-09-26T18:00:00,2025-09-26T22:00:00,homme,51,1.72,95,régulier,pas du tout,1,1,2
-automne,extérieur,2025-09-26T18:00:00,2025-09-26T22:00:00,homme,21,1.91,82,occasionnel,peu,1,1,2
-automne,extérieur,2025-09-26T18:00:00,2025-09-26T22:00:00,homme,38,1.93,78,occasionnel,peu,1,1,2
-automne,extérieur,2025-09-26T18:00:00,2025-09-26T22:00:00,femme,23,1.95,78,occasionnel,beaucoup,1,1,2
-automne,extérieur,2025-09-26T18:00:00,2025-09-26T22:00:00,homme,50,1.71,86,occasionnel,beaucoup,1,1,2
-automne,extérieur,2025-09-26T18:00:00,2025-09-26T22:00:00,femme,19,1.7,50,aguerri,peu,1,1,2
-automne,extérieur,2025-09-26T18:00:00,2025-09-26T22:00:00,homme,20,1.71,94,occasionnel,pas du tout,1,1,2
-automne,extérieur,2025-09-26T18:00:00,2025-09-26T22:00:00,homme,48,1.52,76,occasionnel,peu,1,1,2
-automne,extérieur,2025-07-15T20:00:00,2025-07-16T02:00:00,homme,59,1.93,57,occasionnel,beaucoup,1,1,2
-automne,extérieur,2025-07-15T20:00:00,2025-07-16T02:00:00,homme,32,1.92,98,occasionnel,normal,1,1,2
-automne,extérieur,2025-07-15T20:00:00,2025-07-16T02:00:00,femme,52,1.71,74,occasionnel,peu,1,1,2
-automne,extérieur,2025-03-09T18:00:00,2025-03-10T02:00:00,homme,60,1.71,99,occasionnel,peu,1,2,2
-automne,extérieur,2025-03-09T18:00:00,2025-03-10T02:00:00,homme,22,1.55,52,régulier,pas du tout,1,2,2
-automne,extérieur,2025-03-09T18:00:00,2025-03-10T02:00:00,homme,20,1.7,64,aguerri,peu,1,2,2
-été,intérieur,2025-09-10T18:00:00,2025-09-11T02:00:00,femme,54,1.8,93,régulier,peu,2,1,2
-été,intérieur,2025-09-10T18:00:00,2025-09-11T02:00:00,femme,27,1.99,83,occasionnel,beaucoup,2,1,2
-été,intérieur,2025-09-10T18:00:00,2025-09-11T02:00:00,femme,35,1.53,87,aguerri,peu,2,1,2
-été,intérieur,2025-09-10T18:00:00,2025-09-11T02:00:00,femme,53,1.75,72,aguerri,beaucoup,2,1,2
-été,intérieur,2025-09-10T18:00:00,2025-09-11T02:00:00,femme,44,1.7,69,régulier,peu,2,1,2
-été,intérieur,2025-09-10T18:00:00,2025-09-11T02:00:00,femme,33,1.92,69,aguerri,peu,2,1,2
-été,intérieur,2025-09-10T18:00:00,2025-09-11T02:00:00,femme,21,1.78,76,aguerri,peu,2,1,2
-automne,intérieur,2025-05-07T19:00:00,2025-05-08T03:00:00,femme,41,1.55,96,occasionnel,pas du tout,0,2,2
-automne,intérieur,2025-05-07T19:00:00,2025-05-08T03:00:00,femme,42,1.84,88,occasionnel,pas du tout,0,2,2
-automne,intérieur,2025-05-07T19:00:00,2025-05-08T03:00:00,homme,55,1.86,85,occasionnel,beaucoup,0,2,2
-hiver,extérieur,2025-05-01T18:00:00,2025-05-01T22:00:00,homme,48,1.96,94,aguerri,peu,2,1,2
-hiver,extérieur,2025-05-01T18:00:00,2025-05-01T22:00:00,femme,33,1.78,99,régulier,beaucoup,2,1,2
-hiver,extérieur,2025-05-01T18:00:00,2025-05-01T22:00:00,femme,52,1.82,69,régulier,normal,2,1,2
-hiver,extérieur,2025-05-01T18:00:00,2025-05-01T22:00:00,femme,47,1.55,96,régulier,normal,2,1,2
-hiver,extérieur,2025-05-01T18:00:00,2025-05-01T22:00:00,homme,41,1.66,52,aguerri,peu,2,1,2
-hiver,extérieur,2025-05-01T18:00:00,2025-05-01T22:00:00,homme,19,1.63,87,aguerri,beaucoup,2,1,2
-hiver,extérieur,2025-05-01T18:00:00,2025-05-01T22:00:00,femme,27,1.6,64,régulier,peu,2,1,2
-hiver,extérieur,2025-05-01T18:00:00,2025-05-01T22:00:00,femme,53,1.83,93,régulier,normal,2,1,2
-automne,extérieur,2025-08-06T19:00:00,2025-08-06T23:00:00,femme,29,1.96,84,aguerri,pas du tout,0,2,2
-automne,extérieur,2025-08-06T19:00:00,2025-08-06T23:00:00,homme,22,1.97,92,occasionnel,pas du tout,0,2,2
-automne,extérieur,2025-08-06T19:00:00,2025-08-06T23:00:00,femme,26,1.92,64,occasionnel,peu,0,2,2
-automne,extérieur,2025-08-06T19:00:00,2025-08-06T23:00:00,homme,31,1.75,73,occasionnel,beaucoup,0,2,2
-automne,intérieur,2025-01-18T21:00:00,2025-01-19T03:00:00,homme,51,1.86,84,régulier,pas du tout,1,2,2
-automne,intérieur,2025-01-18T21:00:00,2025-01-19T03:00:00,femme,29,1.55,56,aguerri,peu,1,2,2
-automne,intérieur,2025-01-18T21:00:00,2025-01-19T03:00:00,homme,30,1.81,66,régulier,normal,1,2,2
-automne,intérieur,2025-06-13T20:00:00,2025-06-14T03:00:00,homme,37,1.84,55,aguerri,pas du tout,1,1,2
-automne,intérieur,2025-06-13T20:00:00,2025-06-14T03:00:00,homme,43,1.69,85,régulier,pas du tout,1,1,2
-automne,intérieur,2025-06-13T20:00:00,2025-06-14T03:00:00,homme,28,1.54,77,aguerri,normal,1,1,2
-automne,intérieur,2025-06-13T20:00:00,2025-06-14T03:00:00,homme,51,1.96,64,occasionnel,beaucoup,1,1,2
-printemps,intérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,homme,29,1.96,70,occasionnel,peu,2,1,2
-printemps,intérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,homme,43,1.96,69,occasionnel,peu,2,1,2
-printemps,intérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,femme,52,1.67,98,aguerri,peu,2,1,2
-printemps,intérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,homme,50,1.87,72,occasionnel,pas du tout,2,1,2
-printemps,intérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,femme,32,1.92,71,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,femme,19,1.82,100,régulier,beaucoup,2,1,2
-printemps,intérieur,2025-02-22T19:00:00,2025-02-23T02:00:00,homme,40,1.78,74,régulier,peu,2,1,2
-automne,intérieur,2025-10-10T18:00:00,2025-10-11T02:00:00,homme,35,1.58,95,aguerri,peu,1,2,2
-automne,intérieur,2025-10-10T18:00:00,2025-10-11T02:00:00,femme,38,1.68,55,occasionnel,normal,1,2,2
-automne,intérieur,2025-10-10T18:00:00,2025-10-11T02:00:00,femme,41,1.88,56,occasionnel,pas du tout,1,2,2
-hiver,extérieur,2025-08-18T21:00:00,2025-08-19T04:00:00,homme,19,1.54,85,occasionnel,normal,1,1,2
-hiver,extérieur,2025-08-18T21:00:00,2025-08-19T04:00:00,femme,18,1.65,74,occasionnel,peu,1,1,2
-hiver,extérieur,2025-08-18T21:00:00,2025-08-19T04:00:00,homme,42,1.58,67,régulier,normal,1,1,2
-hiver,extérieur,2025-08-18T21:00:00,2025-08-19T04:00:00,femme,27,1.53,77,régulier,beaucoup,1,1,2
-hiver,extérieur,2025-08-18T21:00:00,2025-08-19T04:00:00,femme,48,1.89,73,régulier,peu,1,1,2
-hiver,extérieur,2025-08-18T21:00:00,2025-08-19T04:00:00,femme,56,1.81,79,occasionnel,peu,1,1,2
-printemps,intérieur,2025-07-11T21:00:00,2025-07-12T03:00:00,femme,39,1.72,91,aguerri,peu,2,1,2
-printemps,intérieur,2025-07-11T21:00:00,2025-07-12T03:00:00,femme,38,1.8,94,occasionnel,beaucoup,2,1,2
-printemps,intérieur,2025-07-11T21:00:00,2025-07-12T03:00:00,femme,29,1.98,70,régulier,beaucoup,2,1,2
-printemps,intérieur,2025-07-11T21:00:00,2025-07-12T03:00:00,homme,38,1.69,100,régulier,normal,2,1,2
-printemps,intérieur,2025-07-11T21:00:00,2025-07-12T03:00:00,homme,54,1.6,84,occasionnel,pas du tout,2,1,2
-automne,intérieur,2025-08-26T19:00:00,2025-08-27T03:00:00,femme,49,1.57,69,occasionnel,normal,1,1,2
-automne,intérieur,2025-08-26T19:00:00,2025-08-27T03:00:00,homme,45,1.89,54,régulier,beaucoup,1,1,2
-automne,intérieur,2025-08-26T19:00:00,2025-08-27T03:00:00,femme,52,1.75,94,régulier,pas du tout,1,1,2
-printemps,intérieur,2025-02-25T18:00:00,2025-02-26T02:00:00,femme,28,1.82,52,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-02-25T18:00:00,2025-02-26T02:00:00,femme,45,1.55,56,régulier,peu,2,1,2
-printemps,intérieur,2025-02-25T18:00:00,2025-02-26T02:00:00,homme,46,1.69,79,aguerri,peu,2,1,2
-printemps,intérieur,2025-02-25T18:00:00,2025-02-26T02:00:00,femme,19,1.74,68,régulier,pas du tout,2,1,2
-printemps,intérieur,2025-02-25T18:00:00,2025-02-26T02:00:00,homme,27,1.67,71,régulier,peu,2,1,2
-printemps,intérieur,2025-02-25T18:00:00,2025-02-26T02:00:00,femme,40,1.74,78,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-02-25T18:00:00,2025-02-26T02:00:00,femme,22,1.65,95,occasionnel,pas du tout,2,1,2
-printemps,intérieur,2025-02-25T18:00:00,2025-02-26T02:00:00,femme,59,1.55,60,aguerri,peu,2,1,2
-hiver,intérieur,2025-06-18T20:00:00,2025-06-19T02:00:00,femme,58,1.59,90,aguerri,beaucoup,2,1,2
-hiver,intérieur,2025-06-18T20:00:00,2025-06-19T02:00:00,femme,19,1.87,62,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-06-18T20:00:00,2025-06-19T02:00:00,femme,18,1.85,63,régulier,pas du tout,2,1,2
-hiver,intérieur,2025-06-18T20:00:00,2025-06-19T02:00:00,homme,52,1.59,70,occasionnel,beaucoup,2,1,2
-été,extérieur,2025-11-28T20:00:00,2025-11-29T03:00:00,femme,56,1.69,75,aguerri,pas du tout,1,1,2
-été,extérieur,2025-11-28T20:00:00,2025-11-29T03:00:00,femme,40,1.92,89,occasionnel,normal,1,1,2
-été,extérieur,2025-11-28T20:00:00,2025-11-29T03:00:00,homme,26,1.66,65,régulier,pas du tout,1,1,2
-été,extérieur,2025-11-28T20:00:00,2025-11-29T03:00:00,homme,41,1.85,82,régulier,beaucoup,1,1,2
-été,extérieur,2025-11-28T20:00:00,2025-11-29T03:00:00,homme,54,1.69,61,régulier,peu,1,1,2
-été,extérieur,2025-11-28T20:00:00,2025-11-29T03:00:00,homme,49,1.64,61,régulier,beaucoup,1,1,2
-été,extérieur,2025-11-28T20:00:00,2025-11-29T03:00:00,homme,40,1.98,81,occasionnel,peu,1,1,2
-été,extérieur,2025-11-28T20:00:00,2025-11-29T03:00:00,femme,53,1.75,81,régulier,beaucoup,1,1,2
-automne,extérieur,2025-08-06T17:00:00,2025-08-07T00:00:00,homme,36,1.52,64,aguerri,normal,1,2,2
-automne,extérieur,2025-08-06T17:00:00,2025-08-07T00:00:00,homme,47,1.78,99,régulier,pas du tout,1,2,2
-automne,extérieur,2025-08-06T17:00:00,2025-08-07T00:00:00,homme,35,1.89,73,aguerri,pas du tout,1,2,2
-automne,intérieur,2025-07-04T18:00:00,2025-07-04T23:00:00,femme,34,1.67,55,régulier,pas du tout,1,2,2
-automne,intérieur,2025-07-04T18:00:00,2025-07-04T23:00:00,homme,31,1.91,87,aguerri,normal,1,2,2
-automne,intérieur,2025-07-04T18:00:00,2025-07-04T23:00:00,femme,28,1.81,100,occasionnel,peu,1,2,2
-été,extérieur,2025-09-09T21:00:00,2025-09-10T04:00:00,femme,36,1.64,67,aguerri,pas du tout,2,1,2
-été,extérieur,2025-09-09T21:00:00,2025-09-10T04:00:00,homme,44,1.96,67,aguerri,peu,2,1,2
-été,extérieur,2025-09-09T21:00:00,2025-09-10T04:00:00,homme,33,1.57,70,occasionnel,beaucoup,2,1,2
-été,extérieur,2025-09-09T21:00:00,2025-09-10T04:00:00,femme,27,1.79,67,aguerri,beaucoup,2,1,2
-automne,extérieur,2025-02-21T17:00:00,2025-02-21T23:00:00,femme,41,1.73,81,régulier,pas du tout,1,1,2
-automne,extérieur,2025-02-21T17:00:00,2025-02-21T23:00:00,homme,47,1.82,94,régulier,pas du tout,1,1,2
-automne,extérieur,2025-02-21T17:00:00,2025-02-21T23:00:00,femme,31,1.98,63,régulier,normal,1,1,2
-automne,extérieur,2025-02-21T17:00:00,2025-02-21T23:00:00,femme,36,1.67,86,occasionnel,beaucoup,1,1,2
-automne,extérieur,2025-02-21T17:00:00,2025-02-21T23:00:00,femme,21,1.52,90,régulier,pas du tout,1,1,2
-automne,extérieur,2025-02-21T17:00:00,2025-02-21T23:00:00,homme,28,1.72,50,régulier,peu,1,1,2
-automne,extérieur,2025-02-21T17:00:00,2025-02-21T23:00:00,homme,59,1.65,67,occasionnel,normal,1,1,2
-printemps,intérieur,2025-06-22T18:00:00,2025-06-22T21:00:00,femme,32,1.71,55,aguerri,pas du tout,1,1,2
-printemps,intérieur,2025-06-22T18:00:00,2025-06-22T21:00:00,homme,31,1.74,58,aguerri,peu,1,1,2
-printemps,intérieur,2025-06-22T18:00:00,2025-06-22T21:00:00,femme,18,1.5,71,occasionnel,beaucoup,1,1,2
-printemps,intérieur,2025-06-22T18:00:00,2025-06-22T21:00:00,homme,48,1.54,74,occasionnel,pas du tout,1,1,2
-printemps,intérieur,2025-06-22T18:00:00,2025-06-22T21:00:00,homme,38,1.68,69,occasionnel,beaucoup,1,1,2
-printemps,intérieur,2025-06-22T18:00:00,2025-06-22T21:00:00,homme,59,2.0,59,occasionnel,pas du tout,1,1,2
-hiver,extérieur,2025-06-24T18:00:00,2025-06-25T02:00:00,homme,44,1.81,78,occasionnel,pas du tout,2,1,2
-hiver,extérieur,2025-06-24T18:00:00,2025-06-25T02:00:00,homme,26,1.88,87,aguerri,beaucoup,2,1,2
-hiver,extérieur,2025-06-24T18:00:00,2025-06-25T02:00:00,femme,45,1.66,58,occasionnel,normal,2,1,2
-hiver,extérieur,2025-06-24T18:00:00,2025-06-25T02:00:00,homme,33,1.78,88,aguerri,normal,2,1,2
-hiver,extérieur,2025-06-24T18:00:00,2025-06-25T02:00:00,homme,60,1.94,63,aguerri,peu,2,1,2
-hiver,extérieur,2025-06-24T18:00:00,2025-06-25T02:00:00,femme,36,1.82,100,occasionnel,beaucoup,2,1,2
-hiver,extérieur,2025-06-24T18:00:00,2025-06-25T02:00:00,femme,25,1.62,90,aguerri,pas du tout,2,1,2
-hiver,extérieur,2025-06-24T18:00:00,2025-06-25T02:00:00,homme,41,1.97,58,régulier,beaucoup,2,1,2
-printemps,intérieur,2025-08-25T17:00:00,2025-08-25T20:00:00,homme,18,1.63,52,occasionnel,beaucoup,1,1,2
-printemps,intérieur,2025-08-25T17:00:00,2025-08-25T20:00:00,femme,58,1.86,99,régulier,beaucoup,1,1,2
-printemps,intérieur,2025-08-25T17:00:00,2025-08-25T20:00:00,femme,23,1.82,84,aguerri,peu,1,1,2
-printemps,intérieur,2025-08-25T17:00:00,2025-08-25T20:00:00,femme,23,1.65,82,occasionnel,peu,1,1,2
-printemps,intérieur,2025-08-25T17:00:00,2025-08-25T20:00:00,femme,43,1.79,98,aguerri,pas du tout,1,1,2
-printemps,intérieur,2025-08-25T17:00:00,2025-08-25T20:00:00,femme,45,1.86,65,occasionnel,peu,1,1,2
-printemps,intérieur,2025-08-25T17:00:00,2025-08-25T20:00:00,homme,45,1.56,89,aguerri,pas du tout,1,1,2
-printemps,intérieur,2025-02-01T18:00:00,2025-02-02T02:00:00,homme,49,1.98,83,aguerri,normal,1,2,2
-printemps,intérieur,2025-02-01T18:00:00,2025-02-02T02:00:00,homme,41,1.56,99,régulier,pas du tout,1,2,2
-printemps,intérieur,2025-02-01T18:00:00,2025-02-02T02:00:00,homme,39,1.9,67,aguerri,pas du tout,1,2,2
-printemps,intérieur,2025-08-15T21:00:00,2025-08-16T02:00:00,femme,54,1.58,60,régulier,pas du tout,0,2,2
-printemps,intérieur,2025-08-15T21:00:00,2025-08-16T02:00:00,homme,32,1.87,50,occasionnel,pas du tout,0,2,2
-printemps,intérieur,2025-08-15T21:00:00,2025-08-16T02:00:00,homme,20,1.74,74,occasionnel,peu,0,2,2
-été,extérieur,2025-04-11T18:00:00,2025-04-12T00:00:00,femme,35,1.91,86,régulier,pas du tout,2,1,2
-été,extérieur,2025-04-11T18:00:00,2025-04-12T00:00:00,homme,29,1.61,83,occasionnel,beaucoup,2,1,2
-été,extérieur,2025-04-11T18:00:00,2025-04-12T00:00:00,homme,47,1.93,99,régulier,normal,2,1,2
-été,extérieur,2025-04-11T18:00:00,2025-04-12T00:00:00,homme,53,1.73,73,occasionnel,normal,2,1,2
-été,extérieur,2025-04-11T18:00:00,2025-04-12T00:00:00,femme,57,1.62,73,aguerri,beaucoup,2,1,2
-été,extérieur,2025-04-11T18:00:00,2025-04-12T00:00:00,homme,52,1.88,65,occasionnel,pas du tout,2,1,2
-été,extérieur,2025-04-11T18:00:00,2025-04-12T00:00:00,femme,19,1.62,72,aguerri,pas du tout,2,1,2
-été,extérieur,2025-04-11T18:00:00,2025-04-12T00:00:00,femme,18,1.88,74,aguerri,normal,2,1,2
-été,intérieur,2025-09-08T20:00:00,2025-09-09T02:00:00,homme,35,1.55,64,aguerri,beaucoup,2,2,2
-été,intérieur,2025-09-08T20:00:00,2025-09-09T02:00:00,femme,47,1.99,55,aguerri,pas du tout,2,2,2
-été,intérieur,2025-09-08T20:00:00,2025-09-09T02:00:00,homme,58,1.91,54,aguerri,pas du tout,2,2,2
-automne,intérieur,2025-04-10T19:00:00,2025-04-11T00:00:00,femme,38,1.73,64,occasionnel,peu,1,1,2
-automne,intérieur,2025-04-10T19:00:00,2025-04-11T00:00:00,homme,55,1.55,56,occasionnel,beaucoup,1,1,2
-automne,intérieur,2025-04-10T19:00:00,2025-04-11T00:00:00,femme,38,1.7,84,régulier,peu,1,1,2
-automne,intérieur,2025-04-10T19:00:00,2025-04-11T00:00:00,femme,37,1.73,57,occasionnel,peu,1,1,2
-automne,intérieur,2025-04-10T19:00:00,2025-04-11T00:00:00,femme,56,1.52,70,occasionnel,pas du tout,1,1,2
-automne,intérieur,2025-04-10T19:00:00,2025-04-11T00:00:00,homme,40,1.7,53,aguerri,normal,1,1,2
-printemps,intérieur,2025-01-13T20:00:00,2025-01-14T03:00:00,homme,24,1.73,100,occasionnel,pas du tout,1,1,2
-printemps,intérieur,2025-01-13T20:00:00,2025-01-14T03:00:00,homme,21,1.92,64,occasionnel,peu,1,1,2
-printemps,intérieur,2025-01-13T20:00:00,2025-01-14T03:00:00,femme,41,1.84,91,occasionnel,normal,1,1,2
-printemps,intérieur,2025-01-13T20:00:00,2025-01-14T03:00:00,homme,19,2.0,62,aguerri,beaucoup,1,1,2
-printemps,intérieur,2025-01-13T20:00:00,2025-01-14T03:00:00,homme,23,1.95,71,occasionnel,pas du tout,1,1,2
-printemps,intérieur,2025-01-13T20:00:00,2025-01-14T03:00:00,femme,21,1.58,86,régulier,beaucoup,1,1,2
-printemps,intérieur,2025-01-13T20:00:00,2025-01-14T03:00:00,femme,19,1.69,77,occasionnel,normal,1,1,2
-printemps,intérieur,2025-01-13T20:00:00,2025-01-14T03:00:00,homme,29,1.64,78,occasionnel,pas du tout,1,1,2
-hiver,extérieur,2025-08-14T21:00:00,2025-08-15T03:00:00,homme,35,1.69,76,occasionnel,peu,2,1,2
-hiver,extérieur,2025-08-14T21:00:00,2025-08-15T03:00:00,homme,42,1.89,72,régulier,beaucoup,2,1,2
-hiver,extérieur,2025-08-14T21:00:00,2025-08-15T03:00:00,femme,54,1.75,74,régulier,peu,2,1,2
-été,extérieur,2025-10-08T17:00:00,2025-10-08T22:00:00,femme,51,1.68,87,occasionnel,peu,0,2,2
-été,extérieur,2025-10-08T17:00:00,2025-10-08T22:00:00,homme,33,1.83,67,aguerri,pas du tout,0,2,2
-été,extérieur,2025-10-08T17:00:00,2025-10-08T22:00:00,homme,54,1.92,74,régulier,peu,0,2,2
-hiver,intérieur,2025-10-11T19:00:00,2025-10-12T02:00:00,femme,54,1.78,86,occasionnel,beaucoup,1,1,2
-hiver,intérieur,2025-10-11T19:00:00,2025-10-12T02:00:00,femme,29,1.75,55,occasionnel,peu,1,1,2
-hiver,intérieur,2025-10-11T19:00:00,2025-10-12T02:00:00,homme,19,1.76,50,régulier,peu,1,1,2
-hiver,extérieur,2025-12-06T19:00:00,2025-12-06T22:00:00,homme,55,1.85,59,occasionnel,normal,2,1,2
-hiver,extérieur,2025-12-06T19:00:00,2025-12-06T22:00:00,homme,41,1.85,92,régulier,pas du tout,2,1,2
-hiver,extérieur,2025-12-06T19:00:00,2025-12-06T22:00:00,femme,37,1.66,60,aguerri,beaucoup,2,1,2
-automne,extérieur,2025-03-23T21:00:00,2025-03-24T05:00:00,femme,32,1.83,61,régulier,normal,2,1,2
-automne,extérieur,2025-03-23T21:00:00,2025-03-24T05:00:00,femme,26,1.59,50,aguerri,beaucoup,2,1,2
-automne,extérieur,2025-03-23T21:00:00,2025-03-24T05:00:00,homme,29,1.8,89,occasionnel,pas du tout,2,1,2
-automne,extérieur,2025-03-23T21:00:00,2025-03-24T05:00:00,femme,27,1.67,54,occasionnel,normal,2,1,2
-automne,extérieur,2025-03-23T21:00:00,2025-03-24T05:00:00,femme,28,1.82,55,aguerri,normal,2,1,2
-automne,extérieur,2025-03-23T21:00:00,2025-03-24T05:00:00,femme,18,1.63,65,aguerri,pas du tout,2,1,2
-automne,extérieur,2025-03-23T21:00:00,2025-03-24T05:00:00,femme,34,1.89,96,occasionnel,pas du tout,2,1,2
-automne,extérieur,2025-12-14T18:00:00,2025-12-15T00:00:00,femme,40,1.77,56,régulier,peu,1,1,2
-automne,extérieur,2025-12-14T18:00:00,2025-12-15T00:00:00,homme,46,1.54,52,régulier,pas du tout,1,1,2
-automne,extérieur,2025-12-14T18:00:00,2025-12-15T00:00:00,femme,34,1.98,54,régulier,peu,1,1,2
-automne,extérieur,2025-12-14T18:00:00,2025-12-15T00:00:00,femme,28,1.87,85,occasionnel,normal,1,1,2
-automne,extérieur,2025-12-14T18:00:00,2025-12-15T00:00:00,femme,19,1.72,91,occasionnel,beaucoup,1,1,2
-automne,extérieur,2025-12-14T18:00:00,2025-12-15T00:00:00,homme,21,1.55,63,occasionnel,beaucoup,1,1,2
-printemps,extérieur,2025-05-08T17:00:00,2025-05-08T20:00:00,femme,27,1.53,50,régulier,pas du tout,2,1,2
-printemps,extérieur,2025-05-08T17:00:00,2025-05-08T20:00:00,femme,60,1.81,80,occasionnel,pas du tout,2,1,2
-printemps,extérieur,2025-05-08T17:00:00,2025-05-08T20:00:00,homme,31,1.59,68,occasionnel,beaucoup,2,1,2
-printemps,extérieur,2025-05-08T17:00:00,2025-05-08T20:00:00,homme,37,1.89,80,régulier,normal,2,1,2
-printemps,extérieur,2025-05-08T17:00:00,2025-05-08T20:00:00,homme,59,1.77,61,régulier,beaucoup,2,1,2
-printemps,extérieur,2025-05-08T17:00:00,2025-05-08T20:00:00,femme,29,1.72,66,régulier,beaucoup,2,1,2
-printemps,intérieur,2025-05-19T17:00:00,2025-05-19T21:00:00,homme,23,1.83,84,régulier,peu,2,1,2
-printemps,intérieur,2025-05-19T17:00:00,2025-05-19T21:00:00,homme,42,1.91,76,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-05-19T17:00:00,2025-05-19T21:00:00,homme,48,1.65,75,aguerri,pas du tout,2,1,2
-printemps,intérieur,2025-05-19T17:00:00,2025-05-19T21:00:00,homme,25,1.97,78,occasionnel,peu,2,1,2
-printemps,intérieur,2025-05-19T17:00:00,2025-05-19T21:00:00,homme,30,1.56,77,occasionnel,beaucoup,2,1,2
-printemps,intérieur,2025-05-19T17:00:00,2025-05-19T21:00:00,homme,58,1.57,88,régulier,normal,2,1,2
-printemps,intérieur,2025-05-19T17:00:00,2025-05-19T21:00:00,homme,23,1.69,75,aguerri,normal,2,1,2
-printemps,intérieur,2025-05-19T17:00:00,2025-05-19T21:00:00,femme,51,1.73,50,aguerri,beaucoup,2,1,2
-été,extérieur,2025-03-05T21:00:00,2025-03-06T04:00:00,homme,24,1.78,56,régulier,normal,2,1,2
-été,extérieur,2025-03-05T21:00:00,2025-03-06T04:00:00,femme,34,1.69,81,aguerri,beaucoup,2,1,2
-été,extérieur,2025-03-05T21:00:00,2025-03-06T04:00:00,homme,29,1.64,59,aguerri,beaucoup,2,1,2
-été,extérieur,2025-03-05T21:00:00,2025-03-06T04:00:00,homme,43,1.94,71,aguerri,peu,2,1,2
-été,extérieur,2025-03-05T21:00:00,2025-03-06T04:00:00,homme,48,1.96,73,occasionnel,normal,2,1,2
-été,extérieur,2025-03-05T21:00:00,2025-03-06T04:00:00,femme,37,1.64,81,aguerri,pas du tout,2,1,2
-été,extérieur,2025-03-05T21:00:00,2025-03-06T04:00:00,homme,26,1.65,97,régulier,normal,2,1,2
-printemps,extérieur,2025-10-21T17:00:00,2025-10-21T21:00:00,homme,44,1.87,98,aguerri,normal,3,1,2
-printemps,extérieur,2025-10-21T17:00:00,2025-10-21T21:00:00,homme,50,1.9,54,régulier,beaucoup,3,1,2
-printemps,extérieur,2025-10-21T17:00:00,2025-10-21T21:00:00,homme,51,1.94,51,occasionnel,peu,3,1,2
-printemps,extérieur,2025-10-21T17:00:00,2025-10-21T21:00:00,homme,21,1.62,79,occasionnel,normal,3,1,2
-printemps,extérieur,2025-10-21T17:00:00,2025-10-21T21:00:00,homme,35,1.68,79,aguerri,beaucoup,3,1,2
-printemps,extérieur,2025-10-21T17:00:00,2025-10-21T21:00:00,homme,19,1.62,81,aguerri,beaucoup,3,1,2
-hiver,extérieur,2025-10-18T19:00:00,2025-10-19T00:00:00,femme,23,1.64,74,occasionnel,peu,0,2,2
-hiver,extérieur,2025-10-18T19:00:00,2025-10-19T00:00:00,homme,32,1.82,93,occasionnel,normal,0,2,2
-hiver,extérieur,2025-10-18T19:00:00,2025-10-19T00:00:00,femme,50,1.51,99,aguerri,pas du tout,0,2,2
-hiver,extérieur,2025-10-18T19:00:00,2025-10-19T00:00:00,femme,26,1.82,88,occasionnel,peu,0,2,2
-printemps,extérieur,2025-12-23T19:00:00,2025-12-24T01:00:00,femme,47,1.63,79,régulier,beaucoup,2,1,2
-printemps,extérieur,2025-12-23T19:00:00,2025-12-24T01:00:00,homme,18,1.76,92,régulier,normal,2,1,2
-printemps,extérieur,2025-12-23T19:00:00,2025-12-24T01:00:00,femme,24,1.74,71,régulier,normal,2,1,2
-printemps,extérieur,2025-12-23T19:00:00,2025-12-24T01:00:00,femme,34,1.83,91,régulier,peu,2,1,2
-printemps,extérieur,2025-12-23T19:00:00,2025-12-24T01:00:00,homme,51,1.88,53,aguerri,beaucoup,2,1,2
-printemps,extérieur,2025-12-23T19:00:00,2025-12-24T01:00:00,femme,26,1.86,91,régulier,normal,2,1,2
-printemps,extérieur,2025-07-13T17:00:00,2025-07-14T00:00:00,homme,39,1.86,64,aguerri,beaucoup,2,1,2
-printemps,extérieur,2025-07-13T17:00:00,2025-07-14T00:00:00,femme,50,1.65,60,aguerri,peu,2,1,2
-printemps,extérieur,2025-07-13T17:00:00,2025-07-14T00:00:00,femme,24,1.74,97,régulier,peu,2,1,2
-printemps,extérieur,2025-07-13T17:00:00,2025-07-14T00:00:00,femme,59,1.54,72,occasionnel,normal,2,1,2
-printemps,extérieur,2025-07-13T17:00:00,2025-07-14T00:00:00,femme,39,1.69,87,régulier,beaucoup,2,1,2
-printemps,extérieur,2025-07-13T17:00:00,2025-07-14T00:00:00,homme,48,1.53,90,aguerri,pas du tout,2,1,2
-printemps,extérieur,2025-07-13T17:00:00,2025-07-14T00:00:00,femme,30,1.75,93,régulier,normal,2,1,2
-printemps,extérieur,2025-07-13T17:00:00,2025-07-14T00:00:00,femme,21,1.94,59,occasionnel,peu,2,1,2
-printemps,extérieur,2025-10-15T18:00:00,2025-10-15T23:00:00,homme,23,1.74,90,occasionnel,normal,2,1,2
-printemps,extérieur,2025-10-15T18:00:00,2025-10-15T23:00:00,homme,18,1.73,63,occasionnel,peu,2,1,2
-printemps,extérieur,2025-10-15T18:00:00,2025-10-15T23:00:00,femme,23,1.56,77,aguerri,beaucoup,2,1,2
-printemps,extérieur,2025-10-15T18:00:00,2025-10-15T23:00:00,femme,45,1.98,74,occasionnel,pas du tout,2,1,2
-printemps,extérieur,2025-10-15T18:00:00,2025-10-15T23:00:00,homme,41,1.98,70,aguerri,peu,2,1,2
-printemps,extérieur,2025-10-15T18:00:00,2025-10-15T23:00:00,homme,18,1.81,65,occasionnel,normal,2,1,2
-printemps,extérieur,2025-10-15T18:00:00,2025-10-15T23:00:00,femme,26,1.55,82,aguerri,normal,2,1,2
-printemps,extérieur,2025-10-15T18:00:00,2025-10-15T23:00:00,homme,22,1.91,69,régulier,beaucoup,2,1,2
-printemps,extérieur,2025-11-05T19:00:00,2025-11-06T01:00:00,homme,28,1.97,75,occasionnel,peu,1,1,2
-printemps,extérieur,2025-11-05T19:00:00,2025-11-06T01:00:00,homme,26,1.61,51,aguerri,peu,1,1,2
-printemps,extérieur,2025-11-05T19:00:00,2025-11-06T01:00:00,homme,41,1.86,100,occasionnel,beaucoup,1,1,2
-printemps,extérieur,2025-11-05T19:00:00,2025-11-06T01:00:00,femme,52,1.81,88,occasionnel,pas du tout,1,1,2
-printemps,extérieur,2025-11-05T19:00:00,2025-11-06T01:00:00,homme,21,1.84,76,régulier,beaucoup,1,1,2
-été,extérieur,2025-08-23T18:00:00,2025-08-23T22:00:00,homme,37,1.71,56,aguerri,normal,1,1,2
-été,extérieur,2025-08-23T18:00:00,2025-08-23T22:00:00,homme,44,1.92,56,aguerri,pas du tout,1,1,2
-été,extérieur,2025-08-23T18:00:00,2025-08-23T22:00:00,femme,25,1.89,81,occasionnel,peu,1,1,2
-été,extérieur,2025-08-23T18:00:00,2025-08-23T22:00:00,femme,51,1.99,72,aguerri,beaucoup,1,1,2
-été,extérieur,2025-08-23T18:00:00,2025-08-23T22:00:00,femme,28,1.52,81,occasionnel,beaucoup,1,1,2
-été,extérieur,2025-08-23T18:00:00,2025-08-23T22:00:00,femme,33,1.5,92,occasionnel,pas du tout,1,1,2
-été,extérieur,2025-08-23T18:00:00,2025-08-23T22:00:00,femme,27,1.97,99,aguerri,pas du tout,1,1,2
-été,extérieur,2025-08-23T18:00:00,2025-08-23T22:00:00,homme,34,1.82,79,régulier,normal,1,1,2
-automne,intérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,femme,38,1.71,57,occasionnel,pas du tout,1,1,2
-automne,intérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,homme,26,1.83,60,régulier,normal,1,1,2
-automne,intérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,femme,57,1.63,96,occasionnel,normal,1,1,2
-automne,intérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,femme,29,1.56,75,régulier,normal,1,1,2
-automne,intérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,femme,48,1.9,91,occasionnel,pas du tout,1,1,2
-hiver,intérieur,2025-03-04T20:00:00,2025-03-05T03:00:00,femme,29,1.81,99,régulier,pas du tout,1,1,2
-hiver,intérieur,2025-03-04T20:00:00,2025-03-05T03:00:00,homme,48,1.96,57,régulier,beaucoup,1,1,2
-hiver,intérieur,2025-03-04T20:00:00,2025-03-05T03:00:00,homme,22,1.63,70,occasionnel,peu,1,1,2
-hiver,intérieur,2025-03-04T20:00:00,2025-03-05T03:00:00,femme,51,1.76,94,aguerri,pas du tout,1,1,2
-hiver,intérieur,2025-03-04T20:00:00,2025-03-05T03:00:00,femme,60,1.86,80,régulier,beaucoup,1,1,2
-hiver,intérieur,2025-03-04T20:00:00,2025-03-05T03:00:00,homme,53,1.95,89,occasionnel,pas du tout,1,1,2
-hiver,extérieur,2025-08-28T18:00:00,2025-08-28T21:00:00,femme,33,1.67,67,occasionnel,peu,1,2,2
-hiver,extérieur,2025-08-28T18:00:00,2025-08-28T21:00:00,femme,43,1.91,55,régulier,beaucoup,1,2,2
-hiver,extérieur,2025-08-28T18:00:00,2025-08-28T21:00:00,femme,23,1.93,78,régulier,pas du tout,1,2,2
-hiver,extérieur,2025-08-28T18:00:00,2025-08-28T21:00:00,femme,59,1.51,75,régulier,pas du tout,1,2,2
-hiver,extérieur,2025-08-28T18:00:00,2025-08-28T21:00:00,homme,23,1.9,89,aguerri,normal,1,2,2
-hiver,extérieur,2025-08-28T18:00:00,2025-08-28T21:00:00,homme,59,1.84,71,régulier,pas du tout,1,2,2
-hiver,extérieur,2025-06-18T21:00:00,2025-06-19T04:00:00,femme,46,1.56,98,aguerri,peu,2,1,2
-hiver,extérieur,2025-06-18T21:00:00,2025-06-19T04:00:00,homme,39,1.68,90,régulier,normal,2,1,2
-hiver,extérieur,2025-06-18T21:00:00,2025-06-19T04:00:00,homme,20,1.95,81,occasionnel,beaucoup,2,1,2
-hiver,extérieur,2025-06-18T21:00:00,2025-06-19T04:00:00,homme,34,1.81,62,occasionnel,beaucoup,2,1,2
-hiver,extérieur,2025-06-18T21:00:00,2025-06-19T04:00:00,homme,47,1.91,62,aguerri,normal,2,1,2
-hiver,extérieur,2025-06-18T21:00:00,2025-06-19T04:00:00,homme,44,1.52,90,aguerri,pas du tout,2,1,2
-automne,extérieur,2025-11-19T21:00:00,2025-11-20T01:00:00,homme,51,1.87,85,régulier,beaucoup,2,1,2
-automne,extérieur,2025-11-19T21:00:00,2025-11-20T01:00:00,homme,55,1.59,58,occasionnel,beaucoup,2,1,2
-automne,extérieur,2025-11-19T21:00:00,2025-11-20T01:00:00,femme,50,1.94,76,aguerri,peu,2,1,2
-automne,extérieur,2025-11-19T21:00:00,2025-11-20T01:00:00,femme,43,1.98,68,régulier,peu,2,1,2
-automne,extérieur,2025-11-19T21:00:00,2025-11-20T01:00:00,homme,44,1.8,97,aguerri,normal,2,1,2
-automne,extérieur,2025-11-19T21:00:00,2025-11-20T01:00:00,femme,53,1.82,62,occasionnel,normal,2,1,2
-printemps,intérieur,2025-12-21T18:00:00,2025-12-22T01:00:00,femme,25,1.88,85,régulier,beaucoup,2,1,2
-printemps,intérieur,2025-12-21T18:00:00,2025-12-22T01:00:00,femme,45,1.9,83,occasionnel,pas du tout,2,1,2
-printemps,intérieur,2025-12-21T18:00:00,2025-12-22T01:00:00,femme,27,1.53,53,occasionnel,normal,2,1,2
-printemps,intérieur,2025-12-21T18:00:00,2025-12-22T01:00:00,homme,36,1.84,59,occasionnel,normal,2,1,2
-printemps,intérieur,2025-12-21T18:00:00,2025-12-22T01:00:00,homme,52,1.52,78,occasionnel,peu,2,1,2
-printemps,intérieur,2025-12-21T18:00:00,2025-12-22T01:00:00,femme,33,1.76,100,aguerri,normal,2,1,2
-printemps,intérieur,2025-12-21T18:00:00,2025-12-22T01:00:00,homme,42,1.69,100,aguerri,normal,2,1,2
-été,intérieur,2025-12-09T18:00:00,2025-12-10T01:00:00,homme,58,1.85,91,régulier,peu,1,2,2
-été,intérieur,2025-12-09T18:00:00,2025-12-10T01:00:00,homme,36,1.72,93,occasionnel,peu,1,2,2
-été,intérieur,2025-12-09T18:00:00,2025-12-10T01:00:00,homme,50,1.56,52,régulier,normal,1,2,2
-été,intérieur,2025-12-09T18:00:00,2025-12-10T01:00:00,femme,26,1.58,66,occasionnel,normal,1,2,2
-été,intérieur,2025-12-09T18:00:00,2025-12-10T01:00:00,femme,27,1.52,70,aguerri,pas du tout,1,2,2
-été,intérieur,2025-12-09T18:00:00,2025-12-10T01:00:00,femme,49,1.89,85,régulier,pas du tout,1,2,2
-printemps,intérieur,2025-03-17T17:00:00,2025-03-18T00:00:00,femme,52,1.77,55,régulier,peu,1,2,2
-printemps,intérieur,2025-03-17T17:00:00,2025-03-18T00:00:00,homme,60,1.67,73,régulier,peu,1,2,2
-printemps,intérieur,2025-03-17T17:00:00,2025-03-18T00:00:00,femme,53,1.91,91,occasionnel,pas du tout,1,2,2
-printemps,intérieur,2025-03-17T17:00:00,2025-03-18T00:00:00,femme,46,1.62,91,aguerri,peu,1,2,2
-été,extérieur,2025-07-26T17:00:00,2025-07-26T23:00:00,femme,19,1.96,99,régulier,beaucoup,2,1,2
-été,extérieur,2025-07-26T17:00:00,2025-07-26T23:00:00,femme,20,1.65,91,occasionnel,normal,2,1,2
-été,extérieur,2025-07-26T17:00:00,2025-07-26T23:00:00,homme,24,1.58,99,aguerri,pas du tout,2,1,2
-été,extérieur,2025-07-26T17:00:00,2025-07-26T23:00:00,homme,31,1.84,99,occasionnel,beaucoup,2,1,2
-été,extérieur,2025-07-26T17:00:00,2025-07-26T23:00:00,homme,31,1.77,94,aguerri,beaucoup,2,1,2
-été,intérieur,2025-01-15T19:00:00,2025-01-15T22:00:00,homme,21,1.59,66,aguerri,pas du tout,2,2,2
-été,intérieur,2025-01-15T19:00:00,2025-01-15T22:00:00,homme,34,1.7,78,aguerri,beaucoup,2,2,2
-été,intérieur,2025-01-15T19:00:00,2025-01-15T22:00:00,femme,38,1.51,93,occasionnel,pas du tout,2,2,2
-été,intérieur,2025-12-28T17:00:00,2025-12-28T22:00:00,homme,36,1.89,69,aguerri,pas du tout,1,1,2
-été,intérieur,2025-12-28T17:00:00,2025-12-28T22:00:00,femme,46,1.69,92,occasionnel,beaucoup,1,1,2
-été,intérieur,2025-12-28T17:00:00,2025-12-28T22:00:00,homme,52,1.61,97,régulier,normal,1,1,2
-été,intérieur,2025-12-28T17:00:00,2025-12-28T22:00:00,homme,37,1.84,100,aguerri,normal,1,1,2
-été,intérieur,2025-12-28T17:00:00,2025-12-28T22:00:00,homme,53,1.94,59,occasionnel,pas du tout,1,1,2
-été,intérieur,2025-12-28T17:00:00,2025-12-28T22:00:00,homme,54,1.8,84,aguerri,pas du tout,1,1,2
-été,intérieur,2025-12-28T17:00:00,2025-12-28T22:00:00,femme,31,1.87,96,régulier,peu,1,1,2
-automne,intérieur,2025-03-06T18:00:00,2025-03-07T01:00:00,homme,25,1.59,86,occasionnel,beaucoup,2,1,2
-automne,intérieur,2025-03-06T18:00:00,2025-03-07T01:00:00,homme,36,1.84,66,occasionnel,peu,2,1,2
-automne,intérieur,2025-03-06T18:00:00,2025-03-07T01:00:00,femme,39,1.68,92,aguerri,peu,2,1,2
-automne,intérieur,2025-03-06T18:00:00,2025-03-07T01:00:00,homme,36,1.81,62,régulier,beaucoup,2,1,2
-automne,intérieur,2025-03-06T18:00:00,2025-03-07T01:00:00,femme,39,1.81,69,aguerri,peu,2,1,2
-printemps,extérieur,2025-07-06T17:00:00,2025-07-06T22:00:00,homme,59,1.72,73,occasionnel,normal,1,1,2
-printemps,extérieur,2025-07-06T17:00:00,2025-07-06T22:00:00,femme,47,1.72,99,régulier,beaucoup,1,1,2
-printemps,extérieur,2025-07-06T17:00:00,2025-07-06T22:00:00,homme,29,1.82,55,régulier,peu,1,1,2
-printemps,extérieur,2025-07-06T17:00:00,2025-07-06T22:00:00,homme,34,1.87,90,occasionnel,pas du tout,1,1,2
-été,intérieur,2025-10-19T20:00:00,2025-10-20T03:00:00,homme,53,1.63,84,régulier,peu,2,1,2
-été,intérieur,2025-10-19T20:00:00,2025-10-20T03:00:00,femme,43,1.61,99,aguerri,normal,2,1,2
-été,intérieur,2025-10-19T20:00:00,2025-10-20T03:00:00,homme,47,1.75,55,régulier,normal,2,1,2
-été,intérieur,2025-10-19T20:00:00,2025-10-20T03:00:00,homme,60,1.62,89,aguerri,peu,2,1,2
-hiver,extérieur,2025-03-06T21:00:00,2025-03-07T04:00:00,homme,48,1.97,52,occasionnel,beaucoup,2,1,2
-hiver,extérieur,2025-03-06T21:00:00,2025-03-07T04:00:00,homme,22,1.63,64,occasionnel,peu,2,1,2
-hiver,extérieur,2025-03-06T21:00:00,2025-03-07T04:00:00,femme,42,1.73,79,occasionnel,pas du tout,2,1,2
-hiver,extérieur,2025-03-06T21:00:00,2025-03-07T04:00:00,femme,24,1.85,83,aguerri,normal,2,1,2
-hiver,extérieur,2025-03-06T21:00:00,2025-03-07T04:00:00,femme,55,1.77,61,régulier,beaucoup,2,1,2
-hiver,extérieur,2025-03-06T21:00:00,2025-03-07T04:00:00,femme,55,1.83,54,aguerri,normal,2,1,2
-hiver,extérieur,2025-03-06T21:00:00,2025-03-07T04:00:00,femme,32,1.76,72,régulier,beaucoup,2,1,2
-hiver,extérieur,2025-03-06T21:00:00,2025-03-07T04:00:00,femme,56,1.5,58,régulier,peu,2,1,2
-hiver,intérieur,2025-09-21T19:00:00,2025-09-21T23:00:00,homme,28,1.68,95,occasionnel,peu,1,1,2
-hiver,intérieur,2025-09-21T19:00:00,2025-09-21T23:00:00,femme,39,1.86,80,aguerri,beaucoup,1,1,2
-hiver,intérieur,2025-09-21T19:00:00,2025-09-21T23:00:00,femme,31,1.8,91,régulier,pas du tout,1,1,2
-hiver,intérieur,2025-09-21T19:00:00,2025-09-21T23:00:00,homme,20,1.56,87,occasionnel,peu,1,1,2
-été,intérieur,2025-01-06T19:00:00,2025-01-06T23:00:00,femme,56,1.98,90,occasionnel,normal,1,2,2
-été,intérieur,2025-01-06T19:00:00,2025-01-06T23:00:00,homme,31,1.72,80,régulier,peu,1,2,2
-été,intérieur,2025-01-06T19:00:00,2025-01-06T23:00:00,homme,44,1.8,100,aguerri,peu,1,2,2
-été,intérieur,2025-01-06T19:00:00,2025-01-06T23:00:00,femme,28,1.86,71,régulier,pas du tout,1,2,2
-été,intérieur,2025-01-06T19:00:00,2025-01-06T23:00:00,homme,42,1.69,56,occasionnel,peu,1,2,2
-été,intérieur,2025-01-06T19:00:00,2025-01-06T23:00:00,femme,27,1.8,61,régulier,pas du tout,1,2,2
-été,intérieur,2025-01-06T19:00:00,2025-01-06T23:00:00,homme,23,1.74,58,aguerri,pas du tout,1,2,2
-automne,extérieur,2025-06-28T17:00:00,2025-06-29T01:00:00,femme,32,1.97,80,régulier,normal,2,1,2
-automne,extérieur,2025-06-28T17:00:00,2025-06-29T01:00:00,homme,45,1.57,80,occasionnel,pas du tout,2,1,2
-automne,extérieur,2025-06-28T17:00:00,2025-06-29T01:00:00,femme,56,1.94,76,régulier,peu,2,1,2
-automne,extérieur,2025-06-28T17:00:00,2025-06-29T01:00:00,homme,18,1.79,57,aguerri,pas du tout,2,1,2
-automne,extérieur,2025-06-28T17:00:00,2025-06-29T01:00:00,femme,59,1.6,70,régulier,normal,2,1,2
-automne,extérieur,2025-06-28T17:00:00,2025-06-29T01:00:00,homme,27,1.71,87,régulier,normal,2,1,2
-automne,extérieur,2025-06-28T17:00:00,2025-06-29T01:00:00,femme,54,1.68,67,aguerri,beaucoup,2,1,2
-hiver,extérieur,2025-09-26T21:00:00,2025-09-27T03:00:00,femme,53,1.78,66,régulier,normal,1,1,2
-hiver,extérieur,2025-09-26T21:00:00,2025-09-27T03:00:00,femme,26,1.93,92,occasionnel,peu,1,1,2
-hiver,extérieur,2025-09-26T21:00:00,2025-09-27T03:00:00,femme,28,1.55,82,régulier,normal,1,1,2
-hiver,extérieur,2025-09-26T21:00:00,2025-09-27T03:00:00,homme,28,1.69,90,occasionnel,pas du tout,1,1,2
-hiver,extérieur,2025-10-14T17:00:00,2025-10-14T20:00:00,homme,41,1.54,52,aguerri,beaucoup,2,1,2
-hiver,extérieur,2025-10-14T17:00:00,2025-10-14T20:00:00,femme,57,1.83,68,aguerri,pas du tout,2,1,2
-hiver,extérieur,2025-10-14T17:00:00,2025-10-14T20:00:00,homme,58,1.75,50,occasionnel,normal,2,1,2
-hiver,extérieur,2025-10-14T17:00:00,2025-10-14T20:00:00,homme,20,1.89,82,aguerri,peu,2,1,2
-hiver,extérieur,2025-10-14T17:00:00,2025-10-14T20:00:00,homme,20,1.68,91,occasionnel,peu,2,1,2
-été,extérieur,2025-07-12T20:00:00,2025-07-13T02:00:00,homme,51,1.51,95,occasionnel,pas du tout,1,2,2
-été,extérieur,2025-07-12T20:00:00,2025-07-13T02:00:00,femme,53,1.96,72,régulier,normal,1,2,2
-été,extérieur,2025-07-12T20:00:00,2025-07-13T02:00:00,homme,56,1.98,79,régulier,pas du tout,1,2,2
-été,extérieur,2025-07-12T20:00:00,2025-07-13T02:00:00,femme,29,1.7,56,aguerri,pas du tout,1,2,2
-été,extérieur,2025-07-12T20:00:00,2025-07-13T02:00:00,femme,39,1.97,82,régulier,normal,1,2,2
-été,extérieur,2025-07-12T20:00:00,2025-07-13T02:00:00,femme,42,1.78,99,occasionnel,normal,1,2,2
-été,extérieur,2025-07-12T20:00:00,2025-07-13T02:00:00,femme,47,1.95,51,régulier,pas du tout,1,2,2
-printemps,intérieur,2025-07-21T18:00:00,2025-07-22T02:00:00,homme,38,1.71,72,aguerri,pas du tout,2,1,2
-printemps,intérieur,2025-07-21T18:00:00,2025-07-22T02:00:00,femme,33,1.64,75,aguerri,normal,2,1,2
-printemps,intérieur,2025-07-21T18:00:00,2025-07-22T02:00:00,homme,53,1.97,80,régulier,normal,2,1,2
-printemps,intérieur,2025-07-21T18:00:00,2025-07-22T02:00:00,homme,54,1.63,97,aguerri,peu,2,1,2
-printemps,intérieur,2025-07-21T18:00:00,2025-07-22T02:00:00,femme,30,1.62,65,régulier,peu,2,1,2
-printemps,intérieur,2025-07-21T18:00:00,2025-07-22T02:00:00,homme,30,1.92,89,régulier,peu,2,1,2
-printemps,intérieur,2025-07-21T18:00:00,2025-07-22T02:00:00,homme,25,1.96,93,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-07-21T18:00:00,2025-07-22T02:00:00,homme,52,1.98,80,régulier,normal,2,1,2
-automne,extérieur,2025-08-06T21:00:00,2025-08-07T02:00:00,homme,54,1.56,83,régulier,beaucoup,2,1,2
-automne,extérieur,2025-08-06T21:00:00,2025-08-07T02:00:00,homme,50,1.67,93,occasionnel,beaucoup,2,1,2
-automne,extérieur,2025-08-06T21:00:00,2025-08-07T02:00:00,homme,51,1.73,94,occasionnel,pas du tout,2,1,2
-automne,extérieur,2025-08-06T21:00:00,2025-08-07T02:00:00,homme,42,1.79,70,régulier,normal,2,1,2
-automne,extérieur,2025-08-06T21:00:00,2025-08-07T02:00:00,homme,53,1.63,67,régulier,normal,2,1,2
-automne,extérieur,2025-08-06T21:00:00,2025-08-07T02:00:00,femme,29,1.75,63,régulier,normal,2,1,2
-printemps,extérieur,2025-05-15T18:00:00,2025-05-16T01:00:00,homme,24,1.86,65,aguerri,beaucoup,3,1,2
-printemps,extérieur,2025-05-15T18:00:00,2025-05-16T01:00:00,femme,30,1.57,97,occasionnel,beaucoup,3,1,2
-printemps,extérieur,2025-05-15T18:00:00,2025-05-16T01:00:00,homme,29,1.71,58,aguerri,normal,3,1,2
-printemps,extérieur,2025-05-15T18:00:00,2025-05-16T01:00:00,femme,37,1.63,86,occasionnel,beaucoup,3,1,2
-été,intérieur,2025-01-07T19:00:00,2025-01-08T01:00:00,homme,46,1.87,66,régulier,normal,2,1,2
-été,intérieur,2025-01-07T19:00:00,2025-01-08T01:00:00,femme,40,1.51,57,régulier,peu,2,1,2
-été,intérieur,2025-01-07T19:00:00,2025-01-08T01:00:00,homme,36,1.68,93,aguerri,beaucoup,2,1,2
-été,intérieur,2025-01-07T19:00:00,2025-01-08T01:00:00,femme,23,1.69,68,régulier,peu,2,1,2
-été,intérieur,2025-01-07T19:00:00,2025-01-08T01:00:00,homme,58,1.9,71,régulier,beaucoup,2,1,2
-été,intérieur,2025-01-07T19:00:00,2025-01-08T01:00:00,homme,23,1.58,64,régulier,normal,2,1,2
-été,intérieur,2025-01-07T19:00:00,2025-01-08T01:00:00,femme,35,1.8,75,régulier,beaucoup,2,1,2
-été,intérieur,2025-01-07T19:00:00,2025-01-08T01:00:00,femme,55,1.76,78,régulier,peu,2,1,2
-hiver,intérieur,2025-03-24T18:00:00,2025-03-25T02:00:00,homme,31,1.58,56,occasionnel,pas du tout,1,1,2
-hiver,intérieur,2025-03-24T18:00:00,2025-03-25T02:00:00,femme,53,1.53,99,régulier,pas du tout,1,1,2
-hiver,intérieur,2025-03-24T18:00:00,2025-03-25T02:00:00,homme,34,1.81,55,aguerri,beaucoup,1,1,2
-hiver,intérieur,2025-03-24T18:00:00,2025-03-25T02:00:00,femme,32,1.62,68,régulier,peu,1,1,2
-hiver,intérieur,2025-03-24T18:00:00,2025-03-25T02:00:00,homme,51,1.92,51,occasionnel,normal,1,1,2
-printemps,extérieur,2025-08-28T21:00:00,2025-08-29T02:00:00,femme,26,1.98,94,aguerri,peu,2,1,2
-printemps,extérieur,2025-08-28T21:00:00,2025-08-29T02:00:00,femme,58,1.87,86,régulier,normal,2,1,2
-printemps,extérieur,2025-08-28T21:00:00,2025-08-29T02:00:00,femme,48,1.77,55,régulier,normal,2,1,2
-printemps,extérieur,2025-08-28T21:00:00,2025-08-29T02:00:00,femme,44,1.63,69,occasionnel,pas du tout,2,1,2
-printemps,extérieur,2025-08-28T21:00:00,2025-08-29T02:00:00,homme,40,1.64,84,occasionnel,beaucoup,2,1,2
-printemps,extérieur,2025-08-28T21:00:00,2025-08-29T02:00:00,femme,37,1.5,77,régulier,peu,2,1,2
-printemps,extérieur,2025-08-28T21:00:00,2025-08-29T02:00:00,homme,53,1.69,76,aguerri,beaucoup,2,1,2
-automne,intérieur,2025-03-23T20:00:00,2025-03-24T02:00:00,femme,23,1.71,65,aguerri,normal,2,1,2
-automne,intérieur,2025-03-23T20:00:00,2025-03-24T02:00:00,femme,59,1.87,67,régulier,peu,2,1,2
-automne,intérieur,2025-03-23T20:00:00,2025-03-24T02:00:00,homme,29,1.57,57,aguerri,beaucoup,2,1,2
-automne,intérieur,2025-03-23T20:00:00,2025-03-24T02:00:00,femme,35,1.85,81,occasionnel,normal,2,1,2
-été,intérieur,2025-01-18T17:00:00,2025-01-18T21:00:00,femme,35,1.56,78,aguerri,pas du tout,1,1,2
-été,intérieur,2025-01-18T17:00:00,2025-01-18T21:00:00,homme,23,1.58,81,occasionnel,normal,1,1,2
-été,intérieur,2025-01-18T17:00:00,2025-01-18T21:00:00,femme,37,1.89,81,régulier,beaucoup,1,1,2
-été,extérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,femme,22,1.77,61,occasionnel,normal,1,1,2
-été,extérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,femme,18,1.56,99,aguerri,peu,1,1,2
-été,extérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,femme,46,1.62,52,occasionnel,beaucoup,1,1,2
-été,extérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,homme,51,1.83,63,régulier,beaucoup,1,1,2
-été,extérieur,2025-02-27T18:00:00,2025-02-27T21:00:00,femme,38,1.58,96,occasionnel,pas du tout,1,1,2
-printemps,extérieur,2025-11-10T18:00:00,2025-11-10T23:00:00,homme,25,1.62,77,régulier,pas du tout,0,2,2
-printemps,extérieur,2025-11-10T18:00:00,2025-11-10T23:00:00,homme,35,1.79,75,occasionnel,pas du tout,0,2,2
-printemps,extérieur,2025-11-10T18:00:00,2025-11-10T23:00:00,homme,55,1.89,80,aguerri,peu,0,2,2
-printemps,intérieur,2025-04-06T20:00:00,2025-04-06T23:00:00,femme,58,1.53,72,aguerri,peu,2,1,2
-printemps,intérieur,2025-04-06T20:00:00,2025-04-06T23:00:00,homme,26,1.74,70,aguerri,normal,2,1,2
-printemps,intérieur,2025-04-06T20:00:00,2025-04-06T23:00:00,femme,30,1.51,74,régulier,peu,2,1,2
-printemps,intérieur,2025-04-06T20:00:00,2025-04-06T23:00:00,femme,20,1.74,78,aguerri,normal,2,1,2
-printemps,intérieur,2025-04-06T20:00:00,2025-04-06T23:00:00,femme,30,1.78,84,régulier,normal,2,1,2
-printemps,intérieur,2025-04-06T20:00:00,2025-04-06T23:00:00,femme,35,1.93,88,aguerri,peu,2,1,2
-printemps,intérieur,2025-04-06T20:00:00,2025-04-06T23:00:00,homme,51,1.58,68,régulier,normal,2,1,2
-printemps,intérieur,2025-04-06T20:00:00,2025-04-06T23:00:00,femme,18,1.89,82,régulier,peu,2,1,2
-été,extérieur,2025-10-08T19:00:00,2025-10-09T03:00:00,femme,30,1.76,81,aguerri,peu,0,2,2
-été,extérieur,2025-10-08T19:00:00,2025-10-09T03:00:00,femme,38,1.7,70,occasionnel,pas du tout,0,2,2
-été,extérieur,2025-10-08T19:00:00,2025-10-09T03:00:00,homme,20,1.92,58,occasionnel,pas du tout,0,2,2
-hiver,intérieur,2025-08-07T17:00:00,2025-08-07T20:00:00,femme,60,1.74,89,aguerri,normal,1,2,2
-hiver,intérieur,2025-08-07T17:00:00,2025-08-07T20:00:00,homme,41,1.61,95,occasionnel,pas du tout,1,2,2
-hiver,intérieur,2025-08-07T17:00:00,2025-08-07T20:00:00,homme,59,1.75,55,régulier,pas du tout,1,2,2
-hiver,intérieur,2025-08-07T17:00:00,2025-08-07T20:00:00,femme,53,1.87,76,régulier,pas du tout,1,2,2
-hiver,intérieur,2025-08-07T17:00:00,2025-08-07T20:00:00,femme,51,1.52,54,régulier,pas du tout,1,2,2
-hiver,intérieur,2025-08-07T17:00:00,2025-08-07T20:00:00,homme,51,1.55,96,occasionnel,beaucoup,1,2,2
-hiver,intérieur,2025-08-07T17:00:00,2025-08-07T20:00:00,homme,30,1.76,65,aguerri,peu,1,2,2
-automne,intérieur,2025-11-19T19:00:00,2025-11-20T03:00:00,femme,24,1.58,61,aguerri,beaucoup,2,1,2
-automne,intérieur,2025-11-19T19:00:00,2025-11-20T03:00:00,femme,60,1.58,88,régulier,normal,2,1,2
-automne,intérieur,2025-11-19T19:00:00,2025-11-20T03:00:00,femme,53,2.0,70,régulier,beaucoup,2,1,2
-automne,intérieur,2025-11-19T19:00:00,2025-11-20T03:00:00,femme,38,1.8,86,aguerri,peu,2,1,2
-automne,intérieur,2025-11-19T19:00:00,2025-11-20T03:00:00,femme,53,1.96,66,régulier,beaucoup,2,1,2
-automne,intérieur,2025-11-19T19:00:00,2025-11-20T03:00:00,femme,43,1.5,52,régulier,pas du tout,2,1,2
-hiver,extérieur,2025-01-10T18:00:00,2025-01-10T22:00:00,homme,35,1.96,82,aguerri,peu,1,2,2
-hiver,extérieur,2025-01-10T18:00:00,2025-01-10T22:00:00,homme,20,1.73,59,occasionnel,normal,1,2,2
-hiver,extérieur,2025-01-10T18:00:00,2025-01-10T22:00:00,femme,55,1.62,66,régulier,pas du tout,1,2,2
-hiver,extérieur,2025-01-10T18:00:00,2025-01-10T22:00:00,femme,54,1.96,96,occasionnel,normal,1,2,2
-hiver,extérieur,2025-01-10T18:00:00,2025-01-10T22:00:00,femme,29,1.74,94,aguerri,pas du tout,1,2,2
-printemps,intérieur,2025-12-26T21:00:00,2025-12-27T03:00:00,homme,39,1.67,77,régulier,pas du tout,2,1,2
-printemps,intérieur,2025-12-26T21:00:00,2025-12-27T03:00:00,homme,59,1.92,50,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-12-26T21:00:00,2025-12-27T03:00:00,homme,37,1.76,70,aguerri,peu,2,1,2
-printemps,intérieur,2025-03-02T20:00:00,2025-03-03T02:00:00,homme,32,1.72,100,régulier,peu,1,1,2
-printemps,intérieur,2025-03-02T20:00:00,2025-03-03T02:00:00,homme,39,1.54,86,aguerri,pas du tout,1,1,2
-printemps,intérieur,2025-03-02T20:00:00,2025-03-03T02:00:00,femme,34,1.54,82,régulier,peu,1,1,2
-printemps,intérieur,2025-03-02T20:00:00,2025-03-03T02:00:00,homme,48,1.78,81,régulier,peu,1,1,2
-printemps,intérieur,2025-03-02T20:00:00,2025-03-03T02:00:00,homme,33,1.54,99,régulier,normal,1,1,2
-printemps,intérieur,2025-03-02T20:00:00,2025-03-03T02:00:00,homme,25,1.84,77,régulier,normal,1,1,2
-printemps,intérieur,2025-03-02T20:00:00,2025-03-03T02:00:00,homme,38,1.67,91,occasionnel,normal,1,1,2
-hiver,extérieur,2025-10-27T20:00:00,2025-10-28T03:00:00,femme,20,1.96,64,occasionnel,normal,2,1,2
-hiver,extérieur,2025-10-27T20:00:00,2025-10-28T03:00:00,homme,23,1.56,53,occasionnel,peu,2,1,2
-hiver,extérieur,2025-10-27T20:00:00,2025-10-28T03:00:00,femme,18,1.67,57,régulier,beaucoup,2,1,2
-hiver,extérieur,2025-10-27T20:00:00,2025-10-28T03:00:00,femme,19,1.67,97,aguerri,peu,2,1,2
-hiver,extérieur,2025-09-16T21:00:00,2025-09-17T05:00:00,homme,42,1.79,92,aguerri,pas du tout,1,1,2
-hiver,extérieur,2025-09-16T21:00:00,2025-09-17T05:00:00,femme,28,1.53,62,aguerri,normal,1,1,2
-hiver,extérieur,2025-09-16T21:00:00,2025-09-17T05:00:00,homme,47,1.83,50,occasionnel,beaucoup,1,1,2
-hiver,extérieur,2025-09-16T21:00:00,2025-09-17T05:00:00,femme,60,1.93,92,régulier,pas du tout,1,1,2
-été,extérieur,2025-11-13T18:00:00,2025-11-14T00:00:00,homme,38,1.74,88,aguerri,pas du tout,1,1,2
-été,extérieur,2025-11-13T18:00:00,2025-11-14T00:00:00,homme,30,1.75,79,aguerri,pas du tout,1,1,2
-été,extérieur,2025-11-13T18:00:00,2025-11-14T00:00:00,homme,33,1.96,69,régulier,beaucoup,1,1,2
-été,extérieur,2025-11-13T18:00:00,2025-11-14T00:00:00,femme,28,1.51,93,régulier,normal,1,1,2
-été,extérieur,2025-11-13T18:00:00,2025-11-14T00:00:00,femme,33,2.0,82,régulier,pas du tout,1,1,2
-été,extérieur,2025-11-13T18:00:00,2025-11-14T00:00:00,femme,42,1.95,51,aguerri,normal,1,1,2
-été,extérieur,2025-11-13T18:00:00,2025-11-14T00:00:00,homme,27,1.67,75,aguerri,peu,1,1,2
-été,extérieur,2025-09-22T21:00:00,2025-09-23T05:00:00,homme,44,1.62,59,régulier,normal,2,1,2
-été,extérieur,2025-09-22T21:00:00,2025-09-23T05:00:00,femme,46,1.77,63,aguerri,peu,2,1,2
-été,extérieur,2025-09-22T21:00:00,2025-09-23T05:00:00,homme,26,1.65,95,aguerri,peu,2,1,2
-été,extérieur,2025-09-22T21:00:00,2025-09-23T05:00:00,femme,27,1.83,86,occasionnel,normal,2,1,2
-été,extérieur,2025-09-22T21:00:00,2025-09-23T05:00:00,homme,53,1.77,96,occasionnel,peu,2,1,2
-été,extérieur,2025-09-22T21:00:00,2025-09-23T05:00:00,femme,27,1.86,98,régulier,beaucoup,2,1,2
-été,extérieur,2025-09-22T21:00:00,2025-09-23T05:00:00,femme,37,1.72,90,aguerri,normal,2,1,2
-été,extérieur,2025-09-22T21:00:00,2025-09-23T05:00:00,homme,30,1.55,61,occasionnel,normal,2,1,2
-hiver,intérieur,2025-04-22T17:00:00,2025-04-22T22:00:00,femme,26,1.75,88,régulier,normal,2,1,2
-hiver,intérieur,2025-04-22T17:00:00,2025-04-22T22:00:00,homme,42,1.75,58,occasionnel,peu,2,1,2
-hiver,intérieur,2025-04-22T17:00:00,2025-04-22T22:00:00,homme,20,1.7,50,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-04-03T18:00:00,2025-04-04T00:00:00,femme,38,1.93,65,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-04-03T18:00:00,2025-04-04T00:00:00,homme,56,1.87,74,aguerri,normal,2,1,2
-hiver,intérieur,2025-04-03T18:00:00,2025-04-04T00:00:00,femme,57,1.97,86,aguerri,pas du tout,2,1,2
-hiver,intérieur,2025-04-03T18:00:00,2025-04-04T00:00:00,homme,46,1.73,52,occasionnel,beaucoup,2,1,2
-hiver,intérieur,2025-04-03T18:00:00,2025-04-04T00:00:00,homme,53,1.69,98,aguerri,pas du tout,2,1,2
-hiver,intérieur,2025-04-03T18:00:00,2025-04-04T00:00:00,homme,36,1.72,69,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-04-03T18:00:00,2025-04-04T00:00:00,homme,45,1.65,53,aguerri,peu,2,1,2
-automne,extérieur,2025-02-24T21:00:00,2025-02-25T00:00:00,homme,43,1.71,78,occasionnel,peu,0,2,2
-automne,extérieur,2025-02-24T21:00:00,2025-02-25T00:00:00,femme,55,1.95,62,régulier,pas du tout,0,2,2
-automne,extérieur,2025-02-24T21:00:00,2025-02-25T00:00:00,femme,38,1.85,95,occasionnel,pas du tout,0,2,2
-automne,extérieur,2025-02-24T21:00:00,2025-02-25T00:00:00,homme,25,1.85,90,régulier,pas du tout,0,2,2
-automne,intérieur,2025-07-18T20:00:00,2025-07-18T23:00:00,femme,54,1.94,59,occasionnel,peu,1,2,2
-automne,intérieur,2025-07-18T20:00:00,2025-07-18T23:00:00,homme,21,1.71,69,aguerri,beaucoup,1,2,2
-automne,intérieur,2025-07-18T20:00:00,2025-07-18T23:00:00,femme,58,1.59,58,occasionnel,pas du tout,1,2,2
-automne,intérieur,2025-07-18T20:00:00,2025-07-18T23:00:00,femme,18,1.73,81,aguerri,pas du tout,1,2,2
-automne,intérieur,2025-04-19T20:00:00,2025-04-20T02:00:00,femme,23,1.8,50,occasionnel,normal,2,1,2
-automne,intérieur,2025-04-19T20:00:00,2025-04-20T02:00:00,homme,21,1.59,53,aguerri,normal,2,1,2
-automne,intérieur,2025-04-19T20:00:00,2025-04-20T02:00:00,homme,27,1.93,92,aguerri,normal,2,1,2
-automne,intérieur,2025-04-19T20:00:00,2025-04-20T02:00:00,femme,23,1.52,76,occasionnel,peu,2,1,2
-automne,intérieur,2025-04-19T20:00:00,2025-04-20T02:00:00,femme,57,1.83,94,aguerri,peu,2,1,2
-automne,intérieur,2025-04-19T20:00:00,2025-04-20T02:00:00,femme,55,1.68,52,occasionnel,normal,2,1,2
-printemps,extérieur,2025-07-27T17:00:00,2025-07-27T23:00:00,homme,36,1.74,57,aguerri,normal,1,1,2
-printemps,extérieur,2025-07-27T17:00:00,2025-07-27T23:00:00,femme,51,1.71,63,aguerri,peu,1,1,2
-printemps,extérieur,2025-07-27T17:00:00,2025-07-27T23:00:00,homme,24,1.79,90,aguerri,pas du tout,1,1,2
-printemps,extérieur,2025-07-27T17:00:00,2025-07-27T23:00:00,femme,56,1.97,95,régulier,beaucoup,1,1,2
-printemps,extérieur,2025-07-27T17:00:00,2025-07-27T23:00:00,femme,34,1.76,89,régulier,peu,1,1,2
-printemps,extérieur,2025-07-27T17:00:00,2025-07-27T23:00:00,femme,51,1.86,81,régulier,peu,1,1,2
-printemps,extérieur,2025-07-27T17:00:00,2025-07-27T23:00:00,homme,36,1.99,50,occasionnel,pas du tout,1,1,2
-automne,intérieur,2025-12-28T18:00:00,2025-12-29T01:00:00,femme,20,1.67,85,aguerri,peu,1,1,2
-automne,intérieur,2025-12-28T18:00:00,2025-12-29T01:00:00,homme,58,1.6,68,régulier,pas du tout,1,1,2
-automne,intérieur,2025-12-28T18:00:00,2025-12-29T01:00:00,femme,37,1.75,70,occasionnel,pas du tout,1,1,2
-automne,intérieur,2025-12-28T18:00:00,2025-12-29T01:00:00,femme,39,1.7,86,aguerri,pas du tout,1,1,2
-automne,intérieur,2025-12-28T18:00:00,2025-12-29T01:00:00,homme,30,1.67,71,aguerri,beaucoup,1,1,2
-automne,intérieur,2025-12-28T18:00:00,2025-12-29T01:00:00,femme,20,1.82,80,occasionnel,beaucoup,1,1,2
-printemps,extérieur,2025-07-24T17:00:00,2025-07-25T00:00:00,femme,53,1.77,63,aguerri,normal,2,1,2
-printemps,extérieur,2025-07-24T17:00:00,2025-07-25T00:00:00,femme,22,1.98,67,occasionnel,normal,2,1,2
-printemps,extérieur,2025-07-24T17:00:00,2025-07-25T00:00:00,femme,58,1.77,60,aguerri,beaucoup,2,1,2
-printemps,extérieur,2025-07-24T17:00:00,2025-07-25T00:00:00,homme,56,1.56,100,régulier,normal,2,1,2
-printemps,extérieur,2025-07-24T17:00:00,2025-07-25T00:00:00,homme,35,1.71,81,occasionnel,normal,2,1,2
-automne,extérieur,2025-04-17T19:00:00,2025-04-17T23:00:00,femme,20,1.89,55,régulier,pas du tout,1,2,2
-automne,extérieur,2025-04-17T19:00:00,2025-04-17T23:00:00,femme,50,1.58,71,régulier,normal,1,2,2
-automne,extérieur,2025-04-17T19:00:00,2025-04-17T23:00:00,femme,27,1.88,56,aguerri,peu,1,2,2
-hiver,intérieur,2025-08-13T21:00:00,2025-08-14T00:00:00,femme,20,1.84,88,occasionnel,normal,2,1,2
-hiver,intérieur,2025-08-13T21:00:00,2025-08-14T00:00:00,femme,20,1.55,99,aguerri,normal,2,1,2
-hiver,intérieur,2025-08-13T21:00:00,2025-08-14T00:00:00,homme,54,1.88,90,occasionnel,normal,2,1,2
-hiver,intérieur,2025-05-09T21:00:00,2025-05-10T02:00:00,homme,35,1.57,67,occasionnel,pas du tout,2,1,2
-hiver,intérieur,2025-05-09T21:00:00,2025-05-10T02:00:00,homme,31,1.77,85,régulier,normal,2,1,2
-hiver,intérieur,2025-05-09T21:00:00,2025-05-10T02:00:00,homme,36,1.79,60,occasionnel,normal,2,1,2
-hiver,intérieur,2025-05-09T21:00:00,2025-05-10T02:00:00,femme,52,1.72,58,occasionnel,beaucoup,2,1,2
-hiver,intérieur,2025-05-09T21:00:00,2025-05-10T02:00:00,homme,24,1.69,55,régulier,beaucoup,2,1,2
-hiver,intérieur,2025-05-09T21:00:00,2025-05-10T02:00:00,homme,56,1.95,90,aguerri,beaucoup,2,1,2
-printemps,extérieur,2025-06-27T18:00:00,2025-06-28T02:00:00,homme,47,1.78,55,aguerri,beaucoup,3,1,2
-printemps,extérieur,2025-06-27T18:00:00,2025-06-28T02:00:00,homme,47,1.66,91,aguerri,beaucoup,3,1,2
-printemps,extérieur,2025-06-27T18:00:00,2025-06-28T02:00:00,femme,32,1.97,59,aguerri,normal,3,1,2
-printemps,extérieur,2025-06-27T18:00:00,2025-06-28T02:00:00,femme,43,1.59,92,régulier,normal,3,1,2
-printemps,extérieur,2025-06-27T18:00:00,2025-06-28T02:00:00,femme,49,1.52,80,occasionnel,normal,3,1,2
-printemps,extérieur,2025-06-27T18:00:00,2025-06-28T02:00:00,femme,47,1.92,68,régulier,peu,3,1,2
-printemps,extérieur,2025-06-27T18:00:00,2025-06-28T02:00:00,homme,43,1.91,100,occasionnel,normal,3,1,2
-printemps,extérieur,2025-06-27T18:00:00,2025-06-28T02:00:00,homme,37,1.77,75,aguerri,beaucoup,3,1,2
-hiver,intérieur,2025-09-06T20:00:00,2025-09-07T02:00:00,femme,31,1.91,87,régulier,beaucoup,1,2,2
-hiver,intérieur,2025-09-06T20:00:00,2025-09-07T02:00:00,femme,52,1.85,61,aguerri,pas du tout,1,2,2
-hiver,intérieur,2025-09-06T20:00:00,2025-09-07T02:00:00,femme,25,1.8,79,régulier,pas du tout,1,2,2
-automne,intérieur,2025-05-13T17:00:00,2025-05-14T00:00:00,femme,38,1.75,92,occasionnel,pas du tout,1,2,2
-automne,intérieur,2025-05-13T17:00:00,2025-05-14T00:00:00,homme,26,1.94,98,aguerri,pas du tout,1,2,2
-automne,intérieur,2025-05-13T17:00:00,2025-05-14T00:00:00,homme,60,1.57,84,régulier,beaucoup,1,2,2
-automne,intérieur,2025-04-22T19:00:00,2025-04-23T00:00:00,femme,45,1.86,72,occasionnel,pas du tout,1,1,2
-automne,intérieur,2025-04-22T19:00:00,2025-04-23T00:00:00,femme,26,1.93,53,régulier,pas du tout,1,1,2
-automne,intérieur,2025-04-22T19:00:00,2025-04-23T00:00:00,homme,53,1.91,72,occasionnel,normal,1,1,2
-automne,intérieur,2025-04-22T19:00:00,2025-04-23T00:00:00,homme,33,1.72,87,régulier,normal,1,1,2
-automne,intérieur,2025-04-22T19:00:00,2025-04-23T00:00:00,femme,43,1.69,84,occasionnel,peu,1,1,2
-automne,intérieur,2025-04-22T19:00:00,2025-04-23T00:00:00,femme,26,1.59,74,régulier,beaucoup,1,1,2
-automne,intérieur,2025-04-22T19:00:00,2025-04-23T00:00:00,homme,36,2.0,92,occasionnel,peu,1,1,2
-été,intérieur,2025-11-01T18:00:00,2025-11-02T02:00:00,femme,26,1.54,91,régulier,beaucoup,2,1,2
-été,intérieur,2025-11-01T18:00:00,2025-11-02T02:00:00,femme,57,1.59,82,régulier,beaucoup,2,1,2
-été,intérieur,2025-11-01T18:00:00,2025-11-02T02:00:00,femme,40,1.61,77,aguerri,pas du tout,2,1,2
-été,intérieur,2025-11-01T18:00:00,2025-11-02T02:00:00,femme,33,1.86,67,régulier,normal,2,1,2
-été,intérieur,2025-11-01T18:00:00,2025-11-02T02:00:00,homme,20,1.78,95,régulier,pas du tout,2,1,2
-été,intérieur,2025-11-01T18:00:00,2025-11-02T02:00:00,femme,23,1.57,96,aguerri,normal,2,1,2
-automne,intérieur,2025-09-20T17:00:00,2025-09-20T21:00:00,homme,58,1.77,87,régulier,pas du tout,1,1,2
-automne,intérieur,2025-09-20T17:00:00,2025-09-20T21:00:00,femme,52,1.89,80,régulier,beaucoup,1,1,2
-automne,intérieur,2025-09-20T17:00:00,2025-09-20T21:00:00,femme,44,1.68,68,régulier,peu,1,1,2
-automne,intérieur,2025-09-20T17:00:00,2025-09-20T21:00:00,homme,56,1.87,96,aguerri,normal,1,1,2
-automne,intérieur,2025-09-20T17:00:00,2025-09-20T21:00:00,homme,58,1.74,60,aguerri,pas du tout,1,1,2
-automne,intérieur,2025-09-20T17:00:00,2025-09-20T21:00:00,femme,57,1.51,81,occasionnel,peu,1,1,2
-été,extérieur,2025-05-05T21:00:00,2025-05-06T02:00:00,femme,18,1.87,88,occasionnel,peu,1,1,2
-été,extérieur,2025-05-05T21:00:00,2025-05-06T02:00:00,femme,41,1.9,66,aguerri,peu,1,1,2
-été,extérieur,2025-05-05T21:00:00,2025-05-06T02:00:00,femme,29,1.9,52,régulier,pas du tout,1,1,2
-été,extérieur,2025-05-05T21:00:00,2025-05-06T02:00:00,homme,56,1.97,59,régulier,beaucoup,1,1,2
-été,extérieur,2025-05-05T21:00:00,2025-05-06T02:00:00,femme,33,1.83,96,aguerri,peu,1,1,2
-hiver,extérieur,2025-01-21T19:00:00,2025-01-21T22:00:00,homme,47,1.7,69,régulier,peu,2,1,2
-hiver,extérieur,2025-01-21T19:00:00,2025-01-21T22:00:00,femme,42,1.74,59,aguerri,beaucoup,2,1,2
-hiver,extérieur,2025-01-21T19:00:00,2025-01-21T22:00:00,homme,36,1.96,78,régulier,normal,2,1,2
-été,intérieur,2025-09-21T19:00:00,2025-09-22T01:00:00,femme,39,1.64,56,régulier,beaucoup,2,1,2
-été,intérieur,2025-09-21T19:00:00,2025-09-22T01:00:00,femme,33,1.87,87,occasionnel,normal,2,1,2
-été,intérieur,2025-09-21T19:00:00,2025-09-22T01:00:00,homme,38,1.77,93,occasionnel,pas du tout,2,1,2
-été,intérieur,2025-09-21T19:00:00,2025-09-22T01:00:00,homme,44,1.55,56,aguerri,beaucoup,2,1,2
-été,intérieur,2025-09-21T19:00:00,2025-09-22T01:00:00,femme,32,1.86,66,occasionnel,pas du tout,2,1,2
-été,intérieur,2025-09-21T19:00:00,2025-09-22T01:00:00,homme,57,1.55,88,aguerri,peu,2,1,2
-été,intérieur,2025-09-21T19:00:00,2025-09-22T01:00:00,homme,25,1.54,88,occasionnel,beaucoup,2,1,2
-hiver,intérieur,2025-12-06T19:00:00,2025-12-07T00:00:00,homme,58,1.73,67,régulier,normal,3,1,2
-hiver,intérieur,2025-12-06T19:00:00,2025-12-07T00:00:00,femme,28,1.89,67,occasionnel,beaucoup,3,1,2
-hiver,intérieur,2025-12-06T19:00:00,2025-12-07T00:00:00,femme,39,2.0,66,régulier,peu,3,1,2
-hiver,intérieur,2025-12-06T19:00:00,2025-12-07T00:00:00,femme,22,1.75,62,aguerri,beaucoup,3,1,2
-hiver,intérieur,2025-12-06T19:00:00,2025-12-07T00:00:00,homme,59,1.75,59,aguerri,beaucoup,3,1,2
-hiver,intérieur,2025-12-06T19:00:00,2025-12-07T00:00:00,homme,57,1.82,78,aguerri,normal,3,1,2
-été,intérieur,2025-02-03T21:00:00,2025-02-04T05:00:00,femme,19,1.95,59,aguerri,pas du tout,1,1,2
-été,intérieur,2025-02-03T21:00:00,2025-02-04T05:00:00,homme,60,1.7,59,aguerri,normal,1,1,2
-été,intérieur,2025-02-03T21:00:00,2025-02-04T05:00:00,femme,54,1.5,95,régulier,beaucoup,1,1,2
-été,intérieur,2025-02-03T21:00:00,2025-02-04T05:00:00,femme,43,1.92,99,occasionnel,peu,1,1,2
-été,intérieur,2025-02-03T21:00:00,2025-02-04T05:00:00,homme,42,1.98,99,régulier,pas du tout,1,1,2
-printemps,extérieur,2025-11-10T20:00:00,2025-11-10T23:00:00,homme,41,1.77,71,occasionnel,beaucoup,2,1,2
-printemps,extérieur,2025-11-10T20:00:00,2025-11-10T23:00:00,femme,59,1.6,85,occasionnel,beaucoup,2,1,2
-printemps,extérieur,2025-11-10T20:00:00,2025-11-10T23:00:00,homme,37,1.85,56,aguerri,normal,2,1,2
-printemps,extérieur,2025-11-10T20:00:00,2025-11-10T23:00:00,femme,23,1.94,78,aguerri,peu,2,1,2
-printemps,extérieur,2025-11-10T20:00:00,2025-11-10T23:00:00,homme,20,1.6,96,aguerri,peu,2,1,2
-printemps,extérieur,2025-11-10T20:00:00,2025-11-10T23:00:00,femme,42,1.53,84,aguerri,normal,2,1,2
-printemps,extérieur,2025-11-10T20:00:00,2025-11-10T23:00:00,femme,52,1.98,78,occasionnel,pas du tout,2,1,2
-printemps,extérieur,2025-11-10T20:00:00,2025-11-10T23:00:00,femme,21,1.67,96,occasionnel,beaucoup,2,1,2
-été,intérieur,2025-11-22T21:00:00,2025-11-23T03:00:00,homme,55,1.62,54,occasionnel,peu,1,2,2
-été,intérieur,2025-11-22T21:00:00,2025-11-23T03:00:00,femme,59,1.51,89,occasionnel,peu,1,2,2
-été,intérieur,2025-11-22T21:00:00,2025-11-23T03:00:00,homme,18,1.59,53,régulier,pas du tout,1,2,2
-été,intérieur,2025-11-22T21:00:00,2025-11-23T03:00:00,femme,57,1.59,87,occasionnel,pas du tout,1,2,2
-été,intérieur,2025-11-22T21:00:00,2025-11-23T03:00:00,homme,49,1.8,89,occasionnel,pas du tout,1,2,2
-été,intérieur,2025-11-22T21:00:00,2025-11-23T03:00:00,homme,45,1.67,97,aguerri,beaucoup,1,2,2
-été,intérieur,2025-11-22T21:00:00,2025-11-23T03:00:00,femme,25,1.99,86,aguerri,peu,1,2,2
-été,intérieur,2025-11-22T21:00:00,2025-11-23T03:00:00,femme,31,1.88,87,occasionnel,normal,1,2,2
-été,intérieur,2025-05-05T20:00:00,2025-05-06T00:00:00,femme,53,1.58,65,aguerri,pas du tout,2,1,2
-été,intérieur,2025-05-05T20:00:00,2025-05-06T00:00:00,homme,24,1.9,90,aguerri,beaucoup,2,1,2
-été,intérieur,2025-05-05T20:00:00,2025-05-06T00:00:00,homme,19,1.94,55,occasionnel,pas du tout,2,1,2
-été,intérieur,2025-05-05T20:00:00,2025-05-06T00:00:00,homme,23,1.85,87,régulier,beaucoup,2,1,2
-été,intérieur,2025-05-05T20:00:00,2025-05-06T00:00:00,femme,26,1.6,90,régulier,beaucoup,2,1,2
-été,intérieur,2025-05-05T20:00:00,2025-05-06T00:00:00,femme,33,1.97,89,aguerri,pas du tout,2,1,2
-été,intérieur,2025-05-05T20:00:00,2025-05-06T00:00:00,homme,49,1.81,55,aguerri,normal,2,1,2
-été,intérieur,2025-05-05T20:00:00,2025-05-06T00:00:00,femme,44,1.5,65,occasionnel,pas du tout,2,1,2
-été,extérieur,2025-09-17T18:00:00,2025-09-18T00:00:00,homme,35,1.53,57,occasionnel,beaucoup,2,1,2
-été,extérieur,2025-09-17T18:00:00,2025-09-18T00:00:00,femme,29,1.58,52,occasionnel,normal,2,1,2
-été,extérieur,2025-09-17T18:00:00,2025-09-18T00:00:00,femme,31,1.72,71,aguerri,beaucoup,2,1,2
-été,extérieur,2025-09-17T18:00:00,2025-09-18T00:00:00,homme,24,1.87,84,occasionnel,peu,2,1,2
-été,extérieur,2025-09-17T18:00:00,2025-09-18T00:00:00,homme,49,1.76,54,occasionnel,beaucoup,2,1,2
-été,extérieur,2025-09-17T18:00:00,2025-09-18T00:00:00,femme,44,1.6,93,régulier,peu,2,1,2
-été,extérieur,2025-09-17T18:00:00,2025-09-18T00:00:00,homme,38,1.61,65,aguerri,beaucoup,2,1,2
-été,extérieur,2025-09-17T18:00:00,2025-09-18T00:00:00,homme,42,1.95,54,régulier,beaucoup,2,1,2
-été,extérieur,2025-03-07T21:00:00,2025-03-08T03:00:00,femme,41,1.57,96,occasionnel,normal,1,1,2
-été,extérieur,2025-03-07T21:00:00,2025-03-08T03:00:00,femme,30,1.67,52,aguerri,pas du tout,1,1,2
-été,extérieur,2025-03-07T21:00:00,2025-03-08T03:00:00,femme,26,1.56,79,régulier,beaucoup,1,1,2
-été,extérieur,2025-03-07T21:00:00,2025-03-08T03:00:00,homme,39,1.61,68,aguerri,peu,1,1,2
-hiver,intérieur,2025-02-14T21:00:00,2025-02-15T03:00:00,femme,47,1.64,96,régulier,peu,1,1,2
-hiver,intérieur,2025-02-14T21:00:00,2025-02-15T03:00:00,homme,38,1.72,64,aguerri,peu,1,1,2
-hiver,intérieur,2025-02-14T21:00:00,2025-02-15T03:00:00,homme,44,1.99,52,régulier,pas du tout,1,1,2
-hiver,intérieur,2025-02-14T21:00:00,2025-02-15T03:00:00,femme,51,1.7,94,occasionnel,beaucoup,1,1,2
-automne,intérieur,2025-02-18T17:00:00,2025-02-19T01:00:00,femme,31,1.57,68,occasionnel,pas du tout,1,1,2
-automne,intérieur,2025-02-18T17:00:00,2025-02-19T01:00:00,homme,48,1.83,60,aguerri,beaucoup,1,1,2
-automne,intérieur,2025-02-18T17:00:00,2025-02-19T01:00:00,homme,47,1.73,58,aguerri,beaucoup,1,1,2
-automne,intérieur,2025-02-18T17:00:00,2025-02-19T01:00:00,homme,41,1.81,95,aguerri,pas du tout,1,1,2
-automne,intérieur,2025-02-18T17:00:00,2025-02-19T01:00:00,homme,42,1.95,71,aguerri,pas du tout,1,1,2
-automne,intérieur,2025-02-18T17:00:00,2025-02-19T01:00:00,femme,45,1.88,94,aguerri,peu,1,1,2
-automne,intérieur,2025-02-18T17:00:00,2025-02-19T01:00:00,homme,57,1.94,97,occasionnel,normal,1,1,2
-automne,intérieur,2025-02-18T17:00:00,2025-02-19T01:00:00,homme,25,1.69,79,aguerri,pas du tout,1,1,2
-printemps,extérieur,2025-03-21T21:00:00,2025-03-22T05:00:00,homme,26,1.99,65,aguerri,pas du tout,2,1,2
-printemps,extérieur,2025-03-21T21:00:00,2025-03-22T05:00:00,femme,55,1.94,94,occasionnel,peu,2,1,2
-printemps,extérieur,2025-03-21T21:00:00,2025-03-22T05:00:00,femme,40,1.95,82,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-02-12T19:00:00,2025-02-13T01:00:00,homme,48,1.85,93,aguerri,normal,1,1,2
-printemps,intérieur,2025-02-12T19:00:00,2025-02-13T01:00:00,femme,57,1.68,93,aguerri,pas du tout,1,1,2
-printemps,intérieur,2025-02-12T19:00:00,2025-02-13T01:00:00,homme,47,1.54,75,occasionnel,normal,1,1,2
-printemps,intérieur,2025-02-12T19:00:00,2025-02-13T01:00:00,homme,24,1.58,57,aguerri,peu,1,1,2
-printemps,intérieur,2025-02-12T19:00:00,2025-02-13T01:00:00,femme,27,1.94,83,aguerri,pas du tout,1,1,2
-printemps,intérieur,2025-02-12T19:00:00,2025-02-13T01:00:00,femme,44,1.98,84,occasionnel,beaucoup,1,1,2
-printemps,extérieur,2025-08-24T17:00:00,2025-08-24T22:00:00,homme,19,1.94,64,aguerri,normal,2,1,2
-printemps,extérieur,2025-08-24T17:00:00,2025-08-24T22:00:00,femme,55,1.67,91,régulier,beaucoup,2,1,2
-printemps,extérieur,2025-08-24T17:00:00,2025-08-24T22:00:00,femme,47,1.65,58,régulier,peu,2,1,2
-printemps,extérieur,2025-08-24T17:00:00,2025-08-24T22:00:00,femme,32,1.74,68,occasionnel,peu,2,1,2
-printemps,extérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,femme,29,1.99,95,aguerri,peu,1,2,2
-printemps,extérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,homme,33,1.56,70,aguerri,peu,1,2,2
-printemps,extérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,femme,34,1.68,63,aguerri,pas du tout,1,2,2
-printemps,extérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,femme,40,1.57,78,aguerri,peu,1,2,2
-printemps,extérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,femme,25,1.96,75,régulier,peu,1,2,2
-printemps,extérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,femme,38,1.58,97,aguerri,normal,1,2,2
-printemps,extérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,femme,48,1.95,98,aguerri,peu,1,2,2
-printemps,extérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,femme,39,1.84,96,régulier,pas du tout,1,2,2
-hiver,intérieur,2025-05-01T20:00:00,2025-05-02T03:00:00,femme,40,1.55,53,aguerri,peu,2,1,2
-hiver,intérieur,2025-05-01T20:00:00,2025-05-02T03:00:00,homme,35,1.6,55,aguerri,beaucoup,2,1,2
-hiver,intérieur,2025-05-01T20:00:00,2025-05-02T03:00:00,homme,50,1.7,81,régulier,pas du tout,2,1,2
-hiver,intérieur,2025-05-01T20:00:00,2025-05-02T03:00:00,femme,43,1.57,77,régulier,beaucoup,2,1,2
-printemps,intérieur,2025-05-12T19:00:00,2025-05-13T00:00:00,homme,31,1.86,78,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-05-12T19:00:00,2025-05-13T00:00:00,femme,36,1.58,96,régulier,beaucoup,2,1,2
-printemps,intérieur,2025-05-12T19:00:00,2025-05-13T00:00:00,homme,55,1.8,59,occasionnel,normal,2,1,2
-printemps,intérieur,2025-05-12T19:00:00,2025-05-13T00:00:00,femme,51,1.99,54,aguerri,beaucoup,2,1,2
-printemps,intérieur,2025-05-12T19:00:00,2025-05-13T00:00:00,homme,18,1.7,67,régulier,peu,2,1,2
-printemps,intérieur,2025-05-12T19:00:00,2025-05-13T00:00:00,femme,54,1.88,58,occasionnel,peu,2,1,2
-automne,extérieur,2025-09-16T17:00:00,2025-09-16T22:00:00,femme,49,1.78,79,occasionnel,pas du tout,2,1,2
-automne,extérieur,2025-09-16T17:00:00,2025-09-16T22:00:00,homme,27,1.63,90,aguerri,beaucoup,2,1,2
-automne,extérieur,2025-09-16T17:00:00,2025-09-16T22:00:00,homme,59,1.83,68,régulier,peu,2,1,2
-automne,extérieur,2025-09-16T17:00:00,2025-09-16T22:00:00,femme,59,1.62,57,régulier,beaucoup,2,1,2
-automne,extérieur,2025-09-16T17:00:00,2025-09-16T22:00:00,homme,56,1.87,87,régulier,beaucoup,2,1,2
-automne,extérieur,2025-09-16T17:00:00,2025-09-16T22:00:00,femme,58,1.84,94,occasionnel,normal,2,1,2
-automne,extérieur,2025-09-16T17:00:00,2025-09-16T22:00:00,homme,34,1.58,53,occasionnel,normal,2,1,2
-automne,intérieur,2025-06-06T17:00:00,2025-06-06T22:00:00,femme,58,1.96,72,occasionnel,normal,2,1,2
-automne,intérieur,2025-06-06T17:00:00,2025-06-06T22:00:00,femme,51,1.82,54,aguerri,peu,2,1,2
-automne,intérieur,2025-06-06T17:00:00,2025-06-06T22:00:00,homme,24,1.8,60,aguerri,normal,2,1,2
-automne,intérieur,2025-06-06T17:00:00,2025-06-06T22:00:00,femme,37,1.64,94,aguerri,normal,2,1,2
-automne,intérieur,2025-06-06T17:00:00,2025-06-06T22:00:00,homme,52,1.79,59,occasionnel,peu,2,1,2
-printemps,extérieur,2025-08-14T19:00:00,2025-08-14T23:00:00,homme,27,1.75,62,aguerri,pas du tout,0,2,2
-printemps,extérieur,2025-08-14T19:00:00,2025-08-14T23:00:00,femme,47,1.96,57,occasionnel,pas du tout,0,2,2
-printemps,extérieur,2025-08-14T19:00:00,2025-08-14T23:00:00,femme,40,1.66,73,occasionnel,beaucoup,0,2,2
-printemps,intérieur,2025-12-10T17:00:00,2025-12-11T01:00:00,homme,26,1.93,59,aguerri,peu,0,2,2
+saison,lieu,heure_debut,heure_fin,genre,age,taille,poids,conso_level,boit_ce_soir,biere,verre_soft,part_pizza
+hiver,intérieur,2025-01-28T19:00:00,2025-01-28T23:00:00,femme,18,1.65,63,régulier,beaucoup,4,4,7
+printemps,extérieur,2025-07-21T18:00:00,2025-07-21T23:00:00,homme,19,1.72,61,aguerri,normal,7,3,7
+automne,extérieur,2025-05-03T18:00:00,2025-05-04T02:00:00,homme,21,1.68,65,régulier,beaucoup,7,2,7
+printemps,intérieur,2025-07-09T18:00:00,2025-07-10T00:00:00,homme,25,1.67,73,régulier,beaucoup,6,4,8
+printemps,intérieur,2025-05-06T20:00:00,2025-05-07T04:00:00,femme,21,1.78,73,régulier,beaucoup,7,2,8
+printemps,extérieur,2025-12-28T19:00:00,2025-12-29T02:00:00,homme,21,1.77,66,régulier,beaucoup,7,3,7
+printemps,extérieur,2025-08-18T21:00:00,2025-08-19T01:00:00,femme,23,1.69,62,aguerri,beaucoup,7,4,9
+automne,extérieur,2025-11-01T19:00:00,2025-11-02T01:00:00,femme,24,1.7,64,régulier,beaucoup,6,2,7
+hiver,extérieur,2025-07-06T20:00:00,2025-07-07T03:00:00,homme,21,1.74,69,aguerri,beaucoup,5,3,7
+printemps,intérieur,2025-11-04T21:00:00,2025-11-05T01:00:00,femme,20,1.71,58,régulier,normal,5,3,8
+printemps,intérieur,2025-01-16T18:00:00,2025-01-17T01:00:00,femme,24,1.67,67,aguerri,beaucoup,4,3,9
+automne,extérieur,2025-04-10T20:00:00,2025-04-11T01:00:00,femme,18,1.76,58,aguerri,beaucoup,6,2,8
+été,intérieur,2025-08-22T20:00:00,2025-08-23T01:00:00,homme,19,1.69,65,aguerri,beaucoup,7,3,8
+automne,intérieur,2025-02-15T18:00:00,2025-02-16T01:00:00,homme,23,1.75,60,régulier,normal,4,4,6
+hiver,intérieur,2025-06-03T19:00:00,2025-06-04T03:00:00,homme,25,1.76,63,régulier,beaucoup,6,4,8
+hiver,extérieur,2025-09-03T19:00:00,2025-09-04T02:00:00,homme,18,1.67,60,aguerri,beaucoup,5,2,7
+automne,intérieur,2025-12-19T21:00:00,2025-12-20T04:00:00,homme,23,1.74,73,régulier,beaucoup,5,2,6
+hiver,intérieur,2025-08-28T19:00:00,2025-08-29T01:00:00,homme,19,1.79,63,aguerri,beaucoup,7,3,8
+hiver,extérieur,2025-09-23T20:00:00,2025-09-24T00:00:00,femme,21,1.78,73,aguerri,beaucoup,7,3,9
+été,intérieur,2025-11-08T21:00:00,2025-11-09T04:00:00,homme,18,1.66,58,régulier,normal,7,4,9
+automne,intérieur,2025-11-09T21:00:00,2025-11-10T05:00:00,homme,24,1.69,69,aguerri,beaucoup,4,3,9
+printemps,intérieur,2025-12-13T18:00:00,2025-12-13T22:00:00,homme,21,1.69,67,aguerri,normal,6,3,8
+été,intérieur,2025-03-12T21:00:00,2025-03-13T04:00:00,femme,23,1.68,69,régulier,beaucoup,7,2,9
+automne,extérieur,2025-07-11T18:00:00,2025-07-11T23:00:00,femme,22,1.69,66,régulier,beaucoup,7,4,6
+printemps,extérieur,2025-06-20T19:00:00,2025-06-21T01:00:00,femme,19,1.77,70,régulier,beaucoup,4,3,10
+printemps,intérieur,2025-08-13T21:00:00,2025-08-14T01:00:00,femme,20,1.77,70,régulier,beaucoup,5,2,10
+été,extérieur,2025-07-28T19:00:00,2025-07-29T00:00:00,femme,21,1.8,61,régulier,normal,5,2,8
+hiver,intérieur,2025-01-12T19:00:00,2025-01-13T01:00:00,femme,25,1.78,72,aguerri,normal,7,2,9
+printemps,intérieur,2025-01-08T20:00:00,2025-01-09T03:00:00,homme,20,1.73,56,régulier,beaucoup,4,4,6
+printemps,extérieur,2025-04-04T18:00:00,2025-04-05T01:00:00,femme,25,1.66,58,régulier,beaucoup,5,4,6
+printemps,extérieur,2025-10-17T19:00:00,2025-10-18T00:00:00,femme,18,1.67,73,aguerri,normal,7,3,10
+automne,extérieur,2025-10-04T21:00:00,2025-10-05T04:00:00,femme,21,1.77,58,aguerri,normal,5,4,10
+automne,intérieur,2025-04-02T19:00:00,2025-04-03T03:00:00,homme,19,1.66,63,aguerri,beaucoup,6,2,6
+hiver,intérieur,2025-03-15T18:00:00,2025-03-15T23:00:00,femme,23,1.74,71,régulier,beaucoup,5,2,6
+été,intérieur,2025-12-02T19:00:00,2025-12-03T02:00:00,femme,24,1.76,68,aguerri,beaucoup,4,3,7
+automne,extérieur,2025-02-05T20:00:00,2025-02-06T01:00:00,femme,24,1.74,61,régulier,normal,4,4,6
+été,intérieur,2025-08-17T21:00:00,2025-08-18T04:00:00,homme,20,1.75,72,régulier,beaucoup,4,4,9
+hiver,intérieur,2025-05-18T19:00:00,2025-05-19T03:00:00,femme,22,1.77,73,régulier,beaucoup,7,3,9
+été,extérieur,2025-02-08T20:00:00,2025-02-09T01:00:00,homme,19,1.69,65,régulier,beaucoup,7,4,8
+automne,extérieur,2025-01-03T20:00:00,2025-01-04T03:00:00,homme,24,1.78,59,aguerri,beaucoup,7,4,10
+été,intérieur,2025-08-11T21:00:00,2025-08-12T04:00:00,femme,18,1.66,70,régulier,normal,4,2,8
+hiver,extérieur,2025-12-04T19:00:00,2025-12-04T23:00:00,homme,18,1.75,61,régulier,normal,4,4,10
+printemps,intérieur,2025-03-13T20:00:00,2025-03-14T02:00:00,femme,25,1.76,56,régulier,beaucoup,4,2,7
+hiver,intérieur,2025-10-15T19:00:00,2025-10-16T03:00:00,femme,22,1.69,62,régulier,beaucoup,7,3,8
+hiver,intérieur,2025-03-12T20:00:00,2025-03-13T02:00:00,femme,21,1.68,56,régulier,beaucoup,4,2,8
+automne,extérieur,2025-09-11T20:00:00,2025-09-12T04:00:00,homme,22,1.77,59,régulier,beaucoup,5,3,8
+printemps,intérieur,2025-12-27T20:00:00,2025-12-28T02:00:00,femme,21,1.75,55,régulier,beaucoup,6,2,10
+hiver,extérieur,2025-04-25T18:00:00,2025-04-26T00:00:00,femme,18,1.74,58,régulier,beaucoup,6,3,8
+été,intérieur,2025-02-19T19:00:00,2025-02-20T02:00:00,femme,21,1.7,72,régulier,normal,7,2,9
+été,extérieur,2025-02-23T18:00:00,2025-02-24T02:00:00,femme,18,1.77,67,régulier,beaucoup,7,2,8
+automne,extérieur,2025-05-08T20:00:00,2025-05-09T04:00:00,femme,25,1.69,55,aguerri,normal,4,2,8
+hiver,intérieur,2025-08-12T19:00:00,2025-08-13T03:00:00,homme,25,1.65,72,régulier,beaucoup,7,2,6
+hiver,extérieur,2025-12-12T21:00:00,2025-12-13T02:00:00,femme,18,1.65,58,régulier,beaucoup,4,4,10
+hiver,intérieur,2025-07-08T20:00:00,2025-07-09T01:00:00,femme,19,1.7,64,aguerri,beaucoup,7,4,6
+automne,intérieur,2025-03-22T21:00:00,2025-03-23T02:00:00,homme,18,1.71,66,aguerri,beaucoup,6,2,6
+automne,intérieur,2025-06-05T20:00:00,2025-06-06T04:00:00,femme,23,1.75,68,aguerri,beaucoup,6,4,7
+printemps,intérieur,2025-08-13T19:00:00,2025-08-13T23:00:00,femme,19,1.71,55,régulier,beaucoup,6,3,7
+été,extérieur,2025-12-12T18:00:00,2025-12-12T23:00:00,femme,25,1.79,72,aguerri,beaucoup,4,2,10
+printemps,intérieur,2025-12-01T21:00:00,2025-12-02T03:00:00,homme,25,1.69,61,régulier,beaucoup,6,2,9
+été,extérieur,2025-02-11T19:00:00,2025-02-12T01:00:00,femme,22,1.76,56,aguerri,beaucoup,4,2,6
+hiver,intérieur,2025-02-18T19:00:00,2025-02-19T02:00:00,homme,21,1.75,66,aguerri,beaucoup,5,3,10
+automne,extérieur,2025-01-27T18:00:00,2025-01-28T00:00:00,femme,22,1.77,65,régulier,normal,5,3,7
+printemps,intérieur,2025-03-16T19:00:00,2025-03-17T00:00:00,femme,19,1.74,60,aguerri,beaucoup,5,2,9
+printemps,extérieur,2025-12-07T19:00:00,2025-12-08T02:00:00,femme,25,1.65,59,aguerri,beaucoup,7,4,8
+hiver,intérieur,2025-06-02T18:00:00,2025-06-03T02:00:00,femme,24,1.77,62,régulier,normal,6,2,9
+automne,extérieur,2025-04-20T21:00:00,2025-04-21T01:00:00,homme,19,1.68,63,aguerri,beaucoup,4,4,9
+hiver,intérieur,2025-07-11T18:00:00,2025-07-11T22:00:00,homme,20,1.68,74,aguerri,normal,4,3,9
+printemps,intérieur,2025-01-03T20:00:00,2025-01-04T02:00:00,femme,19,1.76,65,aguerri,beaucoup,4,4,10
+printemps,intérieur,2025-09-21T20:00:00,2025-09-22T03:00:00,homme,22,1.69,73,régulier,normal,6,3,8
+hiver,intérieur,2025-06-17T19:00:00,2025-06-18T00:00:00,femme,25,1.76,61,régulier,beaucoup,4,4,9
+automne,intérieur,2025-10-23T18:00:00,2025-10-24T00:00:00,homme,21,1.8,64,aguerri,beaucoup,5,3,6
+été,intérieur,2025-10-14T19:00:00,2025-10-15T03:00:00,femme,18,1.77,63,aguerri,normal,7,2,8
+automne,extérieur,2025-12-22T18:00:00,2025-12-22T23:00:00,femme,19,1.78,73,régulier,beaucoup,6,4,9
+printemps,extérieur,2025-10-23T18:00:00,2025-10-24T00:00:00,femme,24,1.75,63,régulier,beaucoup,4,3,9
+été,intérieur,2025-03-28T20:00:00,2025-03-29T03:00:00,femme,18,1.67,55,régulier,beaucoup,4,4,10
+automne,extérieur,2025-05-20T19:00:00,2025-05-21T01:00:00,homme,23,1.78,75,régulier,beaucoup,7,4,10
+printemps,extérieur,2025-08-15T20:00:00,2025-08-16T04:00:00,homme,18,1.74,62,aguerri,beaucoup,6,2,9
+automne,intérieur,2025-02-25T21:00:00,2025-02-26T05:00:00,homme,21,1.7,55,aguerri,beaucoup,4,2,10
+printemps,extérieur,2025-03-21T19:00:00,2025-03-22T01:00:00,homme,18,1.79,67,aguerri,beaucoup,7,3,7
+été,extérieur,2025-10-21T18:00:00,2025-10-21T22:00:00,femme,19,1.76,58,aguerri,beaucoup,4,2,7
+hiver,intérieur,2025-02-02T20:00:00,2025-02-03T00:00:00,homme,20,1.74,59,aguerri,beaucoup,6,3,6
+printemps,intérieur,2025-12-27T21:00:00,2025-12-28T02:00:00,homme,23,1.75,55,régulier,beaucoup,6,4,8
+hiver,intérieur,2025-10-08T18:00:00,2025-10-08T23:00:00,femme,23,1.68,60,aguerri,beaucoup,5,2,7
+automne,intérieur,2025-04-09T21:00:00,2025-04-10T03:00:00,femme,18,1.74,74,aguerri,beaucoup,4,3,6
+printemps,intérieur,2025-03-06T18:00:00,2025-03-06T23:00:00,homme,18,1.77,62,aguerri,beaucoup,6,3,9
+automne,extérieur,2025-03-19T18:00:00,2025-03-20T00:00:00,femme,19,1.78,74,aguerri,beaucoup,5,4,8
+hiver,extérieur,2025-07-05T19:00:00,2025-07-05T23:00:00,femme,19,1.75,60,aguerri,beaucoup,4,4,10
+automne,intérieur,2025-12-18T20:00:00,2025-12-19T00:00:00,homme,21,1.74,59,aguerri,beaucoup,4,3,7
+été,extérieur,2025-05-01T18:00:00,2025-05-02T01:00:00,homme,23,1.77,65,régulier,normal,4,2,8
+automne,extérieur,2025-12-14T18:00:00,2025-12-14T23:00:00,homme,18,1.72,70,aguerri,normal,4,3,6
+été,extérieur,2025-04-06T21:00:00,2025-04-07T03:00:00,homme,19,1.7,64,aguerri,beaucoup,6,4,10
+hiver,intérieur,2025-09-21T19:00:00,2025-09-22T03:00:00,homme,21,1.68,55,régulier,beaucoup,7,4,8
+été,extérieur,2025-04-19T21:00:00,2025-04-20T03:00:00,femme,24,1.71,68,aguerri,beaucoup,4,4,10
+été,intérieur,2025-07-05T18:00:00,2025-07-06T00:00:00,homme,25,1.79,64,aguerri,normal,6,3,7
+été,intérieur,2025-08-08T18:00:00,2025-08-09T01:00:00,homme,24,1.65,69,régulier,beaucoup,4,3,6
+hiver,extérieur,2025-11-10T21:00:00,2025-11-11T04:00:00,homme,18,1.66,75,aguerri,beaucoup,4,2,9
+automne,intérieur,2025-01-14T19:00:00,2025-01-15T01:00:00,homme,21,1.7,74,régulier,beaucoup,6,4,10
+hiver,extérieur,2025-03-27T19:00:00,2025-03-28T03:00:00,femme,18,1.67,61,aguerri,beaucoup,6,2,6
+été,extérieur,2025-01-05T19:00:00,2025-01-06T00:00:00,homme,22,1.68,65,aguerri,beaucoup,4,2,9
+printemps,extérieur,2025-02-11T18:00:00,2025-02-11T22:00:00,homme,23,1.69,63,régulier,beaucoup,7,3,6
+hiver,extérieur,2025-02-27T20:00:00,2025-02-28T04:00:00,homme,20,1.7,65,aguerri,beaucoup,4,3,7
+printemps,extérieur,2025-12-04T19:00:00,2025-12-04T23:00:00,femme,20,1.75,68,régulier,beaucoup,4,3,8
+printemps,intérieur,2025-12-11T18:00:00,2025-12-11T23:00:00,femme,22,1.72,66,régulier,normal,5,2,8
+été,intérieur,2025-03-10T18:00:00,2025-03-10T22:00:00,femme,22,1.67,65,aguerri,beaucoup,5,2,6
+été,intérieur,2025-10-02T18:00:00,2025-10-03T02:00:00,femme,23,1.79,59,régulier,normal,7,2,8
+automne,intérieur,2025-02-13T20:00:00,2025-02-14T03:00:00,femme,23,1.66,58,aguerri,normal,7,2,8
+printemps,intérieur,2025-03-15T20:00:00,2025-03-16T03:00:00,femme,20,1.68,62,aguerri,beaucoup,7,3,7
+printemps,extérieur,2025-05-15T19:00:00,2025-05-15T23:00:00,homme,22,1.74,56,régulier,beaucoup,7,3,6
+hiver,extérieur,2025-03-07T18:00:00,2025-03-07T22:00:00,femme,24,1.71,61,aguerri,beaucoup,5,4,9
+automne,intérieur,2025-09-11T20:00:00,2025-09-12T00:00:00,homme,20,1.68,66,aguerri,beaucoup,5,4,9
+automne,extérieur,2025-10-12T19:00:00,2025-10-13T01:00:00,homme,24,1.8,58,aguerri,normal,6,3,9
+été,extérieur,2025-11-17T20:00:00,2025-11-18T03:00:00,femme,21,1.79,70,régulier,beaucoup,4,3,8
+printemps,extérieur,2025-08-02T20:00:00,2025-08-03T00:00:00,femme,23,1.67,70,régulier,beaucoup,6,2,9
+hiver,extérieur,2025-10-07T19:00:00,2025-10-08T02:00:00,femme,20,1.68,62,régulier,beaucoup,6,4,10
+printemps,intérieur,2025-01-15T21:00:00,2025-01-16T03:00:00,homme,23,1.68,62,aguerri,beaucoup,5,2,6
+printemps,extérieur,2025-10-25T20:00:00,2025-10-26T03:00:00,homme,24,1.8,61,régulier,beaucoup,7,2,6
+automne,intérieur,2025-07-02T18:00:00,2025-07-03T01:00:00,homme,22,1.8,58,aguerri,beaucoup,4,4,6
+été,extérieur,2025-12-18T20:00:00,2025-12-19T02:00:00,femme,19,1.78,67,régulier,normal,6,3,8
+printemps,intérieur,2025-09-19T18:00:00,2025-09-20T02:00:00,femme,20,1.74,68,régulier,normal,4,4,9
+hiver,intérieur,2025-07-13T19:00:00,2025-07-14T00:00:00,femme,21,1.69,71,régulier,beaucoup,5,2,6
+automne,extérieur,2025-04-03T19:00:00,2025-04-03T23:00:00,femme,24,1.72,72,aguerri,normal,6,4,6
+printemps,extérieur,2025-09-10T18:00:00,2025-09-11T02:00:00,homme,22,1.67,63,aguerri,beaucoup,4,3,7
+printemps,intérieur,2025-02-17T18:00:00,2025-02-18T00:00:00,homme,24,1.67,63,régulier,beaucoup,4,4,6
+hiver,intérieur,2025-04-12T18:00:00,2025-04-13T02:00:00,femme,18,1.71,57,aguerri,beaucoup,5,4,8
+automne,intérieur,2025-01-03T18:00:00,2025-01-04T01:00:00,homme,23,1.77,63,régulier,beaucoup,5,3,10
+printemps,intérieur,2025-11-26T20:00:00,2025-11-27T04:00:00,femme,22,1.77,70,régulier,beaucoup,6,4,7
+hiver,intérieur,2025-08-13T20:00:00,2025-08-14T01:00:00,femme,18,1.74,59,régulier,beaucoup,4,2,8
+automne,intérieur,2025-06-04T20:00:00,2025-06-05T04:00:00,homme,21,1.67,66,régulier,beaucoup,5,2,8
+hiver,intérieur,2025-09-24T19:00:00,2025-09-25T01:00:00,femme,21,1.66,70,régulier,beaucoup,7,2,6
+automne,intérieur,2025-09-06T19:00:00,2025-09-07T01:00:00,homme,19,1.71,73,aguerri,beaucoup,5,3,10
+printemps,intérieur,2025-10-21T20:00:00,2025-10-22T03:00:00,homme,25,1.65,60,aguerri,beaucoup,7,2,10
+été,extérieur,2025-02-06T19:00:00,2025-02-06T23:00:00,femme,25,1.66,57,aguerri,beaucoup,4,2,8
+printemps,intérieur,2025-04-16T21:00:00,2025-04-17T05:00:00,homme,18,1.69,59,aguerri,beaucoup,7,3,10
+hiver,extérieur,2025-04-18T18:00:00,2025-04-18T23:00:00,homme,25,1.75,59,régulier,beaucoup,6,4,9
+été,intérieur,2025-05-11T18:00:00,2025-05-12T02:00:00,homme,25,1.72,72,régulier,beaucoup,4,3,10
+hiver,intérieur,2025-03-16T21:00:00,2025-03-17T01:00:00,homme,18,1.77,56,aguerri,normal,4,4,9
+hiver,extérieur,2025-08-05T19:00:00,2025-08-05T23:00:00,homme,19,1.65,69,aguerri,beaucoup,4,2,6
+printemps,intérieur,2025-07-14T19:00:00,2025-07-14T23:00:00,homme,23,1.66,69,régulier,beaucoup,7,4,7
+hiver,extérieur,2025-01-16T21:00:00,2025-01-17T05:00:00,femme,24,1.67,61,aguerri,beaucoup,5,4,10
+automne,extérieur,2025-09-17T19:00:00,2025-09-17T23:00:00,femme,18,1.67,60,régulier,beaucoup,5,3,6
+hiver,extérieur,2025-07-06T18:00:00,2025-07-07T02:00:00,homme,20,1.66,60,aguerri,normal,6,3,8
+hiver,extérieur,2025-06-02T21:00:00,2025-06-03T01:00:00,femme,23,1.73,72,régulier,beaucoup,7,4,9
+été,intérieur,2025-05-01T21:00:00,2025-05-02T04:00:00,femme,21,1.67,70,régulier,beaucoup,4,4,6
+printemps,intérieur,2025-12-11T21:00:00,2025-12-12T04:00:00,homme,23,1.68,64,régulier,beaucoup,6,3,8
+printemps,intérieur,2025-04-14T18:00:00,2025-04-15T02:00:00,femme,18,1.77,72,régulier,beaucoup,6,2,8
+automne,extérieur,2025-10-09T18:00:00,2025-10-10T00:00:00,homme,23,1.72,59,aguerri,beaucoup,7,4,7
+automne,extérieur,2025-10-26T19:00:00,2025-10-27T00:00:00,femme,18,1.79,72,aguerri,normal,4,3,6
+été,extérieur,2025-07-03T21:00:00,2025-07-04T04:00:00,femme,21,1.75,65,aguerri,beaucoup,7,2,7
+été,intérieur,2025-10-28T21:00:00,2025-10-29T02:00:00,homme,23,1.69,63,aguerri,beaucoup,7,2,7
+hiver,intérieur,2025-01-28T19:00:00,2025-01-29T03:00:00,homme,24,1.72,69,régulier,beaucoup,6,4,9
+printemps,extérieur,2025-04-09T19:00:00,2025-04-10T00:00:00,homme,23,1.7,61,aguerri,beaucoup,7,3,9
+été,intérieur,2025-07-20T19:00:00,2025-07-20T23:00:00,homme,23,1.75,66,aguerri,beaucoup,7,3,10
+été,intérieur,2025-11-19T18:00:00,2025-11-20T00:00:00,homme,21,1.72,61,régulier,beaucoup,5,3,9
+été,extérieur,2025-02-15T20:00:00,2025-02-16T01:00:00,femme,19,1.74,61,régulier,beaucoup,5,3,8
+été,intérieur,2025-03-23T18:00:00,2025-03-24T00:00:00,homme,21,1.66,57,régulier,normal,7,2,6
+hiver,intérieur,2025-10-04T18:00:00,2025-10-04T23:00:00,homme,20,1.73,65,régulier,normal,4,3,9
+printemps,extérieur,2025-08-01T18:00:00,2025-08-02T02:00:00,femme,21,1.8,70,aguerri,beaucoup,5,2,10
+automne,intérieur,2025-11-24T21:00:00,2025-11-25T05:00:00,homme,25,1.72,60,régulier,beaucoup,6,2,9
+automne,extérieur,2025-03-20T20:00:00,2025-03-21T00:00:00,femme,19,1.73,73,aguerri,beaucoup,6,2,8
+automne,intérieur,2025-05-13T19:00:00,2025-05-14T02:00:00,femme,18,1.69,62,aguerri,beaucoup,7,4,9
+printemps,extérieur,2025-11-18T20:00:00,2025-11-19T03:00:00,femme,24,1.71,72,aguerri,beaucoup,5,2,7
+hiver,intérieur,2025-04-04T18:00:00,2025-04-05T01:00:00,homme,24,1.69,61,régulier,beaucoup,4,3,6
+hiver,intérieur,2025-10-19T18:00:00,2025-10-20T00:00:00,homme,22,1.67,73,régulier,beaucoup,6,3,6
+été,intérieur,2025-11-04T21:00:00,2025-11-05T04:00:00,femme,22,1.73,75,aguerri,beaucoup,4,4,9
+été,intérieur,2025-05-22T18:00:00,2025-05-23T02:00:00,homme,23,1.72,59,régulier,beaucoup,7,3,8
+printemps,extérieur,2025-12-04T18:00:00,2025-12-05T01:00:00,homme,25,1.78,66,aguerri,beaucoup,4,4,9
+printemps,extérieur,2025-08-05T18:00:00,2025-08-05T23:00:00,femme,20,1.68,72,aguerri,normal,6,3,7
+hiver,intérieur,2025-07-09T18:00:00,2025-07-10T01:00:00,femme,25,1.67,61,aguerri,normal,4,2,9
+automne,intérieur,2025-09-23T21:00:00,2025-09-24T04:00:00,homme,18,1.79,62,aguerri,normal,7,2,6
+hiver,intérieur,2025-08-02T19:00:00,2025-08-03T00:00:00,femme,21,1.77,72,aguerri,normal,5,2,10
+printemps,extérieur,2025-01-16T19:00:00,2025-01-17T01:00:00,femme,20,1.65,75,aguerri,normal,5,2,9
+printemps,extérieur,2025-06-26T18:00:00,2025-06-26T23:00:00,femme,21,1.69,63,régulier,beaucoup,4,2,7
+été,intérieur,2025-08-11T19:00:00,2025-08-12T03:00:00,homme,20,1.76,64,régulier,normal,4,2,7
+hiver,extérieur,2025-05-19T20:00:00,2025-05-20T01:00:00,femme,23,1.67,61,aguerri,beaucoup,6,3,10
+hiver,extérieur,2025-10-27T20:00:00,2025-10-28T03:00:00,femme,20,1.68,72,aguerri,normal,6,2,6
+hiver,intérieur,2025-06-24T21:00:00,2025-06-25T03:00:00,homme,20,1.69,70,régulier,beaucoup,6,4,6
+printemps,intérieur,2025-12-14T21:00:00,2025-12-15T01:00:00,femme,25,1.73,70,régulier,beaucoup,6,4,6
+hiver,intérieur,2025-12-11T20:00:00,2025-12-12T02:00:00,femme,23,1.73,69,aguerri,normal,7,3,7
+hiver,intérieur,2025-04-21T20:00:00,2025-04-22T00:00:00,homme,24,1.76,73,aguerri,beaucoup,4,3,10
+hiver,extérieur,2025-07-27T21:00:00,2025-07-28T02:00:00,femme,23,1.79,66,aguerri,beaucoup,5,3,10
+printemps,intérieur,2025-04-18T19:00:00,2025-04-19T02:00:00,femme,21,1.79,57,aguerri,normal,6,2,10
+printemps,extérieur,2025-12-11T19:00:00,2025-12-12T02:00:00,femme,18,1.72,70,aguerri,normal,6,4,10
+hiver,intérieur,2025-06-14T21:00:00,2025-06-15T01:00:00,femme,18,1.8,56,aguerri,beaucoup,5,4,9
+automne,intérieur,2025-01-24T19:00:00,2025-01-24T23:00:00,homme,23,1.7,70,régulier,normal,4,4,7
+automne,extérieur,2025-01-27T21:00:00,2025-01-28T05:00:00,homme,19,1.78,68,régulier,beaucoup,7,3,9
+hiver,extérieur,2025-05-02T20:00:00,2025-05-03T04:00:00,homme,25,1.65,57,aguerri,beaucoup,7,4,9
+été,extérieur,2025-01-18T21:00:00,2025-01-19T03:00:00,femme,23,1.68,61,aguerri,beaucoup,7,3,9
+automne,intérieur,2025-06-17T19:00:00,2025-06-18T00:00:00,homme,21,1.7,58,régulier,normal,7,3,8
+hiver,extérieur,2025-12-11T20:00:00,2025-12-12T02:00:00,homme,23,1.69,60,régulier,beaucoup,6,4,6
+été,extérieur,2025-06-02T21:00:00,2025-06-03T02:00:00,femme,25,1.74,58,régulier,beaucoup,6,2,6
+automne,extérieur,2025-05-09T21:00:00,2025-05-10T01:00:00,homme,23,1.8,69,aguerri,beaucoup,6,4,9
+hiver,intérieur,2025-01-19T20:00:00,2025-01-20T00:00:00,homme,24,1.79,70,régulier,beaucoup,4,3,8
+été,extérieur,2025-11-13T21:00:00,2025-11-14T02:00:00,homme,24,1.69,66,aguerri,beaucoup,6,3,6
+été,intérieur,2025-11-13T18:00:00,2025-11-14T02:00:00,femme,24,1.77,55,aguerri,beaucoup,6,4,10
+printemps,intérieur,2025-03-09T19:00:00,2025-03-10T02:00:00,femme,21,1.7,68,régulier,beaucoup,6,2,6
+automne,extérieur,2025-10-13T21:00:00,2025-10-14T02:00:00,femme,23,1.66,65,aguerri,beaucoup,5,4,10
+automne,intérieur,2025-01-19T18:00:00,2025-01-19T22:00:00,femme,22,1.78,60,régulier,beaucoup,4,2,10
+hiver,intérieur,2025-09-26T18:00:00,2025-09-27T01:00:00,femme,24,1.75,75,aguerri,beaucoup,7,4,9
+printemps,intérieur,2025-10-06T21:00:00,2025-10-07T03:00:00,homme,23,1.72,61,régulier,normal,6,2,8
+hiver,intérieur,2025-08-18T20:00:00,2025-08-19T01:00:00,homme,20,1.75,75,aguerri,beaucoup,5,2,9
+été,intérieur,2025-03-25T21:00:00,2025-03-26T04:00:00,homme,24,1.68,75,régulier,beaucoup,6,4,8
+automne,intérieur,2025-01-03T21:00:00,2025-01-04T04:00:00,femme,19,1.72,63,régulier,normal,6,3,9
+printemps,intérieur,2025-06-24T21:00:00,2025-06-25T03:00:00,homme,20,1.77,65,aguerri,beaucoup,5,2,10
+hiver,extérieur,2025-10-08T18:00:00,2025-10-09T02:00:00,femme,19,1.8,57,aguerri,beaucoup,6,4,9
+automne,intérieur,2025-10-03T21:00:00,2025-10-04T05:00:00,homme,22,1.75,65,aguerri,beaucoup,6,4,7
+hiver,extérieur,2025-06-04T21:00:00,2025-06-05T04:00:00,homme,19,1.79,61,aguerri,beaucoup,7,3,8
+printemps,extérieur,2025-09-23T20:00:00,2025-09-24T02:00:00,femme,20,1.78,71,aguerri,normal,5,2,7
+hiver,intérieur,2025-10-18T21:00:00,2025-10-19T01:00:00,femme,19,1.78,67,régulier,beaucoup,7,4,7
+été,extérieur,2025-08-16T20:00:00,2025-08-17T02:00:00,homme,18,1.75,70,aguerri,normal,4,4,10
+printemps,intérieur,2025-12-03T19:00:00,2025-12-04T01:00:00,femme,22,1.76,59,régulier,beaucoup,7,4,10
+automne,intérieur,2025-11-04T21:00:00,2025-11-05T01:00:00,homme,23,1.67,74,régulier,beaucoup,4,2,9
+été,extérieur,2025-01-07T18:00:00,2025-01-08T02:00:00,homme,22,1.77,75,régulier,beaucoup,6,3,7
+printemps,intérieur,2025-11-27T18:00:00,2025-11-28T00:00:00,homme,24,1.7,74,aguerri,normal,4,3,7
+automne,intérieur,2025-01-07T21:00:00,2025-01-08T05:00:00,homme,19,1.69,70,aguerri,beaucoup,4,4,10
+hiver,extérieur,2025-07-09T19:00:00,2025-07-10T03:00:00,femme,19,1.75,61,régulier,beaucoup,4,2,9
+hiver,extérieur,2025-10-04T20:00:00,2025-10-05T01:00:00,femme,20,1.72,59,régulier,beaucoup,7,4,6
+automne,intérieur,2025-07-09T18:00:00,2025-07-09T23:00:00,homme,21,1.78,67,régulier,beaucoup,6,3,10
+printemps,intérieur,2025-04-05T18:00:00,2025-04-05T22:00:00,femme,20,1.66,61,régulier,normal,4,3,10
+automne,extérieur,2025-02-23T19:00:00,2025-02-24T02:00:00,homme,21,1.77,56,régulier,beaucoup,4,3,10
+été,extérieur,2025-08-07T19:00:00,2025-08-08T02:00:00,femme,18,1.69,68,aguerri,beaucoup,7,4,7
+hiver,intérieur,2025-01-06T20:00:00,2025-01-07T04:00:00,femme,22,1.73,74,aguerri,beaucoup,6,2,8
+hiver,extérieur,2025-10-07T18:00:00,2025-10-08T01:00:00,femme,24,1.79,67,aguerri,normal,7,3,7
+hiver,intérieur,2025-12-09T20:00:00,2025-12-10T00:00:00,homme,23,1.69,68,aguerri,beaucoup,6,4,8
+hiver,intérieur,2025-09-19T18:00:00,2025-09-19T22:00:00,femme,21,1.79,73,régulier,beaucoup,7,2,8
+hiver,intérieur,2025-04-05T19:00:00,2025-04-06T00:00:00,homme,21,1.8,59,aguerri,beaucoup,5,3,6
+printemps,intérieur,2025-02-02T19:00:00,2025-02-03T03:00:00,homme,22,1.69,61,aguerri,beaucoup,6,2,7
+printemps,extérieur,2025-11-09T20:00:00,2025-11-10T04:00:00,homme,18,1.69,56,régulier,normal,5,4,10
+hiver,intérieur,2025-02-15T20:00:00,2025-02-16T02:00:00,homme,24,1.79,69,aguerri,normal,6,4,6
+hiver,extérieur,2025-01-02T18:00:00,2025-01-02T23:00:00,homme,18,1.71,73,aguerri,beaucoup,5,3,7
+hiver,intérieur,2025-01-26T20:00:00,2025-01-27T02:00:00,femme,18,1.71,56,régulier,beaucoup,5,2,9
+automne,intérieur,2025-10-18T20:00:00,2025-10-19T01:00:00,homme,20,1.8,69,régulier,beaucoup,6,2,7
+automne,intérieur,2025-02-17T21:00:00,2025-02-18T02:00:00,femme,22,1.74,70,aguerri,beaucoup,5,4,9
+hiver,extérieur,2025-12-07T21:00:00,2025-12-08T01:00:00,femme,22,1.78,64,aguerri,normal,7,3,9
+été,extérieur,2025-10-05T18:00:00,2025-10-05T23:00:00,homme,21,1.79,66,aguerri,normal,6,4,9
+été,extérieur,2025-11-24T18:00:00,2025-11-24T23:00:00,femme,21,1.79,75,aguerri,beaucoup,7,4,10
+automne,intérieur,2025-03-25T18:00:00,2025-03-25T23:00:00,homme,24,1.77,63,aguerri,normal,4,4,7
+printemps,intérieur,2025-07-24T19:00:00,2025-07-24T23:00:00,femme,22,1.67,70,aguerri,normal,5,4,7
+automne,extérieur,2025-10-15T20:00:00,2025-10-16T03:00:00,femme,18,1.79,67,régulier,beaucoup,6,3,8
+hiver,intérieur,2025-02-08T19:00:00,2025-02-09T03:00:00,homme,21,1.65,64,aguerri,beaucoup,4,2,9
+automne,intérieur,2025-05-24T18:00:00,2025-05-24T23:00:00,femme,20,1.73,62,aguerri,beaucoup,7,2,8
+printemps,extérieur,2025-06-13T21:00:00,2025-06-14T02:00:00,homme,24,1.66,56,régulier,beaucoup,6,4,10
+été,intérieur,2025-10-08T19:00:00,2025-10-08T23:00:00,homme,25,1.77,55,aguerri,beaucoup,7,2,8
+hiver,intérieur,2025-09-06T20:00:00,2025-09-07T02:00:00,femme,24,1.73,55,régulier,beaucoup,7,3,8
+été,extérieur,2025-06-07T18:00:00,2025-06-07T23:00:00,homme,21,1.77,56,aguerri,beaucoup,5,2,7
+hiver,intérieur,2025-08-03T18:00:00,2025-08-04T02:00:00,femme,22,1.65,69,aguerri,beaucoup,5,2,7
+printemps,intérieur,2025-01-04T21:00:00,2025-01-05T05:00:00,homme,24,1.77,66,régulier,beaucoup,4,3,6
+automne,extérieur,2025-11-01T18:00:00,2025-11-01T23:00:00,homme,22,1.77,55,régulier,beaucoup,6,2,7
+printemps,extérieur,2025-02-05T18:00:00,2025-02-06T02:00:00,homme,23,1.7,59,régulier,beaucoup,4,4,9
+hiver,extérieur,2025-12-01T21:00:00,2025-12-02T04:00:00,femme,20,1.69,62,régulier,beaucoup,7,2,6
+automne,intérieur,2025-09-27T21:00:00,2025-09-28T04:00:00,homme,19,1.74,59,aguerri,normal,6,2,9
+automne,intérieur,2025-07-13T20:00:00,2025-07-14T04:00:00,homme,39,1.81,79,occasionnel,peu,1,3,3
+automne,extérieur,2025-10-10T20:00:00,2025-10-11T00:00:00,homme,32,1.82,75,régulier,peu,3,2,3
+printemps,intérieur,2025-07-03T19:00:00,2025-07-04T00:00:00,femme,34,1.62,77,régulier,normal,2,4,3
+automne,extérieur,2025-12-07T18:00:00,2025-12-07T23:00:00,femme,33,1.61,74,régulier,peu,3,2,5
+hiver,intérieur,2025-05-03T21:00:00,2025-05-04T02:00:00,homme,43,1.79,60,occasionnel,peu,1,2,3
+automne,extérieur,2025-04-12T18:00:00,2025-04-13T02:00:00,femme,44,1.68,63,occasionnel,normal,3,2,4
+printemps,intérieur,2025-03-09T21:00:00,2025-03-10T01:00:00,homme,30,1.69,63,régulier,normal,3,2,3
+printemps,intérieur,2025-07-24T20:00:00,2025-07-25T02:00:00,femme,33,1.84,77,occasionnel,peu,2,3,5
+été,intérieur,2025-04-18T18:00:00,2025-04-19T02:00:00,homme,37,1.82,81,régulier,peu,3,3,3
+printemps,intérieur,2025-05-18T21:00:00,2025-05-19T04:00:00,homme,38,1.7,79,occasionnel,peu,3,2,4
+hiver,extérieur,2025-03-02T20:00:00,2025-03-03T04:00:00,femme,32,1.85,77,régulier,peu,2,4,5
+printemps,extérieur,2025-11-05T19:00:00,2025-11-06T03:00:00,femme,37,1.83,74,régulier,peu,3,4,5
+automne,extérieur,2025-01-10T21:00:00,2025-01-11T01:00:00,homme,38,1.63,84,occasionnel,peu,2,3,3
+été,extérieur,2025-02-10T18:00:00,2025-02-11T02:00:00,femme,38,1.69,77,régulier,peu,1,3,5
+été,extérieur,2025-05-07T21:00:00,2025-05-08T04:00:00,femme,36,1.81,84,occasionnel,peu,3,3,4
+printemps,extérieur,2025-02-04T20:00:00,2025-02-05T03:00:00,homme,33,1.65,73,régulier,normal,3,4,5
+automne,intérieur,2025-03-14T20:00:00,2025-03-15T02:00:00,homme,42,1.79,75,régulier,normal,3,3,4
+hiver,intérieur,2025-03-02T18:00:00,2025-03-03T01:00:00,homme,33,1.66,85,occasionnel,peu,1,4,3
+été,intérieur,2025-07-09T18:00:00,2025-07-10T02:00:00,homme,36,1.72,79,régulier,peu,1,2,3
+automne,intérieur,2025-06-15T18:00:00,2025-06-16T01:00:00,femme,31,1.65,85,occasionnel,peu,1,2,4
+automne,extérieur,2025-08-02T20:00:00,2025-08-03T02:00:00,femme,41,1.67,76,occasionnel,peu,2,4,4
+hiver,intérieur,2025-02-28T18:00:00,2025-03-01T01:00:00,femme,45,1.73,81,occasionnel,peu,2,3,5
+hiver,extérieur,2025-09-21T19:00:00,2025-09-21T23:00:00,homme,35,1.65,72,occasionnel,peu,1,4,5
+printemps,intérieur,2025-11-26T20:00:00,2025-11-27T03:00:00,femme,40,1.77,85,régulier,peu,2,4,3
+automne,intérieur,2025-04-06T19:00:00,2025-04-06T23:00:00,homme,30,1.8,85,régulier,peu,2,3,3
+été,extérieur,2025-12-23T21:00:00,2025-12-24T04:00:00,femme,44,1.72,85,occasionnel,peu,1,3,4
+automne,intérieur,2025-06-19T19:00:00,2025-06-20T03:00:00,femme,35,1.63,68,régulier,normal,2,3,4
+hiver,intérieur,2025-06-07T19:00:00,2025-06-08T00:00:00,homme,41,1.79,73,occasionnel,peu,3,4,5
+automne,extérieur,2025-09-27T19:00:00,2025-09-28T02:00:00,femme,32,1.6,60,occasionnel,peu,2,2,3
+hiver,extérieur,2025-08-15T21:00:00,2025-08-16T01:00:00,homme,36,1.74,65,occasionnel,normal,2,2,4
+été,intérieur,2025-09-17T19:00:00,2025-09-18T01:00:00,homme,39,1.63,80,occasionnel,normal,3,4,5
+automne,intérieur,2025-10-25T18:00:00,2025-10-26T02:00:00,homme,32,1.71,68,régulier,peu,1,4,3
+automne,intérieur,2025-04-13T20:00:00,2025-04-14T01:00:00,homme,35,1.75,64,régulier,peu,2,4,4
+automne,intérieur,2025-03-24T18:00:00,2025-03-24T22:00:00,homme,44,1.65,81,occasionnel,peu,3,3,5
+printemps,extérieur,2025-01-20T20:00:00,2025-01-21T04:00:00,homme,33,1.72,78,occasionnel,peu,1,2,5
+automne,intérieur,2025-09-07T21:00:00,2025-09-08T05:00:00,homme,38,1.73,77,occasionnel,peu,2,2,5
+été,extérieur,2025-07-15T19:00:00,2025-07-16T00:00:00,homme,37,1.63,63,régulier,peu,3,2,5
+printemps,intérieur,2025-04-23T20:00:00,2025-04-24T04:00:00,femme,41,1.64,79,régulier,peu,3,4,5
+automne,extérieur,2025-08-08T21:00:00,2025-08-09T04:00:00,femme,42,1.82,70,occasionnel,normal,1,2,4
+printemps,extérieur,2025-12-05T19:00:00,2025-12-06T03:00:00,homme,40,1.75,69,occasionnel,peu,3,2,3
+automne,extérieur,2025-09-21T18:00:00,2025-09-22T00:00:00,homme,37,1.8,78,occasionnel,peu,2,3,5
+hiver,intérieur,2025-04-02T20:00:00,2025-04-03T02:00:00,homme,36,1.7,80,occasionnel,peu,1,3,3
+printemps,intérieur,2025-12-09T19:00:00,2025-12-10T01:00:00,homme,32,1.72,84,régulier,peu,3,2,3
+été,intérieur,2025-03-19T21:00:00,2025-03-20T03:00:00,femme,39,1.76,81,occasionnel,normal,2,3,3
+automne,extérieur,2025-02-13T19:00:00,2025-02-14T01:00:00,homme,39,1.61,72,occasionnel,peu,2,2,4
+hiver,intérieur,2025-10-18T20:00:00,2025-10-19T02:00:00,femme,31,1.72,81,régulier,normal,2,4,5
+hiver,intérieur,2025-11-22T21:00:00,2025-11-23T02:00:00,homme,32,1.74,68,occasionnel,peu,2,2,3
+printemps,extérieur,2025-07-02T20:00:00,2025-07-03T04:00:00,femme,44,1.68,75,occasionnel,normal,3,2,4
+été,intérieur,2025-01-15T21:00:00,2025-01-16T01:00:00,homme,44,1.77,79,occasionnel,normal,2,3,4
+été,extérieur,2025-09-05T21:00:00,2025-09-06T03:00:00,homme,45,1.72,71,occasionnel,peu,3,2,3
+automne,extérieur,2025-10-09T18:00:00,2025-10-09T22:00:00,femme,32,1.67,74,occasionnel,peu,3,2,5
+automne,extérieur,2025-07-17T21:00:00,2025-07-18T03:00:00,femme,41,1.81,65,régulier,normal,3,2,4
+été,extérieur,2025-09-23T18:00:00,2025-09-23T22:00:00,homme,45,1.84,82,occasionnel,normal,1,3,5
+hiver,extérieur,2025-07-24T18:00:00,2025-07-24T22:00:00,homme,30,1.78,61,occasionnel,normal,2,3,5
+hiver,intérieur,2025-01-01T20:00:00,2025-01-02T02:00:00,femme,45,1.61,71,occasionnel,peu,1,3,5
+été,extérieur,2025-07-08T20:00:00,2025-07-09T01:00:00,homme,35,1.72,71,occasionnel,peu,1,2,3
+printemps,intérieur,2025-05-27T21:00:00,2025-05-28T04:00:00,homme,41,1.78,61,régulier,normal,2,3,5
+hiver,extérieur,2025-09-10T19:00:00,2025-09-11T02:00:00,homme,41,1.72,78,régulier,peu,3,2,4
+été,intérieur,2025-09-21T19:00:00,2025-09-22T00:00:00,homme,44,1.63,82,régulier,peu,1,4,5
+hiver,extérieur,2025-05-02T21:00:00,2025-05-03T03:00:00,homme,43,1.72,79,occasionnel,peu,3,4,5
+été,extérieur,2025-01-13T21:00:00,2025-01-14T02:00:00,homme,40,1.76,72,occasionnel,peu,3,4,5
+printemps,extérieur,2025-09-24T18:00:00,2025-09-24T22:00:00,homme,33,1.66,71,occasionnel,normal,2,2,5
+été,intérieur,2025-05-12T18:00:00,2025-05-13T00:00:00,femme,32,1.63,80,occasionnel,peu,1,4,3
+printemps,intérieur,2025-02-16T20:00:00,2025-02-17T04:00:00,femme,32,1.73,62,occasionnel,normal,3,4,5
+été,extérieur,2025-08-17T18:00:00,2025-08-17T23:00:00,femme,36,1.78,82,régulier,peu,1,3,5
+printemps,intérieur,2025-06-20T18:00:00,2025-06-21T01:00:00,homme,43,1.7,78,régulier,peu,3,3,5
+été,extérieur,2025-05-23T19:00:00,2025-05-24T03:00:00,homme,45,1.79,60,régulier,peu,2,3,3
+été,intérieur,2025-06-14T19:00:00,2025-06-15T02:00:00,femme,36,1.68,83,régulier,peu,3,4,3
+hiver,intérieur,2025-04-15T18:00:00,2025-04-16T02:00:00,homme,30,1.85,80,régulier,peu,1,3,3
+printemps,intérieur,2025-03-28T18:00:00,2025-03-28T22:00:00,homme,38,1.79,81,régulier,peu,2,2,5
+été,intérieur,2025-09-12T20:00:00,2025-09-13T02:00:00,femme,31,1.82,63,occasionnel,normal,1,4,5
+hiver,extérieur,2025-07-21T18:00:00,2025-07-21T22:00:00,femme,34,1.73,78,occasionnel,normal,2,4,5
+été,intérieur,2025-09-17T21:00:00,2025-09-18T01:00:00,homme,40,1.82,81,occasionnel,peu,3,2,4
+automne,extérieur,2025-03-13T18:00:00,2025-03-13T22:00:00,femme,43,1.75,85,occasionnel,normal,2,4,3
+hiver,extérieur,2025-08-21T21:00:00,2025-08-22T04:00:00,homme,38,1.67,66,régulier,normal,2,4,4
+hiver,intérieur,2025-04-23T18:00:00,2025-04-23T22:00:00,homme,34,1.77,61,régulier,peu,1,3,4
+automne,extérieur,2025-04-04T18:00:00,2025-04-04T23:00:00,femme,32,1.64,79,occasionnel,peu,3,3,4
+automne,extérieur,2025-07-07T20:00:00,2025-07-08T03:00:00,femme,41,1.74,78,régulier,peu,1,4,4
+printemps,extérieur,2025-09-10T20:00:00,2025-09-11T01:00:00,femme,38,1.62,75,occasionnel,normal,3,2,5
+hiver,intérieur,2025-08-09T19:00:00,2025-08-10T02:00:00,femme,44,1.63,74,occasionnel,normal,3,2,5
+printemps,extérieur,2025-12-21T19:00:00,2025-12-21T23:00:00,homme,34,1.66,83,occasionnel,peu,2,4,4
+printemps,extérieur,2025-05-11T20:00:00,2025-05-12T00:00:00,homme,33,1.62,76,régulier,peu,2,4,3
+été,intérieur,2025-02-04T20:00:00,2025-02-05T01:00:00,femme,40,1.71,80,occasionnel,peu,2,4,4
+été,extérieur,2025-05-12T18:00:00,2025-05-12T23:00:00,homme,41,1.76,76,régulier,normal,3,3,3
+hiver,intérieur,2025-06-01T18:00:00,2025-06-02T01:00:00,femme,40,1.84,66,occasionnel,normal,3,2,4
+hiver,extérieur,2025-05-06T21:00:00,2025-05-07T02:00:00,homme,35,1.8,71,régulier,peu,3,4,5
+hiver,intérieur,2025-01-28T19:00:00,2025-01-29T03:00:00,femme,42,1.74,81,régulier,peu,1,3,4
+printemps,extérieur,2025-12-22T20:00:00,2025-12-23T03:00:00,femme,39,1.73,61,régulier,normal,2,2,4
+hiver,intérieur,2025-08-12T18:00:00,2025-08-13T01:00:00,femme,40,1.68,82,régulier,peu,2,3,5
+été,extérieur,2025-04-23T21:00:00,2025-04-24T05:00:00,femme,41,1.65,75,régulier,peu,1,2,4
+hiver,intérieur,2025-05-06T18:00:00,2025-05-07T02:00:00,femme,32,1.81,78,régulier,peu,2,3,5
+automne,intérieur,2025-06-01T19:00:00,2025-06-02T02:00:00,homme,32,1.66,71,occasionnel,peu,3,4,4
+hiver,extérieur,2025-03-08T20:00:00,2025-03-09T00:00:00,homme,44,1.8,67,occasionnel,peu,2,4,5
+printemps,intérieur,2025-02-04T20:00:00,2025-02-05T04:00:00,homme,42,1.76,60,régulier,peu,1,4,4
+hiver,intérieur,2025-05-13T21:00:00,2025-05-14T01:00:00,femme,42,1.79,74,occasionnel,normal,1,2,4
+hiver,intérieur,2025-11-11T18:00:00,2025-11-12T02:00:00,femme,39,1.65,61,occasionnel,normal,2,4,5
+automne,extérieur,2025-10-15T19:00:00,2025-10-16T02:00:00,femme,41,1.66,68,occasionnel,peu,3,3,3
+hiver,intérieur,2025-09-07T21:00:00,2025-09-08T02:00:00,femme,42,1.6,63,régulier,peu,1,2,3
+hiver,extérieur,2025-08-07T19:00:00,2025-08-08T01:00:00,homme,30,1.66,79,occasionnel,peu,2,4,5
+printemps,extérieur,2025-07-14T19:00:00,2025-07-15T02:00:00,homme,31,1.65,78,occasionnel,peu,1,4,4
+hiver,intérieur,2025-04-11T19:00:00,2025-04-12T02:00:00,homme,39,1.81,71,occasionnel,peu,3,3,5
+été,intérieur,2025-05-14T21:00:00,2025-05-15T05:00:00,femme,39,1.7,73,occasionnel,peu,2,2,3
+hiver,intérieur,2025-05-14T20:00:00,2025-05-15T00:00:00,homme,41,1.72,83,occasionnel,peu,3,2,5
+hiver,extérieur,2025-11-07T18:00:00,2025-11-08T00:00:00,homme,41,1.7,69,régulier,peu,2,4,5
+hiver,intérieur,2025-07-21T18:00:00,2025-07-22T00:00:00,femme,33,1.61,63,occasionnel,peu,3,3,3
+printemps,intérieur,2025-04-14T20:00:00,2025-04-15T04:00:00,homme,33,1.85,77,régulier,peu,2,3,3
+printemps,extérieur,2025-04-22T20:00:00,2025-04-23T00:00:00,femme,37,1.81,64,occasionnel,normal,3,2,3
+printemps,intérieur,2025-06-20T21:00:00,2025-06-21T05:00:00,femme,33,1.71,72,régulier,peu,3,3,4
+hiver,intérieur,2025-09-19T20:00:00,2025-09-20T02:00:00,homme,30,1.85,84,régulier,normal,1,2,3
+été,intérieur,2025-09-01T18:00:00,2025-09-02T01:00:00,homme,44,1.84,63,occasionnel,normal,3,2,3
+automne,intérieur,2025-08-06T18:00:00,2025-08-07T00:00:00,homme,44,1.72,77,occasionnel,peu,1,3,5
+automne,extérieur,2025-02-06T19:00:00,2025-02-06T23:00:00,femme,36,1.67,65,occasionnel,peu,1,3,4
+été,intérieur,2025-04-06T21:00:00,2025-04-07T04:00:00,femme,39,1.66,68,occasionnel,normal,3,2,4
+automne,intérieur,2025-03-11T19:00:00,2025-03-12T00:00:00,femme,36,1.63,71,régulier,peu,3,3,4
+printemps,extérieur,2025-07-03T21:00:00,2025-07-04T04:00:00,homme,41,1.69,66,occasionnel,peu,3,4,3
+printemps,extérieur,2025-06-11T19:00:00,2025-06-12T00:00:00,femme,34,1.62,66,régulier,peu,3,2,4
+été,extérieur,2025-11-02T21:00:00,2025-11-03T04:00:00,homme,32,1.74,70,régulier,peu,3,3,4
+printemps,intérieur,2025-10-08T20:00:00,2025-10-09T03:00:00,homme,31,1.63,67,occasionnel,peu,1,4,4
+été,extérieur,2025-01-07T18:00:00,2025-01-07T23:00:00,homme,31,1.75,62,occasionnel,normal,2,3,3
+hiver,extérieur,2025-02-02T18:00:00,2025-02-03T00:00:00,femme,45,1.66,85,régulier,peu,2,4,5
+hiver,extérieur,2025-10-28T20:00:00,2025-10-29T00:00:00,homme,43,1.6,83,régulier,peu,2,3,4
+été,intérieur,2025-12-19T21:00:00,2025-12-20T03:00:00,femme,35,1.84,79,régulier,peu,1,4,3
+été,extérieur,2025-09-02T18:00:00,2025-09-02T23:00:00,homme,32,1.61,84,occasionnel,peu,3,4,5
+automne,extérieur,2025-08-02T20:00:00,2025-08-03T03:00:00,homme,33,1.64,78,occasionnel,normal,3,2,5
+été,intérieur,2025-09-17T21:00:00,2025-09-18T02:00:00,femme,42,1.66,64,régulier,peu,1,2,4
+printemps,intérieur,2025-06-05T19:00:00,2025-06-06T00:00:00,homme,33,1.7,78,régulier,peu,1,4,4
+été,extérieur,2025-06-16T20:00:00,2025-06-17T01:00:00,homme,35,1.77,72,régulier,peu,3,3,3
+printemps,intérieur,2025-03-21T20:00:00,2025-03-22T01:00:00,femme,43,1.62,85,occasionnel,normal,2,3,3
+été,extérieur,2025-08-01T21:00:00,2025-08-02T01:00:00,femme,43,1.8,78,régulier,normal,3,2,3
+automne,extérieur,2025-02-14T21:00:00,2025-02-15T03:00:00,femme,45,1.6,75,occasionnel,peu,2,4,3
+printemps,extérieur,2025-09-13T21:00:00,2025-09-14T05:00:00,homme,42,1.67,84,régulier,peu,2,2,3
+automne,extérieur,2025-06-05T21:00:00,2025-06-06T04:00:00,femme,40,1.79,60,occasionnel,normal,1,4,3
+hiver,extérieur,2025-02-02T18:00:00,2025-02-02T22:00:00,femme,38,1.83,77,régulier,peu,2,4,4
+hiver,intérieur,2025-09-11T21:00:00,2025-09-12T01:00:00,homme,32,1.8,61,régulier,peu,3,2,3
+été,extérieur,2025-08-23T19:00:00,2025-08-24T00:00:00,homme,38,1.64,64,occasionnel,peu,3,2,4
+hiver,intérieur,2025-03-23T21:00:00,2025-03-24T03:00:00,femme,42,1.63,67,régulier,normal,3,4,5
+automne,extérieur,2025-06-24T21:00:00,2025-06-25T05:00:00,femme,40,1.82,60,occasionnel,peu,2,4,4
+automne,extérieur,2025-10-14T18:00:00,2025-10-15T01:00:00,femme,37,1.63,64,régulier,peu,1,4,5
+été,extérieur,2025-11-24T19:00:00,2025-11-25T00:00:00,homme,32,1.68,76,régulier,peu,3,3,3
+automne,intérieur,2025-05-12T20:00:00,2025-05-13T00:00:00,homme,42,1.76,62,occasionnel,peu,3,2,4
+hiver,intérieur,2025-08-04T20:00:00,2025-08-05T04:00:00,homme,32,1.63,61,régulier,peu,1,3,3
+hiver,extérieur,2025-05-18T20:00:00,2025-05-19T02:00:00,homme,40,1.65,63,régulier,peu,3,3,4
+hiver,intérieur,2025-02-11T20:00:00,2025-02-12T02:00:00,femme,38,1.8,83,occasionnel,peu,1,4,3
+automne,intérieur,2025-10-03T21:00:00,2025-10-04T03:00:00,femme,34,1.82,65,régulier,peu,3,3,5
+printemps,extérieur,2025-06-26T21:00:00,2025-06-27T02:00:00,homme,35,1.7,83,occasionnel,normal,2,4,3
+printemps,intérieur,2025-09-11T18:00:00,2025-09-12T00:00:00,femme,33,1.8,81,occasionnel,peu,1,2,5
+hiver,intérieur,2025-07-22T21:00:00,2025-07-23T05:00:00,femme,32,1.72,78,occasionnel,normal,3,2,3
+automne,intérieur,2025-10-12T19:00:00,2025-10-13T00:00:00,femme,35,1.71,81,occasionnel,normal,3,3,5
+automne,intérieur,2025-02-16T21:00:00,2025-02-17T05:00:00,femme,36,1.7,70,régulier,peu,2,3,4
+printemps,extérieur,2025-10-24T19:00:00,2025-10-25T01:00:00,homme,35,1.65,62,régulier,normal,3,4,4
+hiver,extérieur,2025-07-18T20:00:00,2025-07-19T02:00:00,homme,42,1.82,66,régulier,peu,2,2,5
+été,intérieur,2025-10-20T21:00:00,2025-10-21T02:00:00,femme,39,1.66,67,occasionnel,normal,3,2,5
+printemps,extérieur,2025-10-14T21:00:00,2025-10-15T03:00:00,femme,43,1.68,63,occasionnel,normal,1,4,4
+automne,intérieur,2025-04-28T21:00:00,2025-04-29T01:00:00,homme,35,1.63,62,régulier,peu,1,2,5
+hiver,extérieur,2025-12-20T20:00:00,2025-12-21T03:00:00,homme,35,1.63,67,occasionnel,peu,3,3,4
+hiver,extérieur,2025-10-28T19:00:00,2025-10-29T01:00:00,femme,31,1.85,68,régulier,peu,1,2,3
+automne,extérieur,2025-08-17T18:00:00,2025-08-17T22:00:00,homme,40,1.79,78,régulier,peu,1,3,3
+printemps,intérieur,2025-05-07T18:00:00,2025-05-07T22:00:00,femme,43,1.75,77,régulier,peu,1,2,4
+automne,intérieur,2025-11-10T18:00:00,2025-11-11T02:00:00,femme,36,1.79,82,occasionnel,peu,2,2,3
+automne,extérieur,2025-01-21T18:00:00,2025-01-22T02:00:00,homme,33,1.65,64,régulier,normal,3,3,5
+été,intérieur,2025-04-27T20:00:00,2025-04-28T04:00:00,homme,32,1.74,77,occasionnel,peu,1,2,3
+automne,intérieur,2025-06-22T18:00:00,2025-06-22T22:00:00,homme,43,1.68,83,régulier,peu,3,4,4
+printemps,intérieur,2025-07-13T20:00:00,2025-07-14T04:00:00,homme,37,1.83,71,occasionnel,peu,2,4,4
+automne,extérieur,2025-02-20T21:00:00,2025-02-21T05:00:00,homme,33,1.7,60,régulier,peu,2,3,4
+printemps,intérieur,2025-02-27T18:00:00,2025-02-28T02:00:00,femme,32,1.76,80,régulier,normal,2,3,3
+printemps,extérieur,2025-04-18T18:00:00,2025-04-18T23:00:00,femme,44,1.65,75,régulier,normal,1,3,3
+automne,extérieur,2025-09-10T19:00:00,2025-09-10T23:00:00,homme,40,1.74,76,régulier,normal,1,4,5
+hiver,extérieur,2025-03-20T20:00:00,2025-03-21T02:00:00,femme,35,1.63,61,occasionnel,peu,3,3,5
+automne,intérieur,2025-06-09T21:00:00,2025-06-10T01:00:00,homme,43,1.76,78,régulier,peu,2,3,5
+printemps,extérieur,2025-06-09T18:00:00,2025-06-09T22:00:00,femme,36,1.83,62,occasionnel,peu,2,4,4
+printemps,intérieur,2025-12-23T19:00:00,2025-12-23T23:00:00,homme,39,1.74,74,occasionnel,peu,2,2,5
+printemps,extérieur,2025-05-22T20:00:00,2025-05-23T01:00:00,homme,34,1.65,72,occasionnel,peu,1,2,4
+printemps,extérieur,2025-10-16T18:00:00,2025-10-16T22:00:00,homme,44,1.68,81,occasionnel,peu,3,2,5
+printemps,intérieur,2025-01-07T20:00:00,2025-01-08T02:00:00,homme,32,1.61,77,régulier,peu,3,4,5
+été,intérieur,2025-12-18T18:00:00,2025-12-18T22:00:00,homme,31,1.8,79,occasionnel,normal,3,2,5
+hiver,intérieur,2025-07-28T19:00:00,2025-07-29T03:00:00,homme,30,1.83,71,occasionnel,peu,1,4,3
+hiver,extérieur,2025-03-05T18:00:00,2025-03-05T23:00:00,homme,31,1.83,83,occasionnel,peu,1,2,3
+printemps,extérieur,2025-10-21T21:00:00,2025-10-22T05:00:00,homme,44,1.68,81,régulier,peu,1,4,5
+hiver,extérieur,2025-06-18T18:00:00,2025-06-19T02:00:00,femme,31,1.79,74,régulier,peu,1,2,3
+printemps,extérieur,2025-06-17T18:00:00,2025-06-17T23:00:00,homme,30,1.79,65,occasionnel,peu,3,3,3
+printemps,intérieur,2025-03-07T20:00:00,2025-03-08T04:00:00,homme,31,1.72,64,régulier,peu,3,4,5
+printemps,extérieur,2025-11-16T20:00:00,2025-11-17T01:00:00,homme,30,1.73,70,occasionnel,peu,2,3,5
+été,intérieur,2025-06-17T18:00:00,2025-06-17T23:00:00,homme,31,1.74,78,régulier,peu,1,3,3
+hiver,intérieur,2025-08-01T19:00:00,2025-08-02T00:00:00,homme,39,1.85,68,régulier,peu,1,3,5
+printemps,intérieur,2025-01-09T18:00:00,2025-01-09T23:00:00,femme,38,1.74,82,régulier,normal,3,2,3
+hiver,intérieur,2025-12-26T20:00:00,2025-12-27T00:00:00,femme,42,1.79,75,occasionnel,normal,3,3,5
+automne,intérieur,2025-02-21T18:00:00,2025-02-22T01:00:00,femme,38,1.85,85,occasionnel,normal,1,2,5
+automne,extérieur,2025-01-09T21:00:00,2025-01-10T01:00:00,homme,45,1.73,67,occasionnel,peu,2,2,3
+printemps,extérieur,2025-12-22T21:00:00,2025-12-23T04:00:00,homme,33,1.61,73,régulier,normal,3,2,3
+hiver,extérieur,2025-03-01T19:00:00,2025-03-01T23:00:00,homme,31,1.75,77,régulier,normal,3,4,4
+automne,intérieur,2025-02-14T19:00:00,2025-02-15T03:00:00,femme,35,1.8,60,régulier,normal,2,4,5
+hiver,intérieur,2025-11-14T18:00:00,2025-11-15T00:00:00,femme,42,1.78,83,régulier,normal,3,3,5
+printemps,intérieur,2025-07-10T20:00:00,2025-07-11T02:00:00,homme,30,1.83,83,occasionnel,peu,3,2,4
+été,intérieur,2025-02-04T18:00:00,2025-02-05T01:00:00,femme,44,1.81,66,régulier,normal,2,4,4
+hiver,intérieur,2025-08-09T18:00:00,2025-08-09T22:00:00,femme,39,1.66,66,régulier,normal,3,2,4
+hiver,intérieur,2025-11-18T21:00:00,2025-11-19T01:00:00,femme,34,1.74,62,régulier,normal,3,2,4
+printemps,extérieur,2025-03-05T18:00:00,2025-03-05T23:00:00,femme,36,1.79,68,occasionnel,peu,2,4,5
+été,extérieur,2025-07-23T18:00:00,2025-07-23T22:00:00,femme,32,1.85,85,régulier,peu,3,4,5
+hiver,extérieur,2025-10-11T19:00:00,2025-10-12T03:00:00,homme,41,1.81,65,régulier,peu,3,3,3
+automne,intérieur,2025-09-02T19:00:00,2025-09-03T02:00:00,femme,32,1.63,71,occasionnel,peu,2,4,3
+hiver,extérieur,2025-01-05T21:00:00,2025-01-06T02:00:00,femme,43,1.83,82,occasionnel,peu,1,4,5
+été,extérieur,2025-03-20T18:00:00,2025-03-20T22:00:00,femme,34,1.82,73,occasionnel,normal,3,4,4
+hiver,extérieur,2025-10-02T20:00:00,2025-10-03T03:00:00,homme,34,1.72,74,occasionnel,peu,1,2,3
+été,extérieur,2025-03-06T21:00:00,2025-03-07T05:00:00,femme,37,1.67,70,régulier,peu,1,2,5
+printemps,intérieur,2025-06-26T18:00:00,2025-06-26T22:00:00,femme,37,1.73,69,régulier,normal,3,3,3
+printemps,extérieur,2025-03-04T20:00:00,2025-03-05T04:00:00,femme,32,1.81,61,occasionnel,normal,3,2,4
+été,intérieur,2025-09-16T21:00:00,2025-09-17T02:00:00,femme,33,1.78,71,régulier,normal,3,4,5
+été,intérieur,2025-12-09T19:00:00,2025-12-10T03:00:00,femme,43,1.83,79,occasionnel,normal,2,3,5
+été,intérieur,2025-08-04T20:00:00,2025-08-05T03:00:00,homme,45,1.78,62,régulier,normal,3,2,5
+été,intérieur,2025-11-15T18:00:00,2025-11-16T00:00:00,femme,41,1.62,77,régulier,peu,3,3,3
+automne,intérieur,2025-03-06T21:00:00,2025-03-07T01:00:00,femme,32,1.68,80,régulier,normal,3,2,5
+printemps,intérieur,2025-12-11T18:00:00,2025-12-12T00:00:00,homme,36,1.79,74,régulier,peu,3,2,4
+automne,extérieur,2025-06-20T21:00:00,2025-06-21T02:00:00,homme,32,1.64,71,occasionnel,peu,3,3,5
+été,extérieur,2025-04-21T20:00:00,2025-04-22T04:00:00,femme,30,1.68,76,régulier,normal,2,2,3
+été,extérieur,2025-02-13T18:00:00,2025-02-13T23:00:00,homme,36,1.73,66,régulier,peu,2,3,3
+été,intérieur,2025-10-04T19:00:00,2025-10-05T03:00:00,femme,42,1.74,61,occasionnel,peu,2,4,4
+hiver,extérieur,2025-11-21T21:00:00,2025-11-22T02:00:00,femme,30,1.61,71,régulier,peu,1,3,5
+printemps,extérieur,2025-01-24T21:00:00,2025-01-25T03:00:00,femme,32,1.7,74,occasionnel,peu,2,3,5
+printemps,intérieur,2025-06-28T18:00:00,2025-06-29T01:00:00,homme,34,1.64,65,régulier,normal,3,4,5
+printemps,extérieur,2025-02-14T19:00:00,2025-02-14T23:00:00,homme,36,1.82,65,régulier,normal,3,4,3
+été,extérieur,2025-07-23T21:00:00,2025-07-24T02:00:00,femme,42,1.64,83,régulier,normal,2,4,3
+été,intérieur,2025-07-01T20:00:00,2025-07-02T00:00:00,femme,34,1.85,85,occasionnel,peu,2,2,5
+été,intérieur,2025-07-10T19:00:00,2025-07-10T23:00:00,homme,36,1.71,71,occasionnel,peu,3,4,4
+hiver,intérieur,2025-05-03T21:00:00,2025-05-04T03:00:00,homme,35,1.66,79,régulier,peu,1,4,3
+printemps,extérieur,2025-09-05T18:00:00,2025-09-06T00:00:00,femme,35,1.82,81,régulier,peu,1,2,4
+hiver,extérieur,2025-12-27T20:00:00,2025-12-28T01:00:00,femme,34,1.85,80,régulier,normal,3,3,4
+automne,extérieur,2025-03-04T18:00:00,2025-03-05T01:00:00,homme,42,1.63,64,régulier,normal,1,2,3
+été,extérieur,2025-04-19T21:00:00,2025-04-20T01:00:00,homme,35,1.74,60,régulier,peu,2,4,4
+hiver,extérieur,2025-04-24T20:00:00,2025-04-25T04:00:00,homme,36,1.65,79,régulier,normal,3,2,4
+printemps,extérieur,2025-11-03T20:00:00,2025-11-04T03:00:00,homme,37,1.84,84,régulier,peu,1,2,5
+printemps,intérieur,2025-11-15T19:00:00,2025-11-16T03:00:00,femme,43,1.62,65,occasionnel,peu,2,3,3
+hiver,intérieur,2025-11-07T20:00:00,2025-11-08T00:00:00,femme,32,1.76,85,occasionnel,peu,2,3,3
+été,extérieur,2025-10-27T19:00:00,2025-10-28T02:00:00,femme,33,1.82,71,régulier,peu,1,4,5
+automne,intérieur,2025-09-05T20:00:00,2025-09-06T02:00:00,femme,34,1.75,75,occasionnel,peu,3,4,3
+printemps,extérieur,2025-05-02T18:00:00,2025-05-03T01:00:00,homme,45,1.71,68,occasionnel,peu,3,4,4
+été,intérieur,2025-01-03T20:00:00,2025-01-04T04:00:00,homme,33,1.77,62,occasionnel,normal,1,3,5
+automne,extérieur,2025-01-26T21:00:00,2025-01-27T03:00:00,femme,39,1.84,80,occasionnel,normal,3,3,5
+automne,intérieur,2025-01-12T18:00:00,2025-01-12T23:00:00,femme,45,1.7,80,occasionnel,peu,2,2,4
+printemps,extérieur,2025-08-01T21:00:00,2025-08-02T05:00:00,homme,40,1.65,81,occasionnel,peu,2,4,5
+hiver,intérieur,2025-08-28T18:00:00,2025-08-29T01:00:00,homme,43,1.82,60,occasionnel,peu,3,3,5
+automne,intérieur,2025-05-07T18:00:00,2025-05-07T22:00:00,femme,44,1.67,77,régulier,peu,2,3,5
+automne,intérieur,2025-01-08T21:00:00,2025-01-09T04:00:00,homme,36,1.7,66,régulier,normal,2,3,3
+automne,intérieur,2025-04-18T19:00:00,2025-04-19T02:00:00,femme,34,1.77,72,occasionnel,peu,3,2,4
+printemps,intérieur,2025-06-10T19:00:00,2025-06-11T00:00:00,femme,41,1.64,60,occasionnel,peu,2,2,4
+hiver,extérieur,2025-01-26T19:00:00,2025-01-27T02:00:00,femme,43,1.65,64,régulier,peu,3,2,3
+hiver,extérieur,2025-07-22T19:00:00,2025-07-23T03:00:00,femme,40,1.62,81,occasionnel,peu,3,3,5
+été,intérieur,2025-11-16T18:00:00,2025-11-17T00:00:00,homme,44,1.73,85,régulier,peu,1,3,5
+été,intérieur,2025-05-23T21:00:00,2025-05-24T04:00:00,homme,30,1.84,77,occasionnel,peu,3,2,4
+été,extérieur,2025-01-05T19:00:00,2025-01-06T03:00:00,homme,38,1.64,83,occasionnel,normal,2,4,3
+hiver,intérieur,2025-03-12T20:00:00,2025-03-13T01:00:00,homme,34,1.71,68,régulier,peu,2,2,3
+été,intérieur,2025-12-20T20:00:00,2025-12-21T02:00:00,homme,28,1.67,78,occasionnel,pas du tout,0,6,4
+été,extérieur,2025-02-03T20:00:00,2025-02-04T04:00:00,homme,35,1.62,78,occasionnel,pas du tout,0,4,4
+hiver,extérieur,2025-07-01T20:00:00,2025-07-02T01:00:00,homme,33,1.64,53,occasionnel,pas du tout,0,6,6
+été,extérieur,2025-04-06T21:00:00,2025-04-07T02:00:00,femme,34,1.67,80,occasionnel,pas du tout,0,4,5
+été,extérieur,2025-08-23T19:00:00,2025-08-24T01:00:00,femme,32,1.71,73,occasionnel,pas du tout,0,6,6
+été,extérieur,2025-07-25T18:00:00,2025-07-25T23:00:00,femme,30,1.74,63,occasionnel,pas du tout,0,4,6
+hiver,extérieur,2025-04-14T19:00:00,2025-04-15T01:00:00,homme,25,1.57,76,occasionnel,pas du tout,0,4,4
+printemps,intérieur,2025-03-13T18:00:00,2025-03-13T22:00:00,femme,33,1.57,64,occasionnel,pas du tout,0,5,4
+hiver,intérieur,2025-01-11T21:00:00,2025-01-12T04:00:00,homme,34,1.56,60,occasionnel,pas du tout,0,5,5
+printemps,extérieur,2025-05-07T20:00:00,2025-05-08T03:00:00,homme,27,1.66,76,occasionnel,pas du tout,0,6,5
+automne,intérieur,2025-07-20T20:00:00,2025-07-21T01:00:00,homme,32,1.61,75,occasionnel,pas du tout,0,6,6
+hiver,extérieur,2025-03-22T19:00:00,2025-03-23T01:00:00,femme,28,1.73,60,occasionnel,pas du tout,0,4,5
+été,extérieur,2025-07-13T18:00:00,2025-07-14T00:00:00,femme,27,1.63,64,occasionnel,pas du tout,0,6,5
+automne,intérieur,2025-09-09T21:00:00,2025-09-10T03:00:00,homme,31,1.73,57,occasionnel,pas du tout,0,5,6
+hiver,intérieur,2025-01-15T18:00:00,2025-01-16T01:00:00,femme,33,1.62,65,occasionnel,pas du tout,0,6,5
+automne,extérieur,2025-09-18T20:00:00,2025-09-19T03:00:00,femme,33,1.65,54,occasionnel,pas du tout,0,4,6
+printemps,extérieur,2025-11-13T18:00:00,2025-11-13T22:00:00,femme,26,1.66,70,occasionnel,pas du tout,0,6,4
+hiver,intérieur,2025-08-14T21:00:00,2025-08-15T01:00:00,femme,26,1.65,61,occasionnel,pas du tout,0,5,6
+été,extérieur,2025-09-23T18:00:00,2025-09-24T02:00:00,femme,27,1.62,58,occasionnel,pas du tout,0,5,4
+automne,extérieur,2025-07-25T19:00:00,2025-07-26T01:00:00,homme,26,1.65,52,occasionnel,pas du tout,0,6,6
+hiver,extérieur,2025-12-22T18:00:00,2025-12-23T00:00:00,homme,31,1.59,59,occasionnel,pas du tout,0,5,6
+hiver,extérieur,2025-08-14T20:00:00,2025-08-15T01:00:00,femme,26,1.72,51,occasionnel,pas du tout,0,5,5
+automne,extérieur,2025-09-24T18:00:00,2025-09-25T01:00:00,femme,29,1.74,77,occasionnel,pas du tout,0,6,5
+automne,extérieur,2025-10-07T19:00:00,2025-10-08T01:00:00,homme,34,1.59,50,occasionnel,pas du tout,0,6,4
+printemps,intérieur,2025-10-12T21:00:00,2025-10-13T05:00:00,femme,28,1.71,51,occasionnel,pas du tout,0,5,5
+automne,intérieur,2025-08-06T21:00:00,2025-08-07T01:00:00,homme,29,1.7,75,occasionnel,pas du tout,0,4,5
+été,intérieur,2025-09-18T18:00:00,2025-09-19T02:00:00,femme,35,1.58,59,occasionnel,pas du tout,0,4,5
+hiver,extérieur,2025-12-05T18:00:00,2025-12-05T23:00:00,femme,31,1.7,51,occasionnel,pas du tout,0,6,5
+automne,extérieur,2025-09-25T19:00:00,2025-09-26T02:00:00,femme,28,1.67,77,occasionnel,pas du tout,0,4,6
+printemps,extérieur,2025-11-13T21:00:00,2025-11-14T02:00:00,homme,35,1.66,65,occasionnel,pas du tout,0,5,6
+été,extérieur,2025-04-14T20:00:00,2025-04-15T03:00:00,homme,31,1.66,51,occasionnel,pas du tout,0,6,5
+hiver,extérieur,2025-11-12T19:00:00,2025-11-13T01:00:00,homme,31,1.69,64,occasionnel,pas du tout,0,4,4
+hiver,intérieur,2025-03-26T21:00:00,2025-03-27T03:00:00,homme,35,1.62,65,occasionnel,pas du tout,0,5,4
+hiver,intérieur,2025-11-22T21:00:00,2025-11-23T01:00:00,femme,32,1.66,51,occasionnel,pas du tout,0,6,6
+printemps,extérieur,2025-05-13T21:00:00,2025-05-14T01:00:00,femme,25,1.62,71,occasionnel,pas du tout,0,6,4
+printemps,intérieur,2025-03-18T18:00:00,2025-03-19T02:00:00,femme,33,1.66,64,occasionnel,pas du tout,0,4,4
+automne,extérieur,2025-06-08T21:00:00,2025-06-09T05:00:00,femme,30,1.75,67,occasionnel,pas du tout,0,6,5
+été,intérieur,2025-11-06T21:00:00,2025-11-07T04:00:00,homme,34,1.59,50,occasionnel,pas du tout,0,4,6
+hiver,extérieur,2025-07-04T19:00:00,2025-07-05T00:00:00,homme,25,1.68,79,occasionnel,pas du tout,0,5,5
+hiver,extérieur,2025-12-02T19:00:00,2025-12-02T23:00:00,femme,25,1.58,71,occasionnel,pas du tout,0,6,5
+hiver,extérieur,2025-01-21T19:00:00,2025-01-21T23:00:00,femme,27,1.65,78,occasionnel,pas du tout,0,6,6
+été,extérieur,2025-03-18T21:00:00,2025-03-19T03:00:00,femme,30,1.66,55,occasionnel,pas du tout,0,4,5
+automne,extérieur,2025-01-27T19:00:00,2025-01-27T23:00:00,homme,27,1.75,53,occasionnel,pas du tout,0,5,5
+automne,intérieur,2025-05-28T18:00:00,2025-05-29T00:00:00,femme,32,1.68,61,occasionnel,pas du tout,0,5,6
+printemps,extérieur,2025-12-24T18:00:00,2025-12-24T22:00:00,femme,31,1.59,59,occasionnel,pas du tout,0,5,5
+automne,intérieur,2025-07-18T18:00:00,2025-07-18T23:00:00,homme,26,1.74,79,occasionnel,pas du tout,0,6,5
+printemps,extérieur,2025-03-14T20:00:00,2025-03-15T03:00:00,femme,27,1.67,70,occasionnel,pas du tout,0,4,5
+printemps,intérieur,2025-10-28T21:00:00,2025-10-29T01:00:00,femme,29,1.61,63,occasionnel,pas du tout,0,4,4
+printemps,extérieur,2025-05-08T18:00:00,2025-05-09T00:00:00,homme,34,1.68,79,occasionnel,pas du tout,0,5,4
+printemps,extérieur,2025-02-25T19:00:00,2025-02-26T01:00:00,femme,30,1.68,68,occasionnel,pas du tout,0,4,5
+hiver,extérieur,2025-04-07T20:00:00,2025-04-08T00:00:00,femme,25,1.68,75,occasionnel,pas du tout,0,4,4
+hiver,extérieur,2025-08-09T19:00:00,2025-08-09T23:00:00,homme,26,1.73,74,occasionnel,pas du tout,0,4,6
+hiver,intérieur,2025-10-10T21:00:00,2025-10-11T03:00:00,femme,28,1.73,57,occasionnel,pas du tout,0,4,4
+hiver,intérieur,2025-11-09T21:00:00,2025-11-10T04:00:00,homme,25,1.69,58,occasionnel,pas du tout,0,5,4
+printemps,extérieur,2025-03-10T18:00:00,2025-03-11T01:00:00,femme,25,1.62,60,occasionnel,pas du tout,0,6,6
+hiver,intérieur,2025-05-27T18:00:00,2025-05-28T02:00:00,femme,27,1.63,55,occasionnel,pas du tout,0,6,4
+été,extérieur,2025-04-22T20:00:00,2025-04-23T00:00:00,homme,28,1.56,54,occasionnel,pas du tout,0,6,6
+hiver,extérieur,2025-04-15T18:00:00,2025-04-16T01:00:00,femme,26,1.74,71,occasionnel,pas du tout,0,6,5
+été,intérieur,2025-09-21T19:00:00,2025-09-22T01:00:00,femme,25,1.56,52,occasionnel,pas du tout,0,6,6
+hiver,intérieur,2025-07-02T21:00:00,2025-07-03T01:00:00,femme,33,1.74,71,occasionnel,pas du tout,0,5,6
+été,extérieur,2025-03-13T19:00:00,2025-03-14T03:00:00,homme,29,1.74,66,occasionnel,pas du tout,0,6,5
+automne,extérieur,2025-08-28T20:00:00,2025-08-29T04:00:00,homme,27,1.74,51,occasionnel,pas du tout,0,6,6
+automne,intérieur,2025-06-26T20:00:00,2025-06-27T02:00:00,homme,29,1.71,69,occasionnel,pas du tout,0,5,4
+hiver,extérieur,2025-02-10T20:00:00,2025-02-11T00:00:00,homme,27,1.72,70,occasionnel,pas du tout,0,4,4
+automne,extérieur,2025-07-08T21:00:00,2025-07-09T04:00:00,femme,26,1.7,78,occasionnel,pas du tout,0,5,4
+automne,extérieur,2025-02-28T20:00:00,2025-03-01T00:00:00,femme,32,1.56,53,occasionnel,pas du tout,0,6,5
+hiver,intérieur,2025-11-03T18:00:00,2025-11-04T01:00:00,homme,33,1.71,67,occasionnel,pas du tout,0,6,4
+été,intérieur,2025-07-13T20:00:00,2025-07-14T02:00:00,homme,29,1.7,53,occasionnel,pas du tout,0,6,6
+été,intérieur,2025-09-09T19:00:00,2025-09-10T00:00:00,femme,34,1.75,54,occasionnel,pas du tout,0,6,4
+hiver,extérieur,2025-01-03T21:00:00,2025-01-04T02:00:00,femme,29,1.56,60,occasionnel,pas du tout,0,4,5
+hiver,intérieur,2025-10-26T20:00:00,2025-10-27T03:00:00,homme,26,1.58,60,occasionnel,pas du tout,0,6,6
+hiver,intérieur,2025-06-17T18:00:00,2025-06-17T23:00:00,femme,27,1.64,69,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-02-15T20:00:00,2025-02-16T00:00:00,femme,29,1.56,76,occasionnel,pas du tout,0,5,5
+automne,intérieur,2025-07-01T18:00:00,2025-07-02T01:00:00,homme,27,1.72,79,occasionnel,pas du tout,0,4,6
+automne,intérieur,2025-05-13T21:00:00,2025-05-14T05:00:00,femme,29,1.55,55,occasionnel,pas du tout,0,6,5
+automne,intérieur,2025-05-22T18:00:00,2025-05-22T22:00:00,femme,31,1.63,66,occasionnel,pas du tout,0,5,4
+hiver,extérieur,2025-08-10T19:00:00,2025-08-11T00:00:00,homme,29,1.66,51,occasionnel,pas du tout,0,5,6
+automne,intérieur,2025-09-24T20:00:00,2025-09-25T00:00:00,femme,26,1.63,54,occasionnel,pas du tout,0,6,4
+automne,intérieur,2025-06-20T20:00:00,2025-06-21T01:00:00,femme,31,1.74,57,occasionnel,pas du tout,0,4,5
+été,intérieur,2025-02-11T21:00:00,2025-02-12T01:00:00,femme,32,1.74,65,occasionnel,pas du tout,0,5,4
+été,extérieur,2025-07-15T18:00:00,2025-07-16T00:00:00,femme,29,1.66,77,occasionnel,pas du tout,0,6,4
+hiver,intérieur,2025-10-27T21:00:00,2025-10-28T01:00:00,femme,25,1.66,63,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-05-08T21:00:00,2025-05-09T04:00:00,homme,33,1.57,67,occasionnel,pas du tout,0,4,6
+été,intérieur,2025-08-05T18:00:00,2025-08-06T01:00:00,femme,29,1.7,56,occasionnel,pas du tout,0,6,4
+printemps,extérieur,2025-05-09T18:00:00,2025-05-10T01:00:00,homme,32,1.64,73,occasionnel,pas du tout,0,4,5
+hiver,intérieur,2025-07-02T19:00:00,2025-07-03T02:00:00,homme,33,1.64,65,occasionnel,pas du tout,0,5,4
+printemps,extérieur,2025-11-13T19:00:00,2025-11-14T01:00:00,homme,26,1.72,79,occasionnel,pas du tout,0,5,5
+été,intérieur,2025-12-27T20:00:00,2025-12-28T01:00:00,femme,33,1.6,77,occasionnel,pas du tout,0,5,5
+hiver,extérieur,2025-09-27T21:00:00,2025-09-28T04:00:00,homme,30,1.67,65,occasionnel,pas du tout,0,4,6
+printemps,intérieur,2025-07-17T20:00:00,2025-07-18T01:00:00,homme,29,1.69,76,occasionnel,pas du tout,0,4,5
+hiver,intérieur,2025-07-28T19:00:00,2025-07-29T03:00:00,femme,34,1.56,74,occasionnel,pas du tout,0,5,5
+automne,extérieur,2025-01-19T19:00:00,2025-01-20T01:00:00,femme,32,1.57,52,occasionnel,pas du tout,0,6,5
+été,extérieur,2025-08-08T18:00:00,2025-08-09T00:00:00,homme,32,1.55,77,occasionnel,pas du tout,0,5,5
+hiver,extérieur,2025-11-04T21:00:00,2025-11-05T03:00:00,homme,27,1.74,63,occasionnel,pas du tout,0,4,5
+automne,extérieur,2025-07-06T19:00:00,2025-07-07T03:00:00,homme,29,1.69,75,occasionnel,pas du tout,0,4,6
+automne,extérieur,2025-05-27T18:00:00,2025-05-28T00:00:00,homme,30,1.73,66,occasionnel,pas du tout,0,4,5
+automne,intérieur,2025-10-23T20:00:00,2025-10-24T00:00:00,homme,27,1.61,60,occasionnel,pas du tout,0,4,5
+été,extérieur,2025-06-21T20:00:00,2025-06-22T03:00:00,femme,29,1.59,54,occasionnel,pas du tout,0,4,6
+été,extérieur,2025-01-12T20:00:00,2025-01-13T04:00:00,homme,29,1.57,51,occasionnel,pas du tout,0,4,6
+printemps,intérieur,2025-07-11T19:00:00,2025-07-12T00:00:00,femme,32,1.69,56,occasionnel,pas du tout,0,5,4
+automne,extérieur,2025-10-18T18:00:00,2025-10-19T02:00:00,homme,29,1.59,54,occasionnel,pas du tout,0,5,4
+printemps,extérieur,2025-08-20T20:00:00,2025-08-21T01:00:00,homme,27,1.64,56,occasionnel,pas du tout,0,6,4
+hiver,extérieur,2025-01-21T20:00:00,2025-01-22T00:00:00,homme,28,1.73,61,occasionnel,pas du tout,0,6,6
+automne,intérieur,2025-02-27T19:00:00,2025-02-28T02:00:00,homme,29,1.62,61,occasionnel,pas du tout,0,5,4
+hiver,intérieur,2025-01-23T18:00:00,2025-01-24T00:00:00,homme,26,1.58,79,occasionnel,pas du tout,0,6,6
+printemps,intérieur,2025-02-21T21:00:00,2025-02-22T02:00:00,homme,31,1.62,74,occasionnel,pas du tout,0,5,4
+hiver,intérieur,2025-02-14T21:00:00,2025-02-15T05:00:00,homme,31,1.71,77,occasionnel,pas du tout,0,5,4
+printemps,intérieur,2025-12-24T21:00:00,2025-12-25T01:00:00,femme,28,1.69,54,occasionnel,pas du tout,0,6,4
+hiver,intérieur,2025-11-24T18:00:00,2025-11-25T02:00:00,femme,31,1.69,50,occasionnel,pas du tout,0,5,4
+printemps,extérieur,2025-01-25T18:00:00,2025-01-26T00:00:00,femme,26,1.65,58,occasionnel,pas du tout,0,6,5
+automne,intérieur,2025-07-27T20:00:00,2025-07-28T01:00:00,homme,33,1.59,63,occasionnel,pas du tout,0,4,4
+hiver,intérieur,2025-01-22T18:00:00,2025-01-23T02:00:00,homme,33,1.73,64,occasionnel,pas du tout,0,4,6
+été,extérieur,2025-10-14T18:00:00,2025-10-15T02:00:00,homme,30,1.57,71,occasionnel,pas du tout,0,4,5
+printemps,extérieur,2025-10-18T20:00:00,2025-10-19T02:00:00,femme,32,1.59,76,occasionnel,pas du tout,0,4,4
+automne,extérieur,2025-09-20T20:00:00,2025-09-21T03:00:00,homme,31,1.56,70,occasionnel,pas du tout,0,5,5
+printemps,intérieur,2025-06-15T20:00:00,2025-06-16T04:00:00,homme,32,1.63,72,occasionnel,pas du tout,0,4,4
+été,intérieur,2025-08-20T18:00:00,2025-08-21T01:00:00,homme,28,1.72,51,occasionnel,pas du tout,0,4,6
+été,intérieur,2025-04-12T21:00:00,2025-04-13T05:00:00,femme,32,1.71,64,occasionnel,pas du tout,0,4,5
+été,extérieur,2025-08-24T19:00:00,2025-08-25T03:00:00,femme,26,1.59,65,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-06-13T19:00:00,2025-06-14T03:00:00,femme,33,1.59,68,occasionnel,pas du tout,0,6,6
+automne,intérieur,2025-11-25T21:00:00,2025-11-26T05:00:00,homme,34,1.71,69,occasionnel,pas du tout,0,4,6
+printemps,intérieur,2025-08-27T20:00:00,2025-08-28T03:00:00,femme,31,1.59,50,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-12-24T21:00:00,2025-12-25T03:00:00,homme,26,1.6,72,occasionnel,pas du tout,0,5,5
+été,extérieur,2025-01-13T18:00:00,2025-01-14T02:00:00,femme,32,1.56,69,occasionnel,pas du tout,0,5,4
+automne,intérieur,2025-07-14T18:00:00,2025-07-14T22:00:00,homme,25,1.7,53,occasionnel,pas du tout,0,5,5
+automne,intérieur,2025-09-17T21:00:00,2025-09-18T04:00:00,homme,29,1.55,78,occasionnel,pas du tout,0,6,4
+printemps,intérieur,2025-05-27T20:00:00,2025-05-28T03:00:00,femme,33,1.7,61,occasionnel,pas du tout,0,6,4
+printemps,intérieur,2025-09-03T19:00:00,2025-09-04T02:00:00,homme,31,1.67,60,occasionnel,pas du tout,0,5,4
+automne,intérieur,2025-02-17T20:00:00,2025-02-18T02:00:00,homme,35,1.63,79,occasionnel,pas du tout,0,4,6
+hiver,extérieur,2025-03-02T20:00:00,2025-03-03T03:00:00,homme,35,1.68,54,occasionnel,pas du tout,0,4,5
+été,intérieur,2025-12-12T20:00:00,2025-12-13T04:00:00,femme,35,1.56,51,occasionnel,pas du tout,0,6,5
+printemps,extérieur,2025-07-10T18:00:00,2025-07-10T22:00:00,femme,27,1.61,73,occasionnel,pas du tout,0,6,5
+automne,extérieur,2025-11-09T20:00:00,2025-11-10T04:00:00,femme,33,1.68,56,occasionnel,pas du tout,0,4,4
+été,intérieur,2025-05-07T19:00:00,2025-05-08T00:00:00,homme,29,1.64,69,occasionnel,pas du tout,0,4,4
+été,extérieur,2025-01-11T18:00:00,2025-01-11T23:00:00,homme,28,1.64,59,occasionnel,pas du tout,0,4,6
+automne,extérieur,2025-03-06T19:00:00,2025-03-07T01:00:00,homme,29,1.7,51,occasionnel,pas du tout,0,6,6
+printemps,intérieur,2025-07-18T19:00:00,2025-07-19T00:00:00,homme,30,1.72,76,occasionnel,pas du tout,0,5,5
+automne,extérieur,2025-11-07T18:00:00,2025-11-07T23:00:00,homme,35,1.56,57,occasionnel,pas du tout,0,6,6
+automne,intérieur,2025-11-17T20:00:00,2025-11-18T04:00:00,femme,29,1.62,58,occasionnel,pas du tout,0,6,4
+hiver,intérieur,2025-09-11T20:00:00,2025-09-12T01:00:00,homme,35,1.61,60,occasionnel,pas du tout,0,4,6
+été,intérieur,2025-02-11T20:00:00,2025-02-12T04:00:00,femme,29,1.73,79,occasionnel,pas du tout,0,4,6
+hiver,intérieur,2025-09-24T20:00:00,2025-09-25T02:00:00,homme,26,1.64,79,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-06-21T19:00:00,2025-06-22T02:00:00,femme,26,1.73,60,occasionnel,pas du tout,0,6,5
+hiver,extérieur,2025-06-18T19:00:00,2025-06-19T03:00:00,femme,32,1.67,51,occasionnel,pas du tout,0,5,4
+automne,extérieur,2025-09-15T18:00:00,2025-09-16T00:00:00,homme,32,1.63,67,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-01-16T21:00:00,2025-01-17T04:00:00,homme,30,1.69,51,occasionnel,pas du tout,0,4,4
+été,extérieur,2025-12-05T18:00:00,2025-12-06T00:00:00,homme,27,1.66,56,occasionnel,pas du tout,0,5,4
+automne,intérieur,2025-11-16T18:00:00,2025-11-17T00:00:00,homme,29,1.68,58,occasionnel,pas du tout,0,5,4
+été,intérieur,2025-09-02T20:00:00,2025-09-03T04:00:00,femme,35,1.62,65,occasionnel,pas du tout,0,6,4
+automne,extérieur,2025-01-23T20:00:00,2025-01-24T02:00:00,homme,25,1.73,53,occasionnel,pas du tout,0,5,4
+été,extérieur,2025-12-12T21:00:00,2025-12-13T03:00:00,femme,32,1.69,66,occasionnel,pas du tout,0,5,6
+printemps,extérieur,2025-10-22T18:00:00,2025-10-23T00:00:00,homme,25,1.65,73,occasionnel,pas du tout,0,6,6
+été,extérieur,2025-03-10T18:00:00,2025-03-10T22:00:00,femme,28,1.55,62,occasionnel,pas du tout,0,5,6
+printemps,intérieur,2025-02-20T21:00:00,2025-02-21T02:00:00,homme,26,1.65,79,occasionnel,pas du tout,0,6,4
+été,extérieur,2025-01-22T19:00:00,2025-01-23T02:00:00,femme,34,1.59,55,occasionnel,pas du tout,0,5,4
+printemps,extérieur,2025-09-09T18:00:00,2025-09-10T01:00:00,homme,27,1.61,63,occasionnel,pas du tout,0,4,4
+hiver,intérieur,2025-05-14T19:00:00,2025-05-15T00:00:00,homme,34,1.55,74,occasionnel,pas du tout,0,4,4
+printemps,extérieur,2025-03-07T19:00:00,2025-03-08T00:00:00,femme,26,1.7,53,occasionnel,pas du tout,0,6,5
+printemps,extérieur,2025-08-19T21:00:00,2025-08-20T04:00:00,femme,35,1.58,50,occasionnel,pas du tout,0,6,5
+automne,intérieur,2025-05-01T20:00:00,2025-05-02T04:00:00,homme,29,1.74,74,occasionnel,pas du tout,0,4,6
+été,extérieur,2025-10-12T19:00:00,2025-10-13T01:00:00,femme,29,1.7,74,occasionnel,pas du tout,0,5,5
+hiver,intérieur,2025-12-21T21:00:00,2025-12-22T03:00:00,femme,32,1.72,62,occasionnel,pas du tout,0,4,4
+printemps,intérieur,2025-07-23T20:00:00,2025-07-24T01:00:00,homme,28,1.55,55,occasionnel,pas du tout,0,6,6
+été,extérieur,2025-02-09T20:00:00,2025-02-10T01:00:00,homme,34,1.71,76,occasionnel,pas du tout,0,4,4
+été,extérieur,2025-06-18T19:00:00,2025-06-19T00:00:00,homme,34,1.57,68,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-05-01T19:00:00,2025-05-02T01:00:00,homme,31,1.61,68,occasionnel,pas du tout,0,5,5
+automne,extérieur,2025-04-13T19:00:00,2025-04-14T03:00:00,femme,30,1.65,69,occasionnel,pas du tout,0,6,6
+été,intérieur,2025-06-22T20:00:00,2025-06-23T04:00:00,homme,26,1.74,58,occasionnel,pas du tout,0,4,4
+hiver,extérieur,2025-10-06T19:00:00,2025-10-07T01:00:00,femme,34,1.67,80,occasionnel,pas du tout,0,6,6
+printemps,extérieur,2025-08-07T21:00:00,2025-08-08T04:00:00,homme,34,1.58,63,occasionnel,pas du tout,0,5,5
+automne,extérieur,2025-05-07T20:00:00,2025-05-08T04:00:00,femme,33,1.56,60,occasionnel,pas du tout,0,6,6
+été,extérieur,2025-01-16T20:00:00,2025-01-17T03:00:00,femme,28,1.66,53,occasionnel,pas du tout,0,4,4
+automne,extérieur,2025-04-27T20:00:00,2025-04-28T02:00:00,femme,30,1.61,54,occasionnel,pas du tout,0,4,6
+hiver,extérieur,2025-01-02T21:00:00,2025-01-03T05:00:00,homme,29,1.6,77,occasionnel,pas du tout,0,6,6
+printemps,extérieur,2025-01-02T21:00:00,2025-01-03T05:00:00,femme,27,1.58,74,occasionnel,pas du tout,0,5,5
+automne,intérieur,2025-06-23T20:00:00,2025-06-24T01:00:00,homme,28,1.67,69,occasionnel,pas du tout,0,6,4
+printemps,intérieur,2025-07-09T20:00:00,2025-07-10T01:00:00,homme,27,1.7,62,occasionnel,pas du tout,0,4,6
+été,intérieur,2025-03-21T19:00:00,2025-03-22T02:00:00,femme,25,1.75,75,occasionnel,pas du tout,0,6,5
+hiver,intérieur,2025-03-24T19:00:00,2025-03-25T00:00:00,homme,31,1.57,66,occasionnel,pas du tout,0,4,4
+hiver,extérieur,2025-03-04T20:00:00,2025-03-05T02:00:00,femme,27,1.72,59,occasionnel,pas du tout,0,5,6
+printemps,intérieur,2025-09-05T21:00:00,2025-09-06T04:00:00,femme,32,1.57,56,occasionnel,pas du tout,0,5,5
+été,intérieur,2025-10-28T20:00:00,2025-10-29T04:00:00,femme,30,1.58,58,occasionnel,pas du tout,0,4,5
+printemps,extérieur,2025-12-05T20:00:00,2025-12-06T00:00:00,homme,29,1.56,79,occasionnel,pas du tout,0,5,4
+printemps,intérieur,2025-03-27T20:00:00,2025-03-28T01:00:00,homme,32,1.68,80,occasionnel,pas du tout,0,6,5
+automne,intérieur,2025-02-24T21:00:00,2025-02-25T02:00:00,femme,31,1.71,67,occasionnel,pas du tout,0,4,6
+hiver,extérieur,2025-04-11T21:00:00,2025-04-12T05:00:00,femme,26,1.65,60,occasionnel,pas du tout,0,5,4
+été,intérieur,2025-02-23T20:00:00,2025-02-24T03:00:00,femme,28,1.7,59,occasionnel,pas du tout,0,4,6
+été,intérieur,2025-11-17T19:00:00,2025-11-18T02:00:00,homme,35,1.67,78,occasionnel,pas du tout,0,5,6
+été,intérieur,2025-02-16T20:00:00,2025-02-17T00:00:00,homme,33,1.61,52,occasionnel,pas du tout,0,4,4
+automne,intérieur,2025-11-25T21:00:00,2025-11-26T02:00:00,femme,33,1.55,57,occasionnel,pas du tout,0,5,6
+hiver,intérieur,2025-12-03T18:00:00,2025-12-04T00:00:00,homme,32,1.57,70,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-12-02T18:00:00,2025-12-02T23:00:00,femme,31,1.72,65,occasionnel,pas du tout,0,4,6
+hiver,extérieur,2025-06-01T18:00:00,2025-06-02T00:00:00,femme,27,1.56,52,occasionnel,pas du tout,0,6,4
+hiver,extérieur,2025-11-09T18:00:00,2025-11-10T02:00:00,femme,34,1.69,56,occasionnel,pas du tout,0,6,4
+été,extérieur,2025-12-24T19:00:00,2025-12-25T03:00:00,homme,31,1.68,77,occasionnel,pas du tout,0,4,4
+automne,intérieur,2025-03-06T19:00:00,2025-03-07T02:00:00,homme,27,1.62,72,occasionnel,pas du tout,0,4,6
+printemps,extérieur,2025-10-07T20:00:00,2025-10-08T00:00:00,homme,31,1.66,50,occasionnel,pas du tout,0,6,6
+été,intérieur,2025-10-24T20:00:00,2025-10-25T00:00:00,homme,34,1.64,78,occasionnel,pas du tout,0,4,6
+printemps,intérieur,2025-02-08T18:00:00,2025-02-09T01:00:00,femme,30,1.69,67,occasionnel,pas du tout,0,5,6
+automne,intérieur,2025-11-26T20:00:00,2025-11-27T00:00:00,homme,32,1.73,60,occasionnel,pas du tout,0,6,5
+printemps,intérieur,2025-10-12T19:00:00,2025-10-13T00:00:00,homme,26,1.71,64,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-11-26T19:00:00,2025-11-27T03:00:00,femme,27,1.74,65,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-10-12T21:00:00,2025-10-13T03:00:00,homme,29,1.67,63,occasionnel,pas du tout,0,6,6
+automne,intérieur,2025-03-10T18:00:00,2025-03-11T00:00:00,femme,27,1.65,62,occasionnel,pas du tout,0,6,5
+automne,intérieur,2025-05-25T18:00:00,2025-05-26T00:00:00,homme,27,1.55,53,occasionnel,pas du tout,0,6,5
+été,extérieur,2025-02-07T20:00:00,2025-02-08T03:00:00,femme,33,1.73,65,occasionnel,pas du tout,0,4,5
+printemps,intérieur,2025-02-09T19:00:00,2025-02-09T23:00:00,homme,33,1.62,73,occasionnel,pas du tout,0,4,5
+automne,extérieur,2025-08-01T19:00:00,2025-08-02T00:00:00,homme,34,1.55,50,occasionnel,pas du tout,0,5,6
+printemps,extérieur,2025-01-15T21:00:00,2025-01-16T01:00:00,femme,26,1.68,62,occasionnel,pas du tout,0,4,4
+été,extérieur,2025-07-28T18:00:00,2025-07-29T02:00:00,femme,28,1.74,76,occasionnel,pas du tout,0,6,4
+printemps,intérieur,2025-05-22T21:00:00,2025-05-23T04:00:00,femme,32,1.64,57,occasionnel,pas du tout,0,6,6
+été,intérieur,2025-01-11T21:00:00,2025-01-12T04:00:00,femme,34,1.72,58,occasionnel,pas du tout,0,4,6
+printemps,extérieur,2025-01-15T21:00:00,2025-01-16T03:00:00,homme,28,1.63,77,occasionnel,pas du tout,0,4,6
+hiver,intérieur,2025-08-07T20:00:00,2025-08-08T01:00:00,femme,26,1.7,80,occasionnel,pas du tout,0,6,5
+hiver,extérieur,2025-06-07T19:00:00,2025-06-08T00:00:00,femme,27,1.57,60,occasionnel,pas du tout,0,6,5
+hiver,extérieur,2025-02-08T20:00:00,2025-02-09T00:00:00,femme,28,1.69,61,occasionnel,pas du tout,0,5,6
+automne,extérieur,2025-02-27T21:00:00,2025-02-28T01:00:00,femme,30,1.61,58,occasionnel,pas du tout,0,4,6
+printemps,intérieur,2025-02-23T19:00:00,2025-02-24T03:00:00,homme,34,1.71,77,occasionnel,pas du tout,0,6,4
+automne,extérieur,2025-12-02T19:00:00,2025-12-02T23:00:00,homme,28,1.71,71,occasionnel,pas du tout,0,6,6
+hiver,extérieur,2025-01-11T19:00:00,2025-01-11T23:00:00,homme,32,1.67,56,occasionnel,pas du tout,0,6,5
+été,intérieur,2025-04-22T19:00:00,2025-04-23T03:00:00,femme,32,1.63,57,occasionnel,pas du tout,0,5,4
+été,extérieur,2025-07-10T21:00:00,2025-07-11T05:00:00,femme,35,1.6,54,occasionnel,pas du tout,0,4,5
+printemps,extérieur,2025-01-06T21:00:00,2025-01-07T03:00:00,femme,35,1.75,66,occasionnel,pas du tout,0,4,6
+hiver,extérieur,2025-06-08T20:00:00,2025-06-09T02:00:00,homme,28,1.61,68,occasionnel,pas du tout,0,5,5
+automne,intérieur,2025-03-24T19:00:00,2025-03-25T00:00:00,homme,33,1.7,63,occasionnel,pas du tout,0,4,6
+automne,intérieur,2025-03-09T18:00:00,2025-03-09T22:00:00,homme,29,1.59,51,occasionnel,pas du tout,0,6,4
+été,extérieur,2025-01-17T18:00:00,2025-01-17T23:00:00,femme,35,1.58,60,occasionnel,pas du tout,0,4,6
+printemps,intérieur,2025-02-06T21:00:00,2025-02-07T02:00:00,femme,32,1.57,72,occasionnel,pas du tout,0,6,6
+hiver,extérieur,2025-03-25T20:00:00,2025-03-26T04:00:00,homme,31,1.56,53,occasionnel,pas du tout,0,6,5
+été,intérieur,2025-02-09T20:00:00,2025-02-10T01:00:00,femme,30,1.67,67,occasionnel,pas du tout,0,6,4
+automne,extérieur,2025-07-25T21:00:00,2025-07-26T02:00:00,femme,27,1.74,55,occasionnel,pas du tout,0,5,6
+automne,extérieur,2025-11-14T20:00:00,2025-11-15T00:00:00,femme,27,1.61,50,occasionnel,pas du tout,0,6,5
+printemps,intérieur,2025-02-08T19:00:00,2025-02-09T01:00:00,femme,35,1.59,60,occasionnel,pas du tout,0,6,5
+hiver,extérieur,2025-12-01T18:00:00,2025-12-02T01:00:00,femme,27,1.69,57,occasionnel,pas du tout,0,6,4
+été,extérieur,2025-03-15T21:00:00,2025-03-16T04:00:00,homme,30,1.68,72,occasionnel,pas du tout,0,5,4
+automne,intérieur,2025-06-14T18:00:00,2025-06-15T02:00:00,homme,25,1.59,72,occasionnel,pas du tout,0,6,6
+automne,extérieur,2025-12-07T18:00:00,2025-12-08T01:00:00,femme,35,1.73,73,occasionnel,pas du tout,0,5,4
+été,intérieur,2025-11-06T19:00:00,2025-11-06T23:00:00,homme,35,1.67,76,occasionnel,pas du tout,0,4,5
+automne,intérieur,2025-02-20T20:00:00,2025-02-21T04:00:00,femme,31,1.67,56,occasionnel,pas du tout,0,6,4
+automne,extérieur,2025-04-11T21:00:00,2025-04-12T04:00:00,femme,32,1.58,76,occasionnel,pas du tout,0,6,5
+hiver,intérieur,2025-07-22T19:00:00,2025-07-23T01:00:00,femme,35,1.7,59,occasionnel,pas du tout,0,4,5
+printemps,extérieur,2025-10-03T18:00:00,2025-10-03T22:00:00,femme,29,1.69,60,occasionnel,pas du tout,0,6,5
+été,intérieur,2025-01-13T18:00:00,2025-01-14T01:00:00,homme,29,1.65,63,occasionnel,pas du tout,0,4,6
+été,extérieur,2025-09-05T21:00:00,2025-09-06T04:00:00,homme,34,1.74,70,occasionnel,pas du tout,0,4,6
+automne,extérieur,2025-08-27T19:00:00,2025-08-28T01:00:00,homme,27,1.64,57,occasionnel,pas du tout,0,6,6
+été,extérieur,2025-01-16T18:00:00,2025-01-17T01:00:00,femme,35,1.57,67,occasionnel,pas du tout,0,5,5
+printemps,intérieur,2025-04-14T21:00:00,2025-04-15T03:00:00,homme,32,1.62,60,occasionnel,pas du tout,0,5,4
+automne,extérieur,2025-10-04T19:00:00,2025-10-05T02:00:00,femme,30,1.62,52,occasionnel,pas du tout,0,6,4
+automne,extérieur,2025-03-04T19:00:00,2025-03-04T23:00:00,homme,28,1.56,66,occasionnel,pas du tout,0,4,4
+printemps,extérieur,2025-02-15T18:00:00,2025-02-15T23:00:00,femme,27,1.73,71,occasionnel,pas du tout,0,6,5
+hiver,extérieur,2025-03-27T19:00:00,2025-03-28T02:00:00,homme,23,1.71,92,régulier,normal,2,4,12
+été,extérieur,2025-05-10T19:00:00,2025-05-11T02:00:00,homme,25,1.89,82,aguerri,beaucoup,4,3,10
+automne,intérieur,2025-08-21T19:00:00,2025-08-22T03:00:00,femme,25,1.82,90,aguerri,normal,4,2,10
+automne,intérieur,2025-07-06T20:00:00,2025-07-07T00:00:00,homme,20,1.74,82,régulier,beaucoup,5,4,9
+hiver,intérieur,2025-06-21T20:00:00,2025-06-22T01:00:00,femme,21,1.89,87,aguerri,beaucoup,5,3,9
+été,extérieur,2025-04-19T21:00:00,2025-04-20T04:00:00,femme,31,1.68,95,aguerri,beaucoup,4,4,12
+été,intérieur,2025-11-25T18:00:00,2025-11-26T00:00:00,femme,32,1.84,72,régulier,normal,3,4,9
+été,extérieur,2025-05-25T21:00:00,2025-05-26T01:00:00,femme,21,1.82,69,régulier,normal,5,3,12
+automne,extérieur,2025-09-01T18:00:00,2025-09-02T01:00:00,homme,22,1.65,66,régulier,beaucoup,3,2,11
+hiver,extérieur,2025-03-09T21:00:00,2025-03-10T04:00:00,femme,32,1.65,73,régulier,beaucoup,5,2,11
+automne,extérieur,2025-05-01T19:00:00,2025-05-02T01:00:00,femme,28,1.74,89,aguerri,normal,5,4,10
+hiver,intérieur,2025-07-14T19:00:00,2025-07-15T03:00:00,homme,23,1.88,82,aguerri,beaucoup,3,3,10
+printemps,extérieur,2025-10-24T19:00:00,2025-10-25T00:00:00,femme,20,1.88,69,aguerri,beaucoup,3,4,8
+été,intérieur,2025-05-19T20:00:00,2025-05-20T04:00:00,homme,26,1.66,83,aguerri,beaucoup,2,3,9
+automne,extérieur,2025-01-05T18:00:00,2025-01-06T00:00:00,homme,22,1.76,93,aguerri,normal,3,4,12
+automne,extérieur,2025-07-28T19:00:00,2025-07-29T02:00:00,homme,20,1.69,94,aguerri,beaucoup,3,3,8
+automne,extérieur,2025-11-06T21:00:00,2025-11-07T05:00:00,homme,22,1.69,76,régulier,normal,5,3,12
+printemps,extérieur,2025-01-13T19:00:00,2025-01-14T00:00:00,femme,27,1.88,80,aguerri,normal,3,3,9
+automne,intérieur,2025-12-07T19:00:00,2025-12-08T00:00:00,homme,23,1.82,95,aguerri,beaucoup,3,3,8
+hiver,extérieur,2025-03-01T20:00:00,2025-03-02T02:00:00,femme,34,1.74,90,aguerri,beaucoup,5,2,11
+été,intérieur,2025-09-04T21:00:00,2025-09-05T01:00:00,homme,33,1.73,94,aguerri,beaucoup,2,3,11
+automne,extérieur,2025-01-12T18:00:00,2025-01-13T00:00:00,homme,33,1.87,89,aguerri,normal,4,4,8
+automne,intérieur,2025-10-08T21:00:00,2025-10-09T04:00:00,femme,30,1.87,72,aguerri,beaucoup,5,2,11
+été,extérieur,2025-09-23T21:00:00,2025-09-24T03:00:00,homme,21,1.66,70,régulier,beaucoup,4,3,9
+printemps,extérieur,2025-02-11T18:00:00,2025-02-11T23:00:00,femme,25,1.85,77,régulier,normal,5,2,10
+été,intérieur,2025-01-07T20:00:00,2025-01-08T03:00:00,homme,28,1.75,72,régulier,beaucoup,2,2,12
+hiver,intérieur,2025-01-24T19:00:00,2025-01-25T01:00:00,femme,31,1.73,90,aguerri,normal,3,2,11
+été,extérieur,2025-06-11T19:00:00,2025-06-12T02:00:00,homme,35,1.68,72,régulier,beaucoup,2,4,10
+été,extérieur,2025-02-12T18:00:00,2025-02-12T22:00:00,homme,26,1.9,86,régulier,normal,3,3,12
+été,extérieur,2025-05-28T21:00:00,2025-05-29T03:00:00,homme,34,1.86,86,régulier,normal,5,4,11
+automne,intérieur,2025-12-27T20:00:00,2025-12-28T00:00:00,homme,34,1.77,88,aguerri,normal,3,4,11
+été,intérieur,2025-08-24T20:00:00,2025-08-25T01:00:00,homme,35,1.67,66,aguerri,normal,2,2,11
+printemps,intérieur,2025-05-20T19:00:00,2025-05-21T03:00:00,homme,20,1.77,74,régulier,beaucoup,3,3,8
+printemps,intérieur,2025-05-07T18:00:00,2025-05-08T02:00:00,homme,32,1.79,79,aguerri,normal,5,3,8
+hiver,extérieur,2025-05-17T20:00:00,2025-05-18T00:00:00,homme,34,1.7,71,aguerri,beaucoup,3,2,8
+hiver,intérieur,2025-12-11T19:00:00,2025-12-12T03:00:00,homme,21,1.8,77,régulier,normal,4,4,12
+printemps,extérieur,2025-07-06T20:00:00,2025-07-07T02:00:00,homme,33,1.74,74,régulier,normal,4,3,8
+été,extérieur,2025-11-18T20:00:00,2025-11-19T02:00:00,femme,32,1.66,80,aguerri,beaucoup,4,2,8
+été,intérieur,2025-07-08T20:00:00,2025-07-09T03:00:00,femme,35,1.85,75,régulier,beaucoup,3,2,11
+été,intérieur,2025-09-12T18:00:00,2025-09-13T01:00:00,femme,30,1.89,76,aguerri,normal,2,2,9
+automne,extérieur,2025-10-06T18:00:00,2025-10-06T23:00:00,homme,24,1.74,85,aguerri,normal,4,4,10
+été,intérieur,2025-07-23T21:00:00,2025-07-24T05:00:00,homme,25,1.82,90,régulier,normal,4,4,12
+hiver,extérieur,2025-08-24T19:00:00,2025-08-25T01:00:00,homme,23,1.77,67,régulier,normal,4,3,8
+automne,intérieur,2025-09-26T19:00:00,2025-09-27T00:00:00,femme,27,1.89,70,régulier,normal,2,3,8
+automne,intérieur,2025-09-28T21:00:00,2025-09-29T05:00:00,homme,25,1.79,92,régulier,normal,5,3,12
+automne,extérieur,2025-09-27T20:00:00,2025-09-28T00:00:00,homme,21,1.69,83,régulier,normal,5,2,9
+hiver,intérieur,2025-02-19T20:00:00,2025-02-20T00:00:00,femme,34,1.72,92,régulier,beaucoup,2,3,12
+automne,extérieur,2025-06-28T20:00:00,2025-06-29T04:00:00,femme,35,1.78,87,aguerri,normal,2,4,9
+été,intérieur,2025-10-20T20:00:00,2025-10-21T00:00:00,femme,34,1.71,83,régulier,normal,3,2,10
+été,intérieur,2025-06-10T21:00:00,2025-06-11T02:00:00,femme,31,1.83,81,aguerri,normal,3,2,9
+hiver,extérieur,2025-10-22T21:00:00,2025-10-23T02:00:00,femme,33,1.77,84,aguerri,beaucoup,2,3,11
+automne,extérieur,2025-08-02T18:00:00,2025-08-02T23:00:00,femme,30,1.88,93,aguerri,normal,3,2,11
+automne,intérieur,2025-01-01T19:00:00,2025-01-02T03:00:00,homme,24,1.68,87,aguerri,normal,5,3,8
+automne,intérieur,2025-08-18T21:00:00,2025-08-19T04:00:00,femme,21,1.74,90,aguerri,normal,5,4,10
+hiver,intérieur,2025-05-21T18:00:00,2025-05-22T02:00:00,femme,23,1.9,90,aguerri,normal,3,4,10
+printemps,extérieur,2025-04-13T19:00:00,2025-04-14T03:00:00,femme,33,1.79,68,aguerri,beaucoup,3,3,12
+hiver,extérieur,2025-03-13T18:00:00,2025-03-13T23:00:00,homme,35,1.75,67,aguerri,normal,5,3,8
+hiver,extérieur,2025-08-27T21:00:00,2025-08-28T05:00:00,femme,32,1.76,70,aguerri,normal,4,4,8
+été,extérieur,2025-04-23T18:00:00,2025-04-24T00:00:00,homme,35,1.77,89,aguerri,beaucoup,5,4,9
+été,extérieur,2025-09-02T18:00:00,2025-09-02T23:00:00,homme,24,1.67,73,régulier,beaucoup,3,2,8
+printemps,intérieur,2025-01-27T21:00:00,2025-01-28T02:00:00,femme,33,1.68,65,aguerri,normal,3,3,8
+automne,intérieur,2025-08-18T21:00:00,2025-08-19T01:00:00,homme,24,1.68,74,régulier,normal,5,4,8
+printemps,extérieur,2025-10-17T18:00:00,2025-10-18T00:00:00,femme,35,1.8,79,régulier,normal,4,4,12
+automne,extérieur,2025-08-04T21:00:00,2025-08-05T05:00:00,femme,25,1.75,74,aguerri,normal,3,3,8
+automne,intérieur,2025-01-17T19:00:00,2025-01-18T03:00:00,femme,24,1.73,83,régulier,beaucoup,3,4,11
+été,extérieur,2025-09-27T20:00:00,2025-09-28T03:00:00,homme,28,1.81,80,régulier,normal,2,4,12
+été,extérieur,2025-05-15T20:00:00,2025-05-16T00:00:00,homme,27,1.87,92,régulier,beaucoup,3,4,9
+été,intérieur,2025-01-26T18:00:00,2025-01-27T02:00:00,femme,28,1.84,84,régulier,beaucoup,5,3,12
+été,extérieur,2025-09-25T20:00:00,2025-09-26T03:00:00,homme,31,1.82,75,régulier,beaucoup,3,3,8
+automne,intérieur,2025-10-15T20:00:00,2025-10-16T03:00:00,femme,29,1.89,69,aguerri,beaucoup,4,2,12
+automne,intérieur,2025-02-01T20:00:00,2025-02-02T00:00:00,homme,27,1.88,79,régulier,normal,3,4,10
+automne,extérieur,2025-10-23T21:00:00,2025-10-24T04:00:00,femme,27,1.75,68,aguerri,normal,5,2,11
+automne,extérieur,2025-07-24T19:00:00,2025-07-24T23:00:00,femme,30,1.78,87,régulier,beaucoup,3,3,10
+été,intérieur,2025-04-24T19:00:00,2025-04-25T00:00:00,femme,25,1.89,70,régulier,normal,3,3,12
+printemps,extérieur,2025-06-24T19:00:00,2025-06-24T23:00:00,femme,29,1.89,70,aguerri,normal,5,4,9
+printemps,extérieur,2025-02-13T21:00:00,2025-02-14T05:00:00,homme,20,1.79,72,aguerri,beaucoup,4,4,12
+automne,extérieur,2025-04-22T20:00:00,2025-04-23T03:00:00,homme,33,1.9,88,aguerri,normal,4,4,8
+printemps,intérieur,2025-05-11T20:00:00,2025-05-12T04:00:00,homme,34,1.79,78,régulier,normal,3,4,12
+hiver,intérieur,2025-05-11T19:00:00,2025-05-12T02:00:00,homme,22,1.82,71,régulier,beaucoup,3,2,10
+automne,intérieur,2025-04-23T20:00:00,2025-04-24T04:00:00,femme,27,1.68,66,aguerri,normal,2,3,9
+printemps,extérieur,2025-09-06T21:00:00,2025-09-07T05:00:00,femme,28,1.87,91,régulier,beaucoup,4,2,12
+automne,intérieur,2025-03-16T20:00:00,2025-03-17T03:00:00,femme,34,1.67,72,aguerri,beaucoup,2,2,9
+printemps,extérieur,2025-12-14T20:00:00,2025-12-15T01:00:00,homme,25,1.76,72,régulier,beaucoup,4,4,10
+hiver,extérieur,2025-04-20T21:00:00,2025-04-21T01:00:00,homme,26,1.86,88,régulier,beaucoup,3,2,11
+printemps,extérieur,2025-10-27T20:00:00,2025-10-28T02:00:00,homme,22,1.66,88,régulier,normal,5,4,11
+printemps,extérieur,2025-02-10T21:00:00,2025-02-11T05:00:00,femme,32,1.73,68,aguerri,beaucoup,3,2,8
+hiver,intérieur,2025-08-10T19:00:00,2025-08-11T03:00:00,homme,28,1.85,65,régulier,beaucoup,2,4,12
+hiver,intérieur,2025-08-27T20:00:00,2025-08-28T00:00:00,femme,35,1.88,84,régulier,normal,5,2,12
+automne,intérieur,2025-12-01T19:00:00,2025-12-02T00:00:00,femme,29,1.87,85,aguerri,beaucoup,3,4,12
+printemps,intérieur,2025-05-05T21:00:00,2025-05-06T01:00:00,femme,26,1.66,67,aguerri,normal,2,2,8
+hiver,extérieur,2025-09-01T20:00:00,2025-09-02T03:00:00,homme,21,1.87,95,aguerri,normal,5,4,11
+été,intérieur,2025-05-03T19:00:00,2025-05-04T01:00:00,homme,22,1.78,68,régulier,normal,3,2,10
+automne,extérieur,2025-06-05T19:00:00,2025-06-06T00:00:00,femme,26,1.85,76,régulier,beaucoup,2,3,9
+automne,intérieur,2025-06-14T20:00:00,2025-06-15T00:00:00,femme,29,1.87,68,aguerri,beaucoup,3,2,12
+automne,extérieur,2025-06-17T18:00:00,2025-06-18T02:00:00,femme,35,1.86,82,régulier,normal,5,2,9
+automne,extérieur,2025-04-07T21:00:00,2025-04-08T03:00:00,homme,30,1.79,82,aguerri,normal,3,2,10
+été,extérieur,2025-01-23T21:00:00,2025-01-24T05:00:00,femme,27,1.81,82,aguerri,normal,4,3,12
+automne,intérieur,2025-02-15T19:00:00,2025-02-16T00:00:00,homme,27,1.67,70,régulier,beaucoup,5,3,8
+printemps,intérieur,2025-04-07T19:00:00,2025-04-07T23:00:00,femme,35,1.78,88,aguerri,normal,4,2,10
+été,intérieur,2025-01-21T18:00:00,2025-01-22T01:00:00,homme,30,1.76,78,aguerri,normal,4,2,12
+hiver,extérieur,2025-12-24T20:00:00,2025-12-25T03:00:00,homme,21,1.74,94,régulier,normal,2,4,9
+été,extérieur,2025-04-05T20:00:00,2025-04-06T00:00:00,femme,26,1.82,66,régulier,normal,4,3,9
+printemps,extérieur,2025-11-25T18:00:00,2025-11-26T02:00:00,femme,33,1.78,73,régulier,beaucoup,5,3,12
+automne,intérieur,2025-08-26T19:00:00,2025-08-27T01:00:00,femme,21,1.78,69,aguerri,normal,3,3,8
+hiver,extérieur,2025-01-21T19:00:00,2025-01-22T00:00:00,femme,33,1.7,67,régulier,normal,3,2,10
+printemps,extérieur,2025-09-05T19:00:00,2025-09-06T03:00:00,homme,31,1.66,86,régulier,beaucoup,3,4,11
+printemps,extérieur,2025-07-15T20:00:00,2025-07-16T02:00:00,femme,29,1.69,67,aguerri,normal,3,4,9
+automne,extérieur,2025-01-27T20:00:00,2025-01-28T01:00:00,homme,35,1.79,94,aguerri,beaucoup,3,4,9
+printemps,extérieur,2025-11-15T21:00:00,2025-11-16T04:00:00,homme,22,1.78,88,régulier,normal,4,3,11
+hiver,extérieur,2025-12-15T21:00:00,2025-12-16T02:00:00,homme,21,1.66,66,aguerri,beaucoup,5,4,11
+hiver,intérieur,2025-04-23T20:00:00,2025-04-24T04:00:00,femme,27,1.74,85,régulier,normal,2,3,9
+printemps,extérieur,2025-11-08T20:00:00,2025-11-09T01:00:00,homme,24,1.84,93,aguerri,beaucoup,4,2,12
+automne,extérieur,2025-07-05T20:00:00,2025-07-06T00:00:00,femme,27,1.67,65,aguerri,normal,3,2,8
+automne,intérieur,2025-09-06T18:00:00,2025-09-06T23:00:00,homme,28,1.89,74,régulier,beaucoup,2,2,10
+hiver,extérieur,2025-07-01T19:00:00,2025-07-02T02:00:00,homme,32,1.84,77,aguerri,beaucoup,3,2,8
+été,extérieur,2025-04-20T19:00:00,2025-04-21T01:00:00,homme,31,1.71,68,aguerri,normal,2,4,10
+automne,extérieur,2025-09-19T20:00:00,2025-09-20T00:00:00,femme,22,1.73,95,régulier,beaucoup,2,4,10
+automne,intérieur,2025-10-08T20:00:00,2025-10-09T00:00:00,femme,21,1.76,71,aguerri,normal,4,4,10
+été,intérieur,2025-03-11T20:00:00,2025-03-12T01:00:00,homme,33,1.74,85,aguerri,normal,4,4,9
+printemps,intérieur,2025-12-22T19:00:00,2025-12-23T02:00:00,femme,26,1.67,92,régulier,normal,2,4,11
+hiver,extérieur,2025-03-12T18:00:00,2025-03-12T22:00:00,homme,29,1.73,89,régulier,normal,5,3,8
+hiver,extérieur,2025-01-22T18:00:00,2025-01-22T22:00:00,homme,33,1.74,84,aguerri,beaucoup,2,2,9
+hiver,intérieur,2025-02-20T20:00:00,2025-02-21T01:00:00,homme,25,1.77,85,aguerri,beaucoup,4,2,12
+printemps,extérieur,2025-07-27T20:00:00,2025-07-28T04:00:00,femme,27,1.84,93,aguerri,normal,4,2,9
+printemps,extérieur,2025-07-26T21:00:00,2025-07-27T01:00:00,homme,23,1.82,87,aguerri,normal,3,4,8
+printemps,intérieur,2025-02-25T19:00:00,2025-02-25T23:00:00,femme,33,1.75,76,régulier,normal,5,3,10
+automne,intérieur,2025-03-22T20:00:00,2025-03-23T03:00:00,homme,27,1.66,80,régulier,normal,3,4,9
+automne,intérieur,2025-01-01T21:00:00,2025-01-02T04:00:00,femme,35,1.67,84,aguerri,normal,4,3,10
+été,intérieur,2025-08-13T19:00:00,2025-08-14T03:00:00,femme,24,1.78,65,aguerri,beaucoup,4,2,10
+automne,extérieur,2025-12-01T21:00:00,2025-12-02T01:00:00,femme,20,1.81,68,régulier,normal,2,4,8
+été,intérieur,2025-06-05T18:00:00,2025-06-05T23:00:00,homme,20,1.65,87,régulier,beaucoup,4,3,8
+hiver,intérieur,2025-04-14T20:00:00,2025-04-15T03:00:00,femme,27,1.82,95,aguerri,beaucoup,5,4,9
+été,intérieur,2025-09-19T18:00:00,2025-09-20T00:00:00,homme,28,1.81,85,aguerri,beaucoup,3,4,10
+automne,extérieur,2025-10-04T19:00:00,2025-10-04T23:00:00,femme,22,1.81,76,aguerri,normal,3,4,8
+printemps,extérieur,2025-04-20T18:00:00,2025-04-21T00:00:00,femme,28,1.83,66,régulier,normal,5,4,9
+été,extérieur,2025-07-14T19:00:00,2025-07-15T03:00:00,homme,31,1.68,79,aguerri,normal,2,3,8
+hiver,intérieur,2025-05-17T20:00:00,2025-05-18T04:00:00,femme,33,1.73,90,régulier,beaucoup,3,2,12
+été,intérieur,2025-12-18T21:00:00,2025-12-19T03:00:00,femme,21,1.86,88,régulier,beaucoup,3,3,8
+automne,extérieur,2025-02-23T18:00:00,2025-02-23T22:00:00,homme,30,1.82,86,aguerri,normal,2,3,11
+hiver,intérieur,2025-01-01T18:00:00,2025-01-02T02:00:00,femme,22,1.74,84,aguerri,beaucoup,2,2,12
+hiver,intérieur,2025-03-06T18:00:00,2025-03-07T02:00:00,homme,29,1.89,77,aguerri,beaucoup,2,2,12
+automne,extérieur,2025-08-12T21:00:00,2025-08-13T03:00:00,homme,32,1.67,74,aguerri,beaucoup,2,3,10
+hiver,intérieur,2025-07-16T19:00:00,2025-07-17T03:00:00,femme,27,1.71,80,aguerri,beaucoup,4,4,10
+printemps,extérieur,2025-02-28T18:00:00,2025-03-01T01:00:00,femme,20,1.77,66,aguerri,beaucoup,4,3,11
+hiver,intérieur,2025-09-09T20:00:00,2025-09-10T02:00:00,homme,34,1.87,68,aguerri,beaucoup,5,4,10
+été,extérieur,2025-06-06T21:00:00,2025-06-07T01:00:00,homme,33,1.83,84,aguerri,normal,5,3,9
+hiver,intérieur,2025-04-23T20:00:00,2025-04-24T04:00:00,homme,26,1.81,78,aguerri,beaucoup,3,4,11
+été,extérieur,2025-10-19T20:00:00,2025-10-20T02:00:00,femme,33,1.75,90,aguerri,beaucoup,2,3,9
+été,intérieur,2025-11-10T21:00:00,2025-11-11T03:00:00,femme,31,1.85,80,aguerri,beaucoup,4,3,9
+hiver,intérieur,2025-01-03T20:00:00,2025-01-04T01:00:00,homme,33,1.66,73,aguerri,normal,2,3,12
+automne,intérieur,2025-02-05T18:00:00,2025-02-05T22:00:00,homme,25,1.77,94,régulier,normal,5,3,8
+hiver,intérieur,2025-05-23T20:00:00,2025-05-24T04:00:00,femme,32,1.77,71,aguerri,beaucoup,2,3,12
+été,intérieur,2025-10-12T21:00:00,2025-10-13T02:00:00,homme,22,1.72,65,aguerri,normal,3,4,11
+été,intérieur,2025-06-07T19:00:00,2025-06-07T23:00:00,homme,31,1.85,78,régulier,normal,4,2,11
+printemps,extérieur,2025-06-01T19:00:00,2025-06-02T02:00:00,femme,30,1.77,67,aguerri,beaucoup,2,3,11
+automne,extérieur,2025-03-24T21:00:00,2025-03-25T04:00:00,femme,21,1.74,72,aguerri,normal,5,4,8
+automne,extérieur,2025-08-12T21:00:00,2025-08-13T05:00:00,femme,26,1.78,87,aguerri,beaucoup,3,4,8
+été,extérieur,2025-09-02T21:00:00,2025-09-03T04:00:00,femme,23,1.68,77,aguerri,beaucoup,4,4,8
+automne,extérieur,2025-07-15T21:00:00,2025-07-16T04:00:00,homme,28,1.83,73,régulier,normal,4,3,12
+printemps,intérieur,2025-08-25T19:00:00,2025-08-26T02:00:00,homme,20,1.68,82,régulier,beaucoup,3,3,8
+printemps,intérieur,2025-02-06T21:00:00,2025-02-07T05:00:00,femme,32,1.74,65,régulier,normal,3,3,10
+printemps,intérieur,2025-06-12T20:00:00,2025-06-13T04:00:00,homme,20,1.86,66,aguerri,beaucoup,3,4,8
+automne,extérieur,2025-05-25T19:00:00,2025-05-26T02:00:00,homme,26,1.81,95,régulier,normal,4,4,9
+printemps,extérieur,2025-11-07T19:00:00,2025-11-08T02:00:00,homme,25,1.66,73,aguerri,normal,2,3,10
+été,extérieur,2025-03-18T20:00:00,2025-03-19T00:00:00,femme,35,1.83,82,aguerri,normal,4,4,9
+été,intérieur,2025-01-07T20:00:00,2025-01-08T00:00:00,femme,26,1.72,82,aguerri,beaucoup,2,3,12
+hiver,intérieur,2025-02-22T18:00:00,2025-02-23T02:00:00,femme,32,1.83,95,aguerri,normal,2,4,12
+printemps,extérieur,2025-03-20T18:00:00,2025-03-20T22:00:00,homme,34,1.71,84,régulier,normal,5,3,12
+hiver,extérieur,2025-08-03T20:00:00,2025-08-04T03:00:00,homme,30,1.66,71,régulier,normal,5,2,12
+automne,intérieur,2025-11-07T21:00:00,2025-11-08T02:00:00,femme,20,1.84,69,régulier,beaucoup,2,4,11
+automne,intérieur,2025-09-13T19:00:00,2025-09-14T03:00:00,femme,27,1.89,85,régulier,normal,3,2,11
+automne,intérieur,2025-04-17T19:00:00,2025-04-18T03:00:00,homme,29,1.86,83,aguerri,normal,5,3,9
+hiver,extérieur,2025-10-06T19:00:00,2025-10-06T23:00:00,homme,23,1.7,73,aguerri,beaucoup,3,3,9
+printemps,extérieur,2025-04-06T19:00:00,2025-04-06T23:00:00,homme,21,1.68,89,régulier,normal,5,3,9
+été,intérieur,2025-05-17T21:00:00,2025-05-18T04:00:00,homme,24,1.79,94,aguerri,normal,3,2,11
+printemps,extérieur,2025-08-07T18:00:00,2025-08-07T23:00:00,femme,28,1.67,84,régulier,beaucoup,2,2,11
+hiver,extérieur,2025-03-18T18:00:00,2025-03-18T23:00:00,homme,22,1.83,81,régulier,normal,4,4,9
+automne,extérieur,2025-07-18T21:00:00,2025-07-19T03:00:00,homme,33,1.69,86,régulier,normal,4,2,8
+printemps,intérieur,2025-11-26T18:00:00,2025-11-26T23:00:00,homme,24,1.9,82,aguerri,normal,5,2,9
+printemps,extérieur,2025-04-06T18:00:00,2025-04-06T22:00:00,femme,24,1.74,93,aguerri,normal,2,2,10
+automne,extérieur,2025-07-04T20:00:00,2025-07-05T02:00:00,homme,30,1.66,74,aguerri,beaucoup,4,3,11
+hiver,intérieur,2025-12-27T18:00:00,2025-12-27T22:00:00,homme,26,1.79,76,aguerri,normal,3,2,8
+hiver,extérieur,2025-05-27T21:00:00,2025-05-28T03:00:00,femme,24,1.67,85,régulier,beaucoup,3,2,11
+automne,extérieur,2025-02-05T20:00:00,2025-02-06T02:00:00,femme,21,1.69,83,régulier,normal,4,4,12
+hiver,intérieur,2025-03-05T20:00:00,2025-03-06T02:00:00,femme,35,1.67,89,régulier,beaucoup,5,3,9
+été,intérieur,2025-11-23T19:00:00,2025-11-24T02:00:00,femme,22,1.82,86,régulier,beaucoup,4,3,10
+hiver,intérieur,2025-04-08T18:00:00,2025-04-09T00:00:00,femme,29,1.76,82,régulier,beaucoup,4,4,11
+hiver,extérieur,2025-02-28T18:00:00,2025-02-28T23:00:00,femme,33,1.69,86,aguerri,beaucoup,4,4,12
+hiver,intérieur,2025-07-09T20:00:00,2025-07-10T03:00:00,femme,20,1.69,91,aguerri,beaucoup,2,2,9
+hiver,intérieur,2025-09-05T19:00:00,2025-09-06T02:00:00,homme,21,1.77,86,aguerri,beaucoup,4,3,10
+printemps,intérieur,2025-03-02T18:00:00,2025-03-02T23:00:00,femme,30,1.86,85,aguerri,beaucoup,2,2,11
+hiver,intérieur,2025-04-21T21:00:00,2025-04-22T01:00:00,homme,33,1.8,77,régulier,normal,3,2,11
+hiver,intérieur,2025-01-20T18:00:00,2025-01-20T23:00:00,homme,26,1.86,86,aguerri,normal,4,4,8
+hiver,intérieur,2025-04-01T19:00:00,2025-04-02T01:00:00,homme,21,1.72,76,régulier,beaucoup,2,4,10
+été,intérieur,2025-02-26T19:00:00,2025-02-27T03:00:00,femme,24,1.87,76,régulier,normal,3,2,8
+automne,extérieur,2025-02-18T18:00:00,2025-02-19T02:00:00,homme,20,1.87,76,régulier,beaucoup,2,2,11
+printemps,intérieur,2025-11-03T20:00:00,2025-11-04T00:00:00,homme,33,1.79,67,aguerri,beaucoup,4,4,10
+automne,intérieur,2025-04-01T19:00:00,2025-04-02T02:00:00,homme,28,1.79,84,régulier,normal,2,3,12
+hiver,extérieur,2025-07-13T19:00:00,2025-07-14T00:00:00,femme,23,1.83,67,aguerri,normal,3,3,10
+été,intérieur,2025-05-16T18:00:00,2025-05-17T01:00:00,femme,32,1.83,74,régulier,beaucoup,3,4,12
+été,intérieur,2025-09-02T19:00:00,2025-09-03T01:00:00,femme,29,1.87,82,régulier,beaucoup,4,3,11
+printemps,extérieur,2025-12-12T18:00:00,2025-12-13T00:00:00,femme,31,1.67,79,aguerri,beaucoup,4,2,9
+automne,intérieur,2025-09-07T21:00:00,2025-09-08T02:00:00,homme,32,1.69,78,aguerri,normal,3,2,11
+automne,extérieur,2025-05-10T19:00:00,2025-05-11T00:00:00,femme,35,1.76,74,régulier,beaucoup,3,3,10
+été,intérieur,2025-09-20T20:00:00,2025-09-21T02:00:00,homme,27,1.8,70,aguerri,normal,4,3,8
+hiver,extérieur,2025-12-18T18:00:00,2025-12-19T02:00:00,femme,34,1.74,90,aguerri,normal,3,4,11
+printemps,intérieur,2025-07-11T18:00:00,2025-07-11T22:00:00,femme,25,1.73,81,régulier,normal,3,3,8
+été,extérieur,2025-09-12T20:00:00,2025-09-13T03:00:00,homme,21,1.88,92,aguerri,normal,2,3,8
+hiver,intérieur,2025-08-01T19:00:00,2025-08-02T03:00:00,femme,32,1.82,72,régulier,normal,5,2,9
+été,intérieur,2025-11-27T20:00:00,2025-11-28T00:00:00,femme,33,1.74,80,aguerri,normal,5,3,8
+printemps,intérieur,2025-08-23T21:00:00,2025-08-24T03:00:00,homme,25,1.75,90,aguerri,beaucoup,2,2,10
+été,intérieur,2025-04-03T19:00:00,2025-04-04T00:00:00,homme,30,1.89,67,régulier,beaucoup,2,4,9
+été,intérieur,2025-03-14T19:00:00,2025-03-15T03:00:00,homme,29,1.84,91,régulier,normal,4,3,12
+été,extérieur,2025-08-03T21:00:00,2025-08-04T03:00:00,homme,27,1.8,90,aguerri,beaucoup,2,2,9
+hiver,extérieur,2025-01-05T20:00:00,2025-01-06T03:00:00,femme,29,1.81,87,aguerri,normal,2,4,9
+printemps,intérieur,2025-08-10T21:00:00,2025-08-11T05:00:00,homme,33,1.76,91,aguerri,beaucoup,2,4,8
+printemps,intérieur,2025-07-03T19:00:00,2025-07-03T23:00:00,homme,32,1.77,73,régulier,beaucoup,5,3,9
+été,intérieur,2025-04-07T18:00:00,2025-04-08T01:00:00,femme,25,1.73,71,aguerri,beaucoup,4,3,10
+printemps,intérieur,2025-02-26T21:00:00,2025-02-27T04:00:00,homme,24,1.73,82,régulier,normal,2,2,10
+printemps,intérieur,2025-06-13T19:00:00,2025-06-14T01:00:00,homme,24,1.82,82,aguerri,normal,3,4,11
+été,intérieur,2025-06-10T21:00:00,2025-06-11T01:00:00,femme,35,1.75,80,régulier,normal,3,3,8
+printemps,intérieur,2025-04-16T18:00:00,2025-04-16T23:00:00,femme,30,1.75,86,aguerri,normal,3,3,8
+été,extérieur,2025-05-17T20:00:00,2025-05-18T03:00:00,homme,25,1.79,75,aguerri,normal,3,2,8
+automne,extérieur,2025-05-25T21:00:00,2025-05-26T03:00:00,femme,30,1.73,78,régulier,beaucoup,2,2,12
+automne,extérieur,2025-09-02T21:00:00,2025-09-03T03:00:00,homme,33,1.76,77,régulier,normal,3,3,8
+été,intérieur,2025-11-11T21:00:00,2025-11-12T03:00:00,femme,31,1.66,88,aguerri,beaucoup,3,3,8
+automne,extérieur,2025-09-16T19:00:00,2025-09-17T00:00:00,femme,20,1.7,67,régulier,beaucoup,2,2,10
+hiver,extérieur,2025-11-25T18:00:00,2025-11-26T01:00:00,femme,29,1.67,79,aguerri,normal,4,4,12
+été,intérieur,2025-08-19T18:00:00,2025-08-20T01:00:00,homme,27,1.75,84,aguerri,beaucoup,4,3,10
+hiver,extérieur,2025-01-26T20:00:00,2025-01-27T02:00:00,femme,33,1.72,82,aguerri,normal,3,4,8
+été,intérieur,2025-01-17T18:00:00,2025-01-18T02:00:00,homme,32,1.67,84,aguerri,normal,5,4,11
+hiver,intérieur,2025-06-05T20:00:00,2025-06-06T01:00:00,femme,31,1.78,80,régulier,beaucoup,3,2,12
+hiver,intérieur,2025-08-18T21:00:00,2025-08-19T05:00:00,femme,29,1.82,91,aguerri,beaucoup,2,2,11
+automne,extérieur,2025-06-28T18:00:00,2025-06-29T00:00:00,femme,20,1.78,91,aguerri,beaucoup,2,4,12
+automne,intérieur,2025-08-27T18:00:00,2025-08-27T23:00:00,homme,28,1.72,92,aguerri,normal,2,3,11
+automne,extérieur,2025-03-06T19:00:00,2025-03-07T03:00:00,homme,28,1.86,76,aguerri,normal,2,2,11
+automne,intérieur,2025-05-11T20:00:00,2025-05-12T03:00:00,homme,22,1.65,85,aguerri,beaucoup,2,2,9
+hiver,intérieur,2025-09-06T21:00:00,2025-09-07T02:00:00,femme,35,1.84,94,aguerri,beaucoup,2,3,11
+hiver,intérieur,2025-04-18T20:00:00,2025-04-19T00:00:00,homme,32,1.85,94,régulier,normal,5,2,9
+été,intérieur,2025-03-04T18:00:00,2025-03-05T00:00:00,femme,24,1.75,69,régulier,beaucoup,4,2,12
+hiver,intérieur,2025-10-24T19:00:00,2025-10-25T03:00:00,homme,25,1.7,72,aguerri,beaucoup,3,2,9
+automne,intérieur,2025-06-16T19:00:00,2025-06-17T00:00:00,femme,27,1.67,74,régulier,beaucoup,5,2,9
+printemps,extérieur,2025-08-11T19:00:00,2025-08-12T02:00:00,homme,21,1.71,69,régulier,normal,4,4,8
+été,extérieur,2025-05-20T20:00:00,2025-05-21T01:00:00,homme,28,1.67,74,aguerri,beaucoup,3,2,12
+été,intérieur,2025-08-09T21:00:00,2025-08-10T01:00:00,homme,22,1.66,83,régulier,beaucoup,4,2,9
+printemps,intérieur,2025-02-25T21:00:00,2025-02-26T04:00:00,femme,20,1.79,95,aguerri,beaucoup,5,3,10
+hiver,intérieur,2025-01-08T19:00:00,2025-01-08T23:00:00,homme,32,1.87,91,aguerri,beaucoup,4,4,8
+automne,intérieur,2025-01-21T18:00:00,2025-01-21T22:00:00,femme,32,1.73,67,régulier,normal,2,4,9
+hiver,extérieur,2025-04-19T19:00:00,2025-04-20T01:00:00,homme,23,1.88,77,régulier,beaucoup,4,3,10
+été,intérieur,2025-12-15T20:00:00,2025-12-16T04:00:00,homme,29,1.79,80,régulier,beaucoup,4,2,8

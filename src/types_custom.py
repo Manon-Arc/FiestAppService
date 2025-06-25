@@ -27,10 +27,9 @@ class ProduitConsommation(BaseModel):
 
 class ProduitConsommationUnit(BaseModel):
     biere: int
-    bouteille_soft: int
-    pizza: int
+    bouteille_softs: int
+    pizza_entieres: int
 
 class PredictionResponse(BaseModel):
-    total: ProduitConsommation
     total_units: ProduitConsommationUnit
     par_personne: List[ProduitConsommation]

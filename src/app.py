@@ -10,9 +10,9 @@ from utils import to_units
 app = FastAPI()
 
 # Chargement des modèlesk
-model_biere, cols_biere = load("model/model_biere.joblib")
-model_soft, cols_soft = load("model/model_soft.joblib")
-model_pizza, cols_pizza = load("model/model_pizza.joblib")
+model_biere, cols_biere = load("./model/model_biere.joblib")
+model_soft, cols_soft = load("./model/model_soft.joblib")
+model_pizza, cols_pizza = load("./model/model_pizza.joblib")
 
 @app.post("/predict", response_model=PredictionResponse)
 def predict(soiree: SoireeRequest):
@@ -47,10 +47,10 @@ def predict(soiree: SoireeRequest):
 
     # (optionnel) Application du coefficient manuel sur la bière
     COEF_BOIT = {
-        "pas du tout": 0.6,
-        "peu": 0.8,
-        "normal": 1.0,
-        "beaucoup": 1.3
+        "pas du tout": 1,#0.6,
+        "peu":  1,#0.8,
+        "normal":  1,#1.0,
+        "beaucoup":  1,#1.3
     }
     for i, p in enumerate(soiree.participants):
         preds_biere[i] *= COEF_BOIT[p.boit_ce_soir]
@@ -64,11 +64,11 @@ def predict(soiree: SoireeRequest):
     par_personne = []
     for b, s, p in zip(preds_biere, preds_soft, preds_pizza):
         par_personne.append({
-            "biere": round(float(b), 2),
-            "soft": round(float(s), 2),
-            "pizza": round(float(p), 2)
+            "biere": int(b),
+            "verre_soft": int(s),
+            "part_pizza": int(p)
         })
 
     total_unit = to_units(total)
 
-    return PredictionResponse(total=total, total_units=total_unit, par_personne=par_personne)
+    return PredictionResponse(total_units=total_unit, par_personne=par_personne)
