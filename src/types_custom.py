@@ -14,7 +14,6 @@ class ProfilParticipant(BaseModel):
     taille: float
     poids: int
     conso_level: Literal["occasionnel", "régulier", "aguerri"]
-    boit_ce_soir: Literal["pas du tout", "peu", "normal", "beaucoup"]
 
 class SoireeRequest(BaseModel):
     context: ContexteSoiree
