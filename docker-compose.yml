@@ -1,0 +1,11 @@
+services:
+  fiestapp-service:
+    build: .
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    networks:
+      - proxy-network
+networks:
+  proxy-network:
+    external: true
