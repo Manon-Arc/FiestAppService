@@ -5,16 +5,16 @@ from joblib import dump
 
 np.random.seed(42)  # 🔒 REND LES TIRAGES ALÉATOIRES REPRODUCTIBLES
 
-data = pd.read_csv('./data/data_soiree_user_new.csv')
+data = pd.read_csv('./data/data_soiree_user.csv')
 
 # Préparation des données - GARDER toutes les colonnes nécessaires
-df_encoded = pd.get_dummies(data, columns=['genre', 'conso_level'])
+df_encoded = pd.get_dummies(data, columns=['biologicalGender', 'alcoholConsumption'])
 
 # Séparer les features et les targets
-X = df_encoded.drop(columns=['biere', 'verre_soft', 'part_pizza'])
-y_biere = df_encoded['biere']
-y_soft = df_encoded['verre_soft']
-y_pizza = df_encoded['part_pizza']
+X = df_encoded.drop(columns=['beer', 'softDrink', 'pizzaSlice'])
+y_biere = df_encoded['beer']
+y_soft = df_encoded['softDrink']
+y_pizza = df_encoded['pizzaSlice']
 
 print(f"Forme de X après one-hot encoding: {X.shape}")
 print(f"Colonnes dans X: {X.columns.tolist()}")

@@ -1,5 +1,6 @@
 services:
   fiestapp-service:
+    container_name: fiestapp-service
     build: .
     ports:
       - "8000:8000"

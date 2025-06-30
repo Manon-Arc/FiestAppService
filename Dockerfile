@@ -25,8 +25,5 @@ RUN adduser --disabled-password --gecos '' fiestappuser && \
     chown -R fiestappuser:fiestappuser /app
 USER fiestappuser
 
-# Exposer le port
-EXPOSE 8000
-
 # Commande par défaut
 CMD ["python", "-m", "uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]

@@ -9,25 +9,25 @@ class ContexteSoiree(BaseModel):
     heure_fin: datetime
 
 class ProfilParticipant(BaseModel):
-    genre: Literal["homme", "femme"]
+    biologicalGender: Literal["male", "female"]
     age: int
-    taille: float
-    poids: int
-    conso_level: Literal["occasionnel", "régulier", "aguerri"]
+    height: int
+    weight: int
+    alcoholConsumption: Literal["occasionally", "regularly", "seasoned"]
 
 class SoireeRequest(BaseModel):
     context: ContexteSoiree
     participants: List[ProfilParticipant]
 
 class ProduitConsommation(BaseModel):
-    biere: int
-    verre_soft: int
-    part_pizza: int
+    beer: int
+    softDrink: int
+    pizzaSlice: int
 
 class ProduitConsommationUnit(BaseModel):
-    biere: int
-    bouteille_softs: int
-    pizza_entieres: int
+    beer: int
+    softBottle: int
+    pizza: int
 
 class PredictionResponse(BaseModel):
     total_units: ProduitConsommationUnit
