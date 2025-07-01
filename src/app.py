@@ -22,7 +22,7 @@ def predict(participants: List[ProfilParticipant]):
     print("===== PROFILS DES PARTICIPANTS =====")
     for i, p in enumerate(participants):
         print(
-            f"Participant {i+1}: {p.biologicalGender}, {p.age} ans, {p.height}m, {p.weight}kg, {p.alcoholConsumption}"
+            f"Participant {i+1}: {p.gender}, {p.age} ans, {p.height}m, {p.weight}kg, {p.alcoholConsumption}"
         )
 
     # Convertir la liste de participants en DataFrame
@@ -35,7 +35,7 @@ def predict(participants: List[ProfilParticipant]):
     # Préparation des features
     def prepare_features(df, cols):
         # One-hot encoding
-        df_enc = pd.get_dummies(df, columns=["biologicalGender", "alcoholConsumption"])
+        df_enc = pd.get_dummies(df, columns=["gender", "alcoholConsumption"])
 
         print(f"Colonnes après encoding: {df_enc.columns.tolist()}")
         print(f"Colonnes attendues: {cols}")
@@ -75,7 +75,6 @@ def predict(participants: List[ProfilParticipant]):
     preds_soft = np.maximum(0, preds_soft)
     preds_pizza = np.maximum(0, preds_pizza)
 
-
     total = {
         "beer": round(float(np.sum(preds_biere)), 2),
         "soft": round(float(np.sum(preds_soft)), 2),
@@ -85,7 +84,11 @@ def predict(participants: List[ProfilParticipant]):
     par_personne = []
     for b, s, p in zip(preds_biere, preds_soft, preds_pizza):
         par_personne.append(
-            {"beer": int(round(b)), "softDrink": int(round(s)), "pizzaSlice": int(round(p))}
+            {
+                "beer": int(round(b)),
+                "softDrink": int(round(s)),
+                "pizzaSlice": int(round(p)),
+            }
         )
 
     print("===== RÉSULTATS FINAUX PAR PERSONNE =====")
