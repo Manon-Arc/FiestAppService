@@ -6,7 +6,27 @@ from typing import List
 from types_custom import PredictionResponse, ProfilParticipant
 from utils import to_units
 
-app = FastAPI()
+app = FastAPI(
+    title="FiestApp Service API",
+    description="""
+## 🍻 Party Consumption Prediction API
+
+This API uses **Machine Learning** models to predict the consumption of beer, soft drinks, and pizzas based on participant profiles.
+
+### Features
+
+- **Personalized prediction**: Based on age, gender, weight, height, and consumption habits
+- **ML models**: Random Forest
+- **Detailed results**: Per person and totals
+""",
+    version="1.0.0",
+    swagger_ui_parameters={
+        "syntaxHighlight": {"theme": "obsidian"},  # Dark and modern theme
+        "defaultModelsExpandDepth": -1,  # Hide the Models section
+        "displayRequestDuration": True,  # Show request duration
+    },
+)
+
 
 # Chargement des modèles
 model_biere, cols_biere = load("./model/model_biere.joblib")
@@ -14,8 +34,21 @@ model_soft, cols_soft = load("./model/model_soft.joblib")
 model_pizza, cols_pizza = load("./model/model_pizza.joblib")
 
 
-@app.post("/predict", response_model=PredictionResponse)
-def predict(participants: List[ProfilParticipant]):
+
+@app.post(
+    "/predict",
+    response_model=PredictionResponse,
+    summary="Predict party consumption",
+    description="""
+Predicts the consumption of beer, soft drinks, and pizza slices for a list of participants.
+
+- **Input:** A list of participant profiles (age, gender, weight, height, alcoholConsumption)
+- **Output:** Predicted consumption per participant and totals, with purchase units.
+""",
+    tags=["Prediction"],
+)
+
+def predict(participants: List[ProfilParticipant] ):
     """
     Prédit la consommation pour une liste de participants.
     """
