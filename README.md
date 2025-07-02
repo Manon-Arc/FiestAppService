@@ -7,6 +7,7 @@ Welcome to the AI service powering **FiestApp**'s smart food and drink recommend
 This repository provides a **from scratch implementation** of a **Random Forest Regressor** in Python to estimate consumption for **beer**, **soft drinks**, and **pizza** during events, based on participant profiles and event context.
 
 <img alt="Python badge" src="https://img.shields.io/badge/Language-Python-green">
+
 ---
 
 ### 📌 Table of contents:
