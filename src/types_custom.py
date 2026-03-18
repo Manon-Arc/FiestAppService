@@ -4,11 +4,11 @@ from datetime import datetime
 
 
 class ProfilParticipant(BaseModel):
-    gender: Literal["Male", "Female"]
+    gender: Literal["man", "woman"]
     age: int
     height: int
     weight: int
-    alcoholConsumption: Literal["Occasional", "Regular", "Veteran"]
+    alcoholConsumption: Literal["never", "casual", "regular", "seasoned"]
 
 
 class ProduitConsommation(BaseModel):

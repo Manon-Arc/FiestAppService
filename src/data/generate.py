@@ -14,14 +14,14 @@ def generate_realistic_profiles(n_samples=500):
 
     for _ in range(n_samples):
         # 1. Générer les caractéristiques de base du profil
-        genre = np.random.choice(["Male", "Female"])
+        genre = np.random.choice(["man", "woman"])
         age = np.random.randint(18, 55)
         conso_level = np.random.choice(
-            ["Occasional", "Regular", "Veteran"], p=[0.4, 0.4, 0.2]
+            ["never", "casual", "regular", "seasoned"], p=[0.2, 0.3, 0.3, 0.2]
         )
 
         # Taille plus réaliste selon le genre
-        if genre == "Male":
+        if genre == "man":
             taille = int(
                 round(np.random.normal(178, 7))
             )  # Distribution normale autour de 178cm
@@ -38,11 +38,15 @@ def generate_realistic_profiles(n_samples=500):
         poids = int(round(imc_base * (taille**2)))
 
         # 2. Définir une consommation de BASE selon le niveau de consommation
-        if conso_level == "Occasional":
+        if conso_level == "never":
+            base_biere = 0
+            base_soft = np.random.triangular(1, 2, 3)  # Pic autour de 2 verres de soft
+            base_pizza = np.random.triangular(1, 2, 4)  # Pic autour de 2 parts de pizza
+        elif conso_level == "casual":
             base_biere = np.random.triangular(0, 1.5, 3)  # Pic autour de 1.5
             base_soft = np.random.triangular(2, 4, 6)  # Pic autour de 4
             base_pizza = np.random.triangular(3, 4, 6)  # Pic augmenté autour de 4
-        elif conso_level == "Regular":
+        elif conso_level == "regular":
             base_biere = np.random.triangular(2, 4, 6)  # Pic autour de 4
             base_soft = np.random.triangular(1, 3, 5)  # Pic autour de 3
             base_pizza = np.random.triangular(3, 5, 8)  # Pic augmenté autour de 5
@@ -54,7 +58,7 @@ def generate_realistic_profiles(n_samples=500):
         # 3. Appliquer des MODIFICATEURS pour le réalisme
 
         # Modificateur de genre (plus précis)
-        if genre == "Female":
+        if genre == "woman":
             coef_genre = np.random.triangular(
                 0.6, 0.8, 1.0
             )  # Réduction plus nuancée pour les femmes
@@ -75,7 +79,7 @@ def generate_realistic_profiles(n_samples=500):
         base_pizza *= facteur_corpulence
 
         # Modificateur d'âge (plus nuancé)
-        if genre == "Male":
+        if genre == "man":
             if age < 25:
                 age_factor_biere = 0.9  # Jeunes hommes
             elif age < 35:
@@ -84,7 +88,7 @@ def generate_realistic_profiles(n_samples=500):
                 age_factor_biere = 1.2  # Hommes d'âge moyen (pic de consommation)
             else:
                 age_factor_biere = 1.1  # Hommes plus âgés
-        else:  # femme
+        else:  # woman
             if age < 25:
                 age_factor_biere = 0.9  # Jeunes femmes
             elif age < 30:
@@ -96,7 +100,7 @@ def generate_realistic_profiles(n_samples=500):
 
         # Les plus jeunes mangent légèrement plus de pizza
         if age < 25:
-            base_pizza *= 1.1
+            base_pizza *= 1.2
 
         # 4. Finaliser les valeurs avec une variation réaliste
         # Variation proportionnelle à la valeur de base
@@ -172,17 +176,17 @@ if __name__ == "__main__":
     print(nouveaux_profils_df.describe().round(2))
 
     # Afficher des exemples de segments spécifiques
-    male_aguerri = nouveaux_profils_df[
-        (nouveaux_profils_df["gender"] == "Male")
-        & (nouveaux_profils_df["alcoholConsumption"] == "Veteran")
+    man_seasoned = nouveaux_profils_df[
+        (nouveaux_profils_df["gender"] == "man")
+        & (nouveaux_profils_df["alcoholConsumption"] == "seasoned")
     ]
-    print("\nHomme aguerri (moyenne de bière) :", male_aguerri["beer"].mean().round(2))
+    print("\nHomme chevronné (moyenne de bière) :", man_seasoned["beer"].mean().round(2))
 
-    female_occasionnel = nouveaux_profils_df[
-        (nouveaux_profils_df["gender"] == "Female")
-        & (nouveaux_profils_df["alcoholConsumption"] == "Occasional")
+    woman_casual = nouveaux_profils_df[
+        (nouveaux_profils_df["gender"] == "woman")
+        & (nouveaux_profils_df["alcoholConsumption"] == "casual")
     ]
     print(
         "Femme occasionnelle (moyenne de bière) :",
-        female_occasionnel["beer"].mean().round(2),
+        woman_casual["beer"].mean().round(2),
     )

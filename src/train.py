@@ -3,7 +3,7 @@ import numpy as np
 from model import RandomForestRegressor
 from joblib import dump
 
-np.random.seed(42)  # 🔒 REND LES TIRAGES ALÉATOIRES REPRODUCTIBLES
+np.random.seed(35)  # 🔒 REND LES TIRAGES ALÉATOIRES REPRODUCTIBLES
 
 data = pd.read_csv("./data/data_soiree_user.csv")
 
@@ -22,13 +22,9 @@ print(f"Nombre de caractéristiques: {X.shape[1]}")
 
 # Vérifier les statistiques des targets
 print(f"\nStatistiques des targets:")
-print(
-    f"Bière - Min: {y_biere.min()}, Max: {y_biere.max()}, Moyenne: {y_biere.mean():.2f}"
-)
+print( f"Bière - Min: {y_biere.min()}, Max: {y_biere.max()}, Moyenne: {y_biere.mean():.2f}")
 print(f"Soft - Min: {y_soft.min()}, Max: {y_soft.max()}, Moyenne: {y_soft.mean():.2f}")
-print(
-    f"Pizza - Min: {y_pizza.min()}, Max: {y_pizza.max()}, Moyenne: {y_pizza.mean():.2f}"
-)
+print(f"Pizza - Min: {y_pizza.min()}, Max: {y_pizza.max()}, Moyenne: {y_pizza.mean():.2f}")
 
 # Entraînement avec des paramètres plus robustes
 model_biere = RandomForestRegressor(n_estimators=100, max_depth=8, min_samples=5)
@@ -50,6 +46,8 @@ print(f"Bière - Prédictions: {y_pred_biere[:5]}")
 print(f"Bière - Vraies valeurs: {y_biere.to_numpy()[:5]}")
 print(f"Soft - Prédictions: {y_pred_soft[:5]}")
 print(f"Soft - Vraies valeurs: {y_soft.to_numpy()[:5]}")
+print(f"Pizza - Prédictions: {y_pred_pizza[:5]}")
+print(f"Pizza - Vraies valeurs: {y_pizza.to_numpy()[:5]}")
 
 # Sauvegarde des modèles et colonnes
 dump((model_biere, X.columns.tolist()), "./model/model_biere.joblib")
