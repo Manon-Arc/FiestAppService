@@ -1,11 +1,22 @@
 import pandas as pd
 import numpy as np
-from model import RandomForestRegressor
+import os
 from joblib import dump
+
+# Absolute imports based on the top-level 'src' directory
+from train.model import RandomForestRegressor
+
+# Chemins dynamiques basés sur le fichier courant (src/train/train.py)
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(CURRENT_DIR, "data", "data_soiree_user.csv")
+MODEL_DIR = os.path.join(os.path.dirname(CURRENT_DIR), "shared", "model")
+
+# Créer le répertoire de destination s'il n'existe pas
+os.makedirs(MODEL_DIR, exist_ok=True)
 
 np.random.seed(35)  # 🔒 REND LES TIRAGES ALÉATOIRES REPRODUCTIBLES
 
-data = pd.read_csv("./data/data_soiree_user.csv")
+data = pd.read_csv(DATA_PATH)
 
 # Préparation des données - GARDER toutes les colonnes nécessaires
 df_encoded = pd.get_dummies(data, columns=["gender", "alcoholConsumption"])
@@ -22,9 +33,13 @@ print(f"Nombre de caractéristiques: {X.shape[1]}")
 
 # Vérifier les statistiques des targets
 print(f"\nStatistiques des targets:")
-print( f"Bière - Min: {y_biere.min()}, Max: {y_biere.max()}, Moyenne: {y_biere.mean():.2f}")
+print(
+    f"Bière - Min: {y_biere.min()}, Max: {y_biere.max()}, Moyenne: {y_biere.mean():.2f}"
+)
 print(f"Soft - Min: {y_soft.min()}, Max: {y_soft.max()}, Moyenne: {y_soft.mean():.2f}")
-print(f"Pizza - Min: {y_pizza.min()}, Max: {y_pizza.max()}, Moyenne: {y_pizza.mean():.2f}")
+print(
+    f"Pizza - Min: {y_pizza.min()}, Max: {y_pizza.max()}, Moyenne: {y_pizza.mean():.2f}"
+)
 
 # Entraînement avec des paramètres plus robustes
 model_biere = RandomForestRegressor(n_estimators=100, max_depth=8, min_samples=5)
@@ -50,8 +65,8 @@ print(f"Pizza - Prédictions: {y_pred_pizza[:5]}")
 print(f"Pizza - Vraies valeurs: {y_pizza.to_numpy()[:5]}")
 
 # Sauvegarde des modèles et colonnes
-dump((model_biere, X.columns.tolist()), "./model/model_biere.joblib")
-dump((model_soft, X.columns.tolist()), "./model/model_soft.joblib")
-dump((model_pizza, X.columns.tolist()), "./model/model_pizza.joblib")
+dump((model_biere, X.columns.tolist()), os.path.join(MODEL_DIR, "model_biere.joblib"))
+dump((model_soft, X.columns.tolist()), os.path.join(MODEL_DIR, "model_soft.joblib"))
+dump((model_pizza, X.columns.tolist()), os.path.join(MODEL_DIR, "model_pizza.joblib"))
 
 print("Modèles entraînés et sauvegardés avec succès!")

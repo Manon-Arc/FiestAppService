@@ -1,13 +1,17 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from typing import Literal, List
 from datetime import datetime
 
 
 class ProfilParticipant(BaseModel):
     gender: Literal["man", "woman"]
-    age: int
-    height: int
-    weight: int
+    age: int = Field(..., gt=0, description="The age must be greater than 0")
+    height: int = Field(
+        ..., gt=0, description="The height (in centimeters) must be greater than 0"
+    )
+    weight: int = Field(
+        ..., gt=0, description="The weight (in grammes) must be greater than 0"
+    )
     alcoholConsumption: Literal["never", "casual", "regular", "seasoned"]
 
 

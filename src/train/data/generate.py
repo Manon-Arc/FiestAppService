@@ -35,7 +35,8 @@ def generate_realistic_profiles(n_samples=500):
         # Poids corrélé à la taille (basé sur un IMC moyen)
         imc_base = np.random.normal(24, 3)  # IMC moyen avec variation
         imc_base = max(18.5, min(35, imc_base))  # Limiter à des valeurs réalistes
-        poids = int(round(imc_base * (taille**2)))
+        # Calcul du poids en grammes : IMC * (taille_en_metres)² * 1000
+        poids = int(round(imc_base * ((taille / 100) ** 2) * 1000))
 
         # 2. Définir une consommation de BASE selon le niveau de consommation
         if conso_level == "never":
@@ -66,7 +67,7 @@ def generate_realistic_profiles(n_samples=500):
             base_soft *= 2 - coef_genre  # Compensation inversée pour les softs
 
         # Modificateur de corpulence (basé sur l'IMC plutôt que le poids brut)
-        imc = poids / (taille**2)
+        imc = (poids / 1000) / ((taille / 100) ** 2)
         if imc < 20:  # Personne mince
             facteur_corpulence = 0.9
         elif imc < 25:  # Corpulence normale
@@ -180,7 +181,9 @@ if __name__ == "__main__":
         (nouveaux_profils_df["gender"] == "man")
         & (nouveaux_profils_df["alcoholConsumption"] == "seasoned")
     ]
-    print("\nHomme chevronné (moyenne de bière) :", man_seasoned["beer"].mean().round(2))
+    print(
+        "\nHomme chevronné (moyenne de bière) :", man_seasoned["beer"].mean().round(2)
+    )
 
     woman_casual = nouveaux_profils_df[
         (nouveaux_profils_df["gender"] == "woman")

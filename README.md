@@ -1,8 +1,7 @@
 
 # <img src="./assets/images/appicon.png" width="40" style="vertical-align: middle; border-radius: 10px"/> AI Recommendation Service – Drink & Food Predictor
 
-Project by [__ARCAS__ Manon](https://github.com/Manon-Arc), [__MACE__ Léo](https://github.com/LeoMa33), [__DE AMEZAGA__ Bastien](https://github.com/Bastien-DA) and [__BARBOTEAU__ Mathieu](https://github.com/Kilecon)
-
+Project by [__ARCAS__ Manon](https://github.com/Manon-Arc) and [__MACE__ Léo](https://github.com/LeoMa33)
 Welcome to the AI service powering **FiestApp**'s smart food and drink recommendations.  
 This repository provides a **from scratch implementation** of a **Random Forest Regressor** in Python to estimate consumption for **beer**, **soft drinks**, and **pizza** during events, based on participant profiles and event context.
 
@@ -62,11 +61,11 @@ The model recommends quantities:
 
 ```python
 class ProfilParticipant(BaseModel):
-    gender: Literal["Male", "Female"]
+    gender: Literal["man", "woman"]
     age: int
     height: int
     weight: int
-    alcoholConsumption: Literal["Occasional", "Regular", "Veteran"]
+    alcoholConsumption: Literal["never", "casual", "regular", "seasoned"]
 ```
 
 Transformed into features with `pandas.get_dummies()`.
@@ -120,30 +119,34 @@ model_biere.fit(X.to_numpy(), y_biere.to_numpy())
 
 ### 📁 Project Structure
 
-```
+```text
 src/
-├── app.py                    ← FastAPI application & prediction endpoint
-├── model.py                  ← DecisionTree & RandomForest implementation
-├── train.py                  ← Training script
-├── types_custom.py           ← Pydantic models for API
-├── utils.py                  ← Utility functions (unit conversion)
-├── data/
-│   ├── data_soiree_user.csv  ← Training dataset
-│   └── generate.py           ← Data generation script
-└── model/
-    ├── model_biere.joblib    ← Trained model: beer
-    ├── model_soft.joblib     ← Trained model: soft drinks
-    └── model_pizza.joblib    ← Trained model: pizza
+├── api/
+│   ├── app.py                     ← FastAPI application & error handling
+│   ├── Dtos.py                    ← Pydantic models for API inputs/outputs
+│   └── services/
+│       ├── model_loader.py        ← Loading shared models
+│       ├── prediction_service.py  ← Data normalization and prediction engine
+│       └── utils.py               ← Utility functions (unit conversion)
+├── shared/
+│   └── model/
+│       ├── model_biere.joblib     ← Trained model: beer
+│       ├── model_soft.joblib      ← Trained model: soft drinks
+│       └── model_pizza.joblib     ← Trained model: pizza
+└── train/
+    ├── train.py                   ← Training script
+    ├── model.py                   ← DecisionTree & RandomForest implementation
+    └── data/
+        ├── generate.py            ← Data generation script
+        └── data_soiree_user.csv   ← Training dataset
 
-docker-compose.yml            ← Docker Compose configuration
-Dockerfile                    ← Docker image configuration
-requirements.txt              ← Python dependencies
+docker-compose.yml                 ← Docker Compose configuration
+Dockerfile                         ← Docker image configuration
+requirements.txt                   ← Python dependencies
 ```
 
 
 ### 📥 Install the project
-
-*The service is already available at https://fiestapp-service.mizury.fr*
 
 #### 🐳 Docker Installation (Recommended)
 
@@ -200,18 +203,25 @@ docker-compose up --build -d
    pip install -r requirements.txt
    ```
 
-3. **Train models (optional if already trained)**
+3. **Generate data file**
+
    ```bash
    cd src
-   python train.py
+   python -m train.data.generate 
    ```
-4. **Run the FastAPI server**
+
+4. **Train models (optional if already trained)**
+   ```bash
+   cd src
+   python -m train.train    
+   ```
+5. **Run the FastAPI server**
    ```bash
    cd src
    python -m uvicorn app:app --host 0.0.0.0 --port 8000 --reload
    ```
 
-5. **Access the service**
+6. **Access the service**
    - API available at: `http://localhost:8000`
    - API documentation: `http://localhost:8000/docs`
 
@@ -223,11 +233,11 @@ curl -X POST "http://localhost:8000/predict" \
      -H "Content-Type: application/json" \
      -d '[
             {
-                "gender": "Male",
+                "gender": "man",
                 "age": 0,
                 "height": 0,
                 "weight": 0,
-                "alcoholConsumption": "Occasional"
+                "alcoholConsumption": "casual"
             }
         ]'
 ```
