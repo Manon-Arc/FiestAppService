@@ -29,7 +29,7 @@ VII. [Installation](#📥-install-the-project)
 
 ### 💡 About the project :
 
-This AI module is integrated into **[FiestApp](https://github.com/Bastien-DA/FiestApp.git)** to provide smart and automatic estimation of party resources. Built without any ML libraries like `scikit-learn`, it demonstrates how to implement:
+This AI module is integrated into **[FiestApp](https://github.com/LeoMa33/FiestApp_App)** to provide smart and automatic estimation of party resources. Built without any ML libraries like `scikit-learn`, it demonstrates how to implement:
 
 - A full Random Forest Regressor manually
 - Prediction pipeline using dataclasses and JSON input

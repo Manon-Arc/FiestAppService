@@ -3,7 +3,7 @@ name: CI Build and Push Microservice (Tagged)
 permissions:
   contents: write
   packages: write
-  
+
 on:
     push:
         tags:
@@ -34,21 +34,21 @@ jobs:
                   push: true
                   # On push DEUX tags : le numéro de version ET 'latest'
                   tags: |
-                      ${{ secrets.REGISTRY_URL }}/microservice:${{ steps.vars.outputs.tag }}
-                      ${{ secrets.REGISTRY_URL }}/microservice:latest
+                      ${{ secrets.REGISTRY_URL }}/fiestapp-service:${{ steps.vars.outputs.tag }}
+                      ${{ secrets.REGISTRY_URL }}/fiestapp-service:latest
 
             - name: Create Image Info File
               run: |
                   echo "### 🐳 Docker Image Information" > docker-info.txt
                   echo "Registry: registry.mizury.fr" >> docker-info.txt
-                  echo "Repository: microservice" >> docker-info.txt
+                  echo "Repository: fiestapp-service" >> docker-info.txt
                   echo "Tag: ${{ steps.vars.outputs.tag }}" >> docker-info.txt
                   echo "" >> docker-info.txt
                   echo "### 🚀 How to pull this version:" >> docker-info.txt
                   echo "docker login registry.mizury.fr" >> docker-info.txt
-                  echo "docker pull registry.mizury.fr/microservice:${{ steps.vars.outputs.tag }}" >> docker-info.txt
+                  echo "docker pull registry.mizury.fr/fiestapp-service:${{ steps.vars.outputs.tag }}" >> docker-info.txt
                   echo "" >> docker-info.txt
-                  echo "Image Digest: $(docker inspect --format='{{index .RepoDigests 0}}' registry.mizury.fr/microservice:${{ steps.vars.outputs.tag }})" >> docker-info.txt
+                  echo "Image Digest: $(docker inspect --format='{{index .RepoDigests 0}}' registry.mizury.fr/fiestapp-service:${{ steps.vars.outputs.tag }})" >> docker-info.txt
 
             - name: Create GitHub Release
               id: create_release
@@ -61,7 +61,7 @@ jobs:
 
                       **Pull command:**
                       ```bash
-                      docker pull registry.mizury.fr/microservice:${{ steps.vars.outputs.tag }}
+                      docker pull registry.mizury.fr/fiestapp-service:${{ steps.vars.outputs.tag }}
                       ```
                   generate_release_notes: true
                   # On joint le petit fichier info au cas où
@@ -77,7 +77,7 @@ jobs:
                     -X POST -d '{
                       "username": "Mizu Registry",
                       "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-                      "content": "🚀 **Microservice Build Success!**\n\n**Tag:** `${{ steps.vars.outputs.tag }}`\n**Image:** `registry.mizury.fr/microservice:${{ steps.vars.outputs.tag }}`\n\n🔗 [Voir la Release](${{ steps.create_release.outputs.url }})"
+                      "content": "🚀 **AI Fiestapp Microservice Build Success!**\n\n**Tag:** `${{ steps.vars.outputs.tag }}`\n**Image:** `registry.mizury.fr/fiestapp-service:${{ steps.vars.outputs.tag }}`\n\n🔗 [Voir la Release](${{ steps.create_release.outputs.url }})"
                     }' ${{ secrets.DISCORD_WEBHOOK }}
 
             # --- NOTIFICATION DISCORD ÉCHEC ---
@@ -88,5 +88,5 @@ jobs:
                     -X POST -d '{
                       "username": "Mizu Registry Error",
                       "avatar_url": "https://cdn-icons-png.flaticon.com/512/595/595067.png",
-                      "content": "❌ **Échec critique du Build !**\n\n**Service :** `Microservice`\n**Tag tenté :** `${{ steps.vars.outputs.tag }}`\n**Commit :** `${{ github.sha }}`\n\n⚠️ Le push vers le registry a échoué. Vérifiez les logs :\n🔗 [Voir les Logs GitHub Actions](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})"
+                      "content": "❌ **Échec critique du Build !**\n\n**Service :** `AI Fiestapp Microservice`\n**Tag tenté :** `${{ steps.vars.outputs.tag }}`\n**Commit :** `${{ github.sha }}`\n\n⚠️ Le push vers le registry a échoué. Vérifiez les logs :\n🔗 [Voir les Logs GitHub Actions](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})"
                     }' ${{ secrets.DISCORD_WEBHOOK }}
