@@ -1,0 +1,88 @@
+name: CI Build and Push Microservice (Tagged)
+
+on:
+    push:
+        tags:
+            - "v*"
+
+jobs:
+    build-and-push:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Get tag name
+              id: vars
+              run: echo "tag=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+
+            - name: Login to Private Registry
+              uses: docker/login-action@v3
+              with:
+                  registry: ${{ secrets.REGISTRY_URL }}
+                  username: ${{ secrets.REGISTRY_USER }}
+                  password: ${{ secrets.REGISTRY_PASSWORD }}
+
+            - name: Build and Push
+              uses: docker/build-push-action@v5
+              with:
+                  context: .
+                  push: true
+                  # On push DEUX tags : le numéro de version ET 'latest'
+                  tags: |
+                      ${{ secrets.REGISTRY_URL }}/microservice:${{ steps.vars.outputs.tag }}
+                      ${{ secrets.REGISTRY_URL }}/microservice:latest
+
+            - name: Create Image Info File
+              run: |
+                  echo "### 🐳 Docker Image Information" > docker-info.txt
+                  echo "Registry: registry.mizury.fr" >> docker-info.txt
+                  echo "Repository: microservice" >> docker-info.txt
+                  echo "Tag: ${{ steps.vars.outputs.tag }}" >> docker-info.txt
+                  echo "" >> docker-info.txt
+                  echo "### 🚀 How to pull this version:" >> docker-info.txt
+                  echo "docker login registry.mizury.fr" >> docker-info.txt
+                  echo "docker pull registry.mizury.fr/microservice:${{ steps.vars.outputs.tag }}" >> docker-info.txt
+                  echo "" >> docker-info.txt
+                  echo "Image Digest: $(docker inspect --format='{{index .RepoDigests 0}}' registry.mizury.fr/microservice:${{ steps.vars.outputs.tag }})" >> docker-info.txt
+
+            - name: Create GitHub Release
+              id: create_release
+              uses: softprops/action-gh-release@v2
+              with:
+                  name: Release ${{ steps.vars.outputs.tag }}
+                  body: |
+                      ## 📦 Docker Image Available
+                      An official image for this release has been pushed to the private registry.
+
+                      **Pull command:**
+                      ```bash
+                      docker pull registry.mizury.fr/microservice:${{ steps.vars.outputs.tag }}
+                      ```
+                  generate_release_notes: true
+                  # On joint le petit fichier info au cas où
+                  files: |
+                      docker-info.txt
+                  draft: false
+                  prerelease: false
+
+            - name: 🔔 Discord Success
+              if: success()
+              run: |
+                  curl -H "Content-Type: application/json" \
+                    -X POST -d '{
+                      "username": "Mizu Registry",
+                      "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+                      "content": "🚀 **Microservice Build Success!**\n\n**Tag:** `${{ steps.vars.outputs.tag }}`\n**Image:** `registry.mizury.fr/microservice:${{ steps.vars.outputs.tag }}`\n\n🔗 [Voir la Release](${{ steps.create_release.outputs.url }})"
+                    }' ${{ secrets.DISCORD_WEBHOOK }}
+
+            # --- NOTIFICATION DISCORD ÉCHEC ---
+            - name: 🚨 Discord Failure
+              if: failure()
+              run: |
+                  curl -H "Content-Type: application/json" \
+                    -X POST -d '{
+                      "username": "Mizu Registry Error",
+                      "avatar_url": "https://cdn-icons-png.flaticon.com/512/595/595067.png",
+                      "content": "❌ **Échec critique du Build !**\n\n**Service :** `Microservice`\n**Tag tenté :** `${{ steps.vars.outputs.tag }}`\n**Commit :** `${{ github.sha }}`\n\n⚠️ Le push vers le registry a échoué. Vérifiez les logs :\n🔗 [Voir les Logs GitHub Actions](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})"
+                    }' ${{ secrets.DISCORD_WEBHOOK }}
