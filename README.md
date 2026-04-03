@@ -243,5 +243,5 @@ curl -X POST "http://localhost:8000/predict" \
 ```
 ---
 
-> Developed with ❤️ for the **[FiestApp](https://github.com/Bastien-DA/FiestApp.git)** ecosystem.  
+> Developed with ❤️ for the **[FiestApp](https://github.com/LeoMa33/FiestApp_App.git)** ecosystem.  
 
