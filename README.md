@@ -218,7 +218,7 @@ docker-compose up --build -d
 5. **Run the FastAPI server**
    ```bash
    cd src
-   python -m uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+   python -m uvicorn api.app:app --host 0.0.0.0 --port 8000 --reload
    ```
 
 6. **Access the service**
